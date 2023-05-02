@@ -2,23 +2,23 @@
 
 ## Kim jestem?
 
-#### Role:
+### Role:
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
 + badacz, [researcher](http://www.researcher.pl)
 + programista, administrator, DevOps, [platform engineer](http://www.platformengineer.pl)
 
-#### Tematy:
+### Tematy:
 + [modularyzacja](http://www.entuzjasta.pl)
 + [automatyzacja](http://www..pl)
 + [bezpieczeństwo](http://www..pl)
 
-#### Ślad węglowy:
+### Ślad węglowy:
 + do 2013 Polska
 + do 2023 Niemcy
 + ...
 
 
-#### Cel prezentacji
+### Cel prezentacji
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
@@ -36,7 +36,7 @@ Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzy�
 + Dostosowalność, Customization
 
 
-#### Plan prezentacji:
+### Plan prezentacji:
 
 #### 1. Wprowadzenie do hipermodularyzacji
 #### 2. Zadawanie właściwych pytań
