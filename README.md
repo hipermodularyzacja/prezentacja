@@ -147,19 +147,19 @@ Na podstawie [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/pora
 Metoda, technika, procedura badawcza
 
 
-#### Badania naukowe
+#### [Badania naukowe](https://pl.wikipedia.org/wiki/Badania naukowe)
 
 + Służą osiągnięciu postępu wiedzy naukowej, ustaleniu nowych twierdzeń naukowych, tez, aksjomatów, uogólnień i definicji
 + Badanie naukowe rozpoczyna się od ustalenia tematu jako problemu naukowego. Na tym etapie ustalany jest problem naukowy i formułowany jako temat badania.
 
 
-#### Problem naukowy
+#### [Problem naukowy](https://pl.wikipedia.org/wiki/Problem naukowy)
 
 + pytanie: **Co?**
 + Problem naukowy nie musi być w każdym przypadku sprecyzowany dokładnie i niewzruszony.
 
 
-#### Hipoteza
+#### [Hipoteza](https://pl.wikipedia.org/wiki/Hipoteza)
 
 + pytanie: **Dlaczego?**
 + hipoteza to założenie, na podstawie którego zadajemy sobie pytanie: dlaczego zjawisko, fakt czy proces jest możliwe?
@@ -167,12 +167,12 @@ Metoda, technika, procedura badawcza
 + Stawianie i testowanie hipotez to jeden z podstawowych procesów twórczego myślenia oraz fundamentalny element procesu tworzenia nauki. 
 
 
-#### Technika
+#### [Technika](https://pl.wikipedia.org/wiki/Technika)
 
 to [sposób]() realizacji [metod]() przy respektowaniu [dyrektyw]() biorąc pod uwagę warunki środowiskowe
 
 
-#### Dyrektywa, wytyczna, rozporządzenie
+#### [Dyrektywa](https://pl.wikipedia.org/wiki/Dyrektywa), wytyczna, rozporządzenie
 
 rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działania; wytyczna, zalecenie, nakaz:
 
