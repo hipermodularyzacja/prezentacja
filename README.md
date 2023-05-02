@@ -98,6 +98,7 @@ to [sposób]() gromadzenia materiału według ściśle opracowanych [dyrektyw]()
 
 
 #### Dyrektywa, wytyczna
+
 rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działania; wytyczna, zalecenie, nakaz
 + czego nie wolno
 + jak wolno
@@ -215,7 +216,7 @@ Paradygmat deklaratywny
 + bez szczegółów implementacji, 
 + ważny jest dla nas wynik
 
-
+https://codenga.pl/artykuly/poradniki/programowanie-imperatywne-oraz-deklaratywne
 
 #### Podsumowanie
 
@@ -589,8 +590,10 @@ Galeria Przykładów modularyzacji
 
 + [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
 
++ [programowanie deklaratywne i imperatywne](https://codenga.pl/artykuly/poradniki/programowanie-imperatywne-oraz-deklaratywne)
 
-[IMMUSEC | Metodologia, metodyka, metoda, sposób, procedura – wyjaśnienie zawiłości językowych](https://www.immusec.com/metodologia-metodyka-metoda-sposob-procedura-wyjasnienie-zawilosci-jezykowych/)
+
++ [IMMUSEC Metodologia, metodyka, metoda, sposób, procedura – wyjaśnienie zawiłości językowych](https://www.immusec.com/metodologia-metodyka-metoda-sposob-procedura-wyjasnienie-zawilosci-jezykowych/)
 
 Metodologia – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567697/metodologia
 
