@@ -38,11 +38,11 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 Na podstawie [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
 
-Metoda to [sposób] postępowania mający prowadzić do osiągnięcia zamierzonego celu.
+Metoda to [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu.
 
-Metodyka to [zbiór] zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego celu.
+Metodyka to [zbiór]() zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego celu.
 
-Metodologia to [nauka] o metodach badań naukowych i o sposobach przeprowadzania analiz oraz oceniania wartości poznawczej poszczególnych dyscyplin naukowych.
+Metodologia to [nauka]() o metodach badań naukowych i o sposobach przeprowadzania analiz oraz oceniania wartości poznawczej poszczególnych dyscyplin naukowych.
  
 
 [Metodyka](https://pl.wikipedia.org/wiki/Metodyka)
