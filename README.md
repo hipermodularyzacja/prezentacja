@@ -24,26 +24,32 @@ Część tej prezentacji powstała w ostatnim tygodniu, przy pomocy chatGPT 3.5,
 Ta prezentacja jest pdsumowaniem wieloletnich prac badawaczych nad drogą dotarcia do automatyzacji.
 Badałem specyfikę i naturę metod, które sprawdzają się w różnych branżach i zastosowaniach.
 
+
 ## Polecane książki
 
 + [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
 + [hipermodularyzacja -  w trakcie pisania]
 
-## Nagroda 
+
+## Nagroda
 
 Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
 
 
-## Zasady, Metody
+
+
+## Teoria
+
+Problem, Rozwiązanie, Hipoteza, Procedura, Proces, Technika, Dyrektywa, Metoda, Metodyka, Metodologia
 
 Na podstawie [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
-
-
 Metoda, technika, procedura badawcza
 
 ### problem badawczy
 
+
 ### hipoteza
+
 
 ### Procedura to [sposób]()
 
@@ -59,7 +65,9 @@ Proces badawczy jako świadoma, celowa zmierzona czynność powinna się kierowa
 ### Dyrektywa, wytyczna
 
 
-### Metoda to [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. To powtarzalny sposób rozwiązywania problemu.
+### [Metoda](https://pl.wikipedia.org/wiki/Metoda)  
+
+to [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. To powtarzalny sposób rozwiązywania [problemu]().
 
 Przykłady: 
 + Eksperyment
@@ -70,31 +78,35 @@ Przykłady:
 ### Narzędzia to [sposób]()
 
 
-### Metodyka to [zbiór]() zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego celu.
+### [Metodyka](https://pl.wikipedia.org/wiki/Metodyka) 
+
+to [zbiór]() zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego [celu]().
+
 + Jak to należy robić?
-+ kieruje się ku praktyce wykonawczej
++ kieruje się ku praktyce wykonawczej, skupia się na metodach realizacji zadań
 + pojedyncza metodyka będzie gromadziła metody lub techniki
 Przykłady: 
 + Metodyki zarządzania projektami: PRINCE2 lub TenStep. 
 
-### Metodologia to [nauka]() o metodach badań naukowych i o sposobach przeprowadzania analiz oraz oceniania wartości poznawczej poszczególnych dyscyplin naukowych.
+
+### [Metodologia](https://pl.wikipedia.org/wiki/Metodologia) 
+
+to [nauka]() o metodach badań naukowych i o sposobach przeprowadzania analiz oraz oceniania wartości poznawczej poszczególnych [dyscyplin naukowych]().
+
 + Co należy robić?
 + kieruje się ku teorii usprawniania
 Przykłady: 
 + Agile - metodologia prowadzenia projektów zwinnych.
 
-[Metodyka](https://pl.wikipedia.org/wiki/Metodyka)
+
 
 ```
 zbiór metod, ustandaryzowane dla wybranego obszaru podejście do rozwiązywania problemów. 
-Metodyka abstrahuje od merytorycznego kontekstu danego obszaru, a skupia się na metodach realizacji zadań, szczególnie metodach zarządzania.
+Metodyka abstrahuje od merytorycznego kontekstu danego obszaru, a, szczególnie metodach zarządzania.
 ```
 
-[Metodologia](https://pl.wikipedia.org/wiki/Metodologia)
 
-```
-W odróżnieniu od metodologii, która się skupia na odpowiedzi na pytanie , metodyka koncentruje się na poszukiwaniu odpowiedzi na pytanie Bardziej kieruje się ku praktyce wykonawczej, a metodologia ku teorii zazwyczaj sprawnego działania. Przykładem jest 
-```
+
 
 ### Podsumowanie
 
