@@ -1,6 +1,6 @@
 # prezentacja.hipermodularyzacja.pl
 
-## Kim jestem
+## Kim jestem?
 
 #### Role:
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
@@ -12,12 +12,13 @@
 + [automatyzacja](http://www..pl)
 + [bezpieczeństwo](http://www..pl)
 
-#### Ślad węglowy
+#### Ślad węglowy:
 + do 2013 Polska
 + do 2023 Niemcy
 + ...
 
-## Plan prezentacji
+
+## Plan prezentacji:
 
 #### 1. Wprowadzenie do hipermodularyzacji
 #### 2. Zadawanie właściwych pytań
@@ -39,7 +40,7 @@ Ta prezentacja jest pdsumowaniem wieloletnich prac badawaczych nad drogą dotarc
 Badałem specyfikę i naturę metod, które sprawdzają się w różnych branżach i zastosowaniach.
 
 
-## Polecane książki
+## Jakie książki polecam?
 
 + [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
 + [hipermodularyzacja -  w trakcie pisania]
@@ -50,30 +51,60 @@ Badałem specyfikę i naturę metod, które sprawdzają się w różnych branża
 Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
 
 
-
-
 ## Teoria
+
+Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
++ Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
++ Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
++ Hipermodularyzacja zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
+
+Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
++ Elastyczność, Flexibility
++ Reużywalność, Reusability
++ Skalowalność, Scalability
++ Zwinność, Agility
++ Odporność, Resilience
++ Dostosowalność, Customization
+
 
 Problem, Rozwiązanie, Hipoteza, Procedura, Proces, Technika, Dyrektywa, Metoda, Metodyka, Metodologia
 
 Na podstawie [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
 Metoda, technika, procedura badawcza
 
-#### problem badawczy
+
+#### Badania naukowe
+
++ Służą osiągnięciu postępu wiedzy naukowej, ustaleniu nowych twierdzeń naukowych, tez, aksjomatów, uogólnień i definicji
++ Badanie naukowe rozpoczyna się od ustalenia tematu jako problemu naukowego. Na tym etapie ustalany jest problem naukowy i formułowany jako temat badania.
 
 
-#### hipoteza
+#### Problem naukowy
 
+Problem naukowy nie musi być w każdym przypadku sprecyzowany dokładnie i niewzruszony. Zmiany są możliwe szczególnie wtedy, gdy badanie dotyczy spraw mniej czy bardziej nowych. Wtedy wiadomy może być tylko ogólny kierunek badań. Problem w trakcie badań jest wciąż na nowo uściślany, a nawet może być dość znacznie przekształcony. 
+
++ pytanie: Dlaczego?
++
+
+#### Hipoteza
+
++ pytanie, Dlaczego?
++ hipoteza to założenie, na podstawie którego zadajemy sobie pytanie: dlaczego zjawisko, fakt czy proces jest możliwe?
++ Hipoteza badawcza po przeprowadzeniu badania może zostać potwierdzona bądź obalona
++ Stawianie i testowanie hipotez to jeden z podstawowych procesów twórczego myślenia oraz fundamentalny element procesu tworzenia nauki. 
 
 #### Procedura to [sposób]()
 
 
 #### Proces
-Proces badawczy jako świadoma, celowa zmierzona czynność powinna się kierować określonymi regułami i wskazaniami, które będą kontrolowały postępowanie badacza.
+
++ pytanie: Jak?
++ Proces badawczy to świadoma, celowa zmierzona czynność
++ powinna kierować się określonymi regułami i wskazaniami, które będą kontrolowały postępowanie 
 
 
 #### Technika to [sposób]()
- to sposób gromadzenia materiału według ściśle opracowanych dyrektyw
+to sposób gromadzenia materiału według ściśle opracowanych dyrektyw
 
 
 #### Dyrektywa, wytyczna
@@ -223,7 +254,9 @@ The system can be easily maintained by replacing or updating the affected module
 
 ### Hypermodularity
 
-Hypermodularity, on the other hand, takes modular architecture to the next level. It goes beyond the traditional modular approach and involves breaking down a system into smaller, more specialized modules. These modules are designed to work together seamlessly, creating a highly flexible and adaptable system.
+Hypermodularity, on the other hand, takes modular architecture to the next level. 
+It goes beyond the traditional modular approach and involves breaking down a system into smaller, more specialized modules. 
+These modules are designed to work together seamlessly, creating a highly flexible and adaptable system.
 
 
 ### Benefits of hypermodularity
