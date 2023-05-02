@@ -38,29 +38,69 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 Na podstawie [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
 
-Metoda to [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu.
 
-Metodyka to [zbiór]() zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego celu.
+Metoda, technika, procedura badawcza
 
-Metodologia to [nauka]() o metodach badań naukowych i o sposobach przeprowadzania analiz oraz oceniania wartości poznawczej poszczególnych dyscyplin naukowych.
- 
+### problem badawczy
+
+### hipoteza
+
+### Procedura to [sposób]()
+
+
+### Proces
+Proces badawczy jako świadoma, celowa zmierzona czynność powinna się kierować określonymi regułami i wskazaniami, które będą kontrolowały postępowanie badacza.
+
+
+### Technika to [sposób]()
+ to sposób gromadzenia materiału według ściśle opracowanych dyrektyw
+
+
+### Dyrektywa, wytyczna
+
+
+### Metoda to [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. To powtarzalny sposób rozwiązywania problemu.
+
+Przykłady: 
++ Eksperyment
++ Monografia
++ Metoda indywidualnych przypadków.
++ Metoda sondażu diagnostycznego
+
+### Narzędzia to [sposób]()
+
+
+### Metodyka to [zbiór]() zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego celu.
++ Jak to należy robić?
++ kieruje się ku praktyce wykonawczej
++ pojedyncza metodyka będzie gromadziła metody lub techniki
+Przykłady: 
++ Metodyki zarządzania projektami: PRINCE2 lub TenStep. 
+
+### Metodologia to [nauka]() o metodach badań naukowych i o sposobach przeprowadzania analiz oraz oceniania wartości poznawczej poszczególnych dyscyplin naukowych.
++ Co należy robić?
++ kieruje się ku teorii usprawniania
+Przykłady: 
++ Agile - metodologia prowadzenia projektów zwinnych.
 
 [Metodyka](https://pl.wikipedia.org/wiki/Metodyka)
 
 ```
-zbiór metod, ustandaryzowane dla wybranego obszaru podejście do rozwiązywania problemów. Metodyka abstrahuje od merytorycznego kontekstu danego obszaru, a skupia się na metodach realizacji zadań, szczególnie metodach zarządzania.
+zbiór metod, ustandaryzowane dla wybranego obszaru podejście do rozwiązywania problemów. 
+Metodyka abstrahuje od merytorycznego kontekstu danego obszaru, a skupia się na metodach realizacji zadań, szczególnie metodach zarządzania.
 ```
 
 [Metodologia](https://pl.wikipedia.org/wiki/Metodologia)
 
 ```
-W odróżnieniu od metodologii, która się skupia na odpowiedzi na pytanie Co należy robić?, metodyka koncentruje się na poszukiwaniu odpowiedzi na pytanie Jak to należy robić?. Bardziej kieruje się ku praktyce wykonawczej, a metodologia ku teorii zazwyczaj sprawnego działania. Przykładem jest metodyka zarządzania projektami: PRINCE2 lub TenStep. 
+W odróżnieniu od metodologii, która się skupia na odpowiedzi na pytanie , metodyka koncentruje się na poszukiwaniu odpowiedzi na pytanie Bardziej kieruje się ku praktyce wykonawczej, a metodologia ku teorii zazwyczaj sprawnego działania. Przykładem jest 
 ```
 
+### Podsumowanie
 
 W praktyce życiowej kierujemy się wyborem:
 
-+ mniejszego zła
++ mniejszego zła []
 + zasady pareto skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
 
 O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
