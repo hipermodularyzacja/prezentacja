@@ -2,27 +2,27 @@
 
 ## Kim jestem
 
-### Role:
+#### Role:
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
 + badacz, [researcher](http://www.researcher.pl)
 + programista, administrator, DevOps, [platform engineer](http://www.platformengineer.pl)
 
-### Tematy:
+#### Tematy:
 + [modularyzacja](http://www.entuzjasta.pl)
 + [automatyzacja](http://www..pl)
 + [bezpieczeństwo](http://www..pl)
 
-### Ślad węglowy
+#### Ślad węglowy
 + do 2013 Polska
 + do 2023 Niemcy
 + ...
 
 ## Plan prezentacji
 
-### 1. Wprowadzenie do hipermodularyzacji
-### 2. Zadawanie właściwych pytań
-### 3. Praktyczne przykłady
-### 4. Dyskusja
+#### 1. Wprowadzenie do hipermodularyzacji
+#### 2. Zadawanie właściwych pytań
+#### 3. Praktyczne przykłady
+#### 4. Dyskusja
  
  
 
@@ -59,27 +59,27 @@ Problem, Rozwiązanie, Hipoteza, Procedura, Proces, Technika, Dyrektywa, Metoda,
 Na podstawie [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
 Metoda, technika, procedura badawcza
 
-### problem badawczy
+#### problem badawczy
 
 
-### hipoteza
+#### hipoteza
 
 
-### Procedura to [sposób]()
+#### Procedura to [sposób]()
 
 
-### Proces
+#### Proces
 Proces badawczy jako świadoma, celowa zmierzona czynność powinna się kierować określonymi regułami i wskazaniami, które będą kontrolowały postępowanie badacza.
 
 
-### Technika to [sposób]()
+#### Technika to [sposób]()
  to sposób gromadzenia materiału według ściśle opracowanych dyrektyw
 
 
-### Dyrektywa, wytyczna
+#### Dyrektywa, wytyczna
 
 
-### [Metoda](https://pl.wikipedia.org/wiki/Metoda)  
+#### [Metoda](https://pl.wikipedia.org/wiki/Metoda)  
 
 to [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. To powtarzalny sposób rozwiązywania [problemu]().
 
@@ -89,10 +89,10 @@ Przykłady:
 + Metoda indywidualnych przypadków.
 + Metoda sondażu diagnostycznego
 
-### Narzędzia to [sposób]()
+#### Narzędzia to [sposób]()
 
 
-### [Metodyka](https://pl.wikipedia.org/wiki/Metodyka) 
+#### [Metodyka](https://pl.wikipedia.org/wiki/Metodyka) 
 
 to [zbiór]() zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego [celu]().
 
@@ -103,7 +103,7 @@ Przykłady:
 + Metodyki zarządzania projektami: PRINCE2 lub TenStep. 
 
 
-### [Metodologia](https://pl.wikipedia.org/wiki/Metodologia) 
+#### [Metodologia](https://pl.wikipedia.org/wiki/Metodologia) 
 
 to [nauka]() o metodach badań naukowych i o sposobach przeprowadzania analiz oraz oceniania wartości poznawczej poszczególnych [dyscyplin naukowych]().
 
@@ -122,7 +122,7 @@ Metodyka abstrahuje od merytorycznego kontekstu danego obszaru, a, szczególnie 
 
 
 
-### Podsumowanie
+#### Podsumowanie
 
 W praktyce życiowej kierujemy się wyborem:
 
@@ -156,9 +156,9 @@ Hipermodularyzacja narzuza metodykę pow
 
 ## Przykłady
 
-### IT
+#### IT
 
-#### architektura modularna i monolityczna
+##### architektura modularna i monolityczna
 
 + [Modularyzacja: kolejny modny trend IT, czy jedyna słuszna droga? - Tech Blog ING Bank Śląski](https://techblog.ing.pl/blog/modularyzacja-kolejny-modny-trend-it-czy-jedyna-sluszna-droga)
 
@@ -197,43 +197,47 @@ Część tej prezentacji (teoretyczna) powstała w ostatnim tygodniu, przy pomoc
 
 ## Modular architecture and hypermodularity 
 
+### modular architecture
+
 modular architecture refers to the design of a system that is composed of independent units that can be combined to create a larger and more complex system. 
 These independent units are called modules and can be easily replaced or modified without affecting the entire system. 
 
-The benefits of modular architecture include:
 
-### Flexibility: 
+### Benefits of hypermodularity
+
+#### Flexibility: 
 Modular architecture allows for easy modification and customization of a system. Adding new features, upgrading components, and fixing bugs can be done without disrupting the entire system.
 
-### Scalability: 
+#### Scalability: 
 Modular architecture supports scalability. 
 It allows for the addition of new modules to the system, making it capable of handling increased workload.
 
-### Reusability: 
+#### Reusability: 
 Modules can be used in different systems or applications, saving time and resources in the development process.
 
-### Maintenance: 
+#### Maintenance: 
 Modular architecture simplifies maintenance. 
 The system can be easily maintained by replacing or updating the affected module without affecting the entire system.
+
+
+
+### Hypermodularity
 
 Hypermodularity, on the other hand, takes modular architecture to the next level. It goes beyond the traditional modular approach and involves breaking down a system into smaller, more specialized modules. These modules are designed to work together seamlessly, creating a highly flexible and adaptable system.
 
 
+### Benefits of hypermodularity
 
-## Benefits of hypermodularity
-
-The benefits of hypermodularity include:
-
-### Agility
+#### Agility
 Hypermodularity allows for rapid development and deployment of new features and services. Developers can work on individual modules without affecting the entire system, allowing for faster iteration and delivery.
 
-### Resilience
+#### Resilience
 Hypermodular systems are more resilient to failures. If one module fails, it can be easily replaced with a backup or a new module, without affecting the rest of the system.
 
-### Customization
+#### Customization
 Hypermodularity allows for greater customization of the system. Modules can be added, removed, or replaced to meet specific requirements or business needs.
 
-### Collaboration
+#### Collaboration
 Hypermodularity encourages collaboration among developers. Different teams can work on different modules, making it easier to manage the development process.
 
 In summary, modular architecture and hypermodularity are important concepts for DevOps, hardware, and software developers. They offer significant benefits in terms of flexibility, scalability, reusability, maintenance, agility, resilience, customization, and collaboration. By adopting these approaches, developers can create robust, adaptable, and efficient systems that meet the needs of their customers and businesses.
@@ -244,7 +248,7 @@ In summary, modular architecture and hypermodularity are important concepts for 
 
 ## Modularity and hypermodularity in the daily routine of a person working with people
 
-### Modularity:
+#### Modularity:
 
 + A personal trainer who uses modular programming to create tailored workout plans for each client, based on their individual fitness goals and abilities.
 
@@ -252,7 +256,7 @@ In summary, modular architecture and hypermodularity are important concepts for 
 
 + A therapist who uses modular therapy techniques to create personalized treatment plans for each client, based on their individual needs and goals.
 
-### Hypermodularity:
+#### Hypermodularity:
 
 + A life coach who uses hypermodularity to break down the coaching process into smaller, specialized components such as goal setting, time management, and personal development, allowing for greater flexibility and customization.
 
@@ -264,7 +268,7 @@ In summary, modular architecture and hypermodularity are important concepts for 
 
 ## Modularity and hypermodularity in preparing a presentation
 
-### Modularity:
+#### Modularity:
 
 + A presenter who uses modular slide templates to create a consistent visual style throughout the presentation, including headers, bullet points, and images.
 
@@ -272,7 +276,7 @@ In summary, modular architecture and hypermodularity are important concepts for 
 
 + A presenter who uses modular presentation software to create a presentation that can be easily customized and reused for multiple presentations, including themes, layouts, and transitions.
 
-### Hypermodularity:
+#### Hypermodularity:
 
 + A presenter who uses hypermodularity to break down the presentation into smaller, specialized components such as introduction, main points, and conclusion, allowing for greater flexibility in adjusting the order or adding/removing components.
 
@@ -284,17 +288,17 @@ In summary, modular architecture and hypermodularity are important concepts for 
 
 ## Examples of usage between modularity and hypermodularity
 
-### In software development
+#### In software development
 
 In software development, modularity is often used for creating reusable components that can be easily integrated into different applications. 
 Hypermodularity, on the other hand, is often used for breaking down complex applications into smaller, specialized microservices that can be developed and deployed independently.
 
-### Product design
+#### Product design
 
 In product design, modularity is often used for creating products with interchangeable parts that can be easily replaced or upgraded. 
 Hypermodularity, on the other hand, is often used for creating products with highly customizable features and options.
 
-### project management
+#### project management
 
 In project management, modularity is often used for breaking down a project into smaller, manageable tasks that can be assigned to different team members. 
 Hypermodularity, on the other hand, is often used for creating highly agile and adaptable project workflows that can be easily customized and adjusted based on changing requirements.
@@ -303,22 +307,22 @@ Hypermodularity, on the other hand, is often used for creating highly agile and 
 
 ## The Benefits of using hypermodular approach:
 
-### Flexibility:
+#### Flexibility:
 Hypermodularity allows for a highly flexible approach to creating and managing systems, products, or projects. It allows for easy customization and modification, making it easier to adapt to changing needs and requirements.
 
-### Scalability:
+#### Scalability:
 Hypermodularity allows for easy scalability of systems or products. It allows for the addition or removal of modules or components as needed, without affecting the entire system.
 
-### Resilience:
+#### Resilience:
 Hypermodularity allows for highly resilient systems that can withstand failures or disruptions. It allows for easy replacement or repair of individual modules or components, without affecting the entire system.
 
-### Efficiency:
+#### Efficiency:
 Hypermodularity allows for more efficient development, deployment, and maintenance of systems or products. It allows for easy integration of different modules or components, reducing development time and costs.
 
-### Collaboration:
+#### Collaboration:
 Hypermodularity allows for greater collaboration among team members working on different modules or components. It allows for easy integration of different components, making it easier to work together on complex projects.
 
-### Customization:
+#### Customization:
 Hypermodularity allows for easy customization of systems or products. It allows for the creation of highly personalized systems or products, tailored to the specific needs of individual users or customers.
 
 Overall, hypermodularity approach offers many benefits for creating and managing complex systems, products, or projects. 
@@ -330,53 +334,53 @@ It allows for greater flexibility, scalability, resilience, efficiency, collabor
 
 Modular thinking is a way of approaching problems by breaking them down into smaller, more manageable pieces. Here are some steps you can take to learn modular thinking:
 
-### Start with small problems: 
+#### Start with small problems: 
 Begin by breaking down small problems into smaller, more manageable pieces. This will help you develop your modular thinking skills and build confidence.
 
-### Identify the components: 
+#### Identify the components: 
 Once you have identified the problem, start identifying the different components or modules that make up the problem. Try to understand how these components work together to create the problem.
 
-### Define the interfaces: 
+#### Define the interfaces: 
 Next, define the interfaces between the different components. This will help you understand how the different modules interact with each other.
 
-### Develop a modular design: 
+#### Develop a modular design: 
 Once you have identified the components and interfaces, start developing a modular design. This should include how the different modules will work together to solve the problem.
 
-### Test and iterate: 
+#### Test and iterate: 
 Test your modular design to see if it solves the problem. If it does not, iterate and refine your design until you find a solution that works.
 
-### Practice, practice, practice: 
+#### Practice, practice, practice: 
 Keep practicing modular thinking by breaking down larger problems into smaller, more manageable pieces. This will help you build your skills and become more comfortable with the approach.
 
-### Learn from others: 
+#### Learn from others: 
 Seek out resources, books, and mentors who can help you learn more about modular thinking. You can also learn from others by studying their designs and solutions.
 
 By following these steps, you can develop your modular thinking skills and become better equipped to tackle complex problems in a more efficient and effective way.
 
 
-### How to learn the hypermodular thinking approach?
+#### How to learn the hypermodular thinking approach?
 
 Hypermodular thinking is an advanced approach to problem-solving that involves breaking down complex systems or problems into smaller, highly specialized components or microservices. Here are some steps you can take to learn hypermodular thinking approach:
 
-### Understand modularity: 
+#### Understand modularity: 
 Before you can understand hypermodularity, it's important to understand modularity. Learn about modular design principles, practices, and tools.
 
-### Study hypermodular systems: 
+#### Study hypermodular systems: 
 Study and analyze existing hypermodular systems, such as microservices architecture or modular product design. This will help you understand how different modules can work together to create a more flexible and scalable system.
 
-### Learn to break down problems: 
+#### Learn to break down problems: 
 Develop your ability to break down complex problems into smaller, more specialized components. This requires a deep understanding of the problem and the ability to identify the different components of the problem.
 
-### Focus on interfaces: 
+#### Focus on interfaces: 
 In hypermodularity, interfaces between different components are critical. Learn how to design effective interfaces that allow modules to work together seamlessly.
 
-### Develop a modular mindset: 
+#### Develop a modular mindset: 
 Hypermodular thinking requires a mindset that is focused on breaking down problems into smaller pieces. Practice this mindset by breaking down problems in your daily life, such as organizing your workday or planning a trip.
 
-### Experiment with hypermodularity:
+#### Experiment with hypermodularity:
 Start experimenting with hypermodular design in your own work. Start with small projects and build your way up. This will help you gain experience and build your skills.
 
-### Learn from others: 
+#### Learn from others: 
 Seek out resources, books, and mentors who can help you learn more about hypermodular thinking. You can also learn from others by studying their designs and solutions.
 
 By following these steps, you can develop your hypermodular thinking skills and become better equipped to tackle complex problems in a more flexible and scalable way. Remember to start small, focus on interfaces, and keep experimenting to build your skills.
@@ -387,27 +391,27 @@ How to live in hyper modular world, how to manage the all modular elements?
 
 Living in a hyper-modular world means that we are constantly surrounded by an increasing number of specialized modules that are interconnected to form complex systems. Here are some ways to manage the all modular elements in a hyper-modular world:
 
-### Develop a modular mindset
+#### Develop a modular mindset
 Adopt a modular mindset that allows you to break down complex problems into smaller, more manageable pieces. 
 This will help you understand and manage the interconnected modules of a system.
 
-### Understand the interfaces 
+#### Understand the interfaces 
 In a hyper-modular world, it's important to understand how different modules interface with each other. 
 Learn about the different types of interfaces, such as APIs or protocols, and how they work.
 
-### Use modular tools
+#### Use modular tools
 Use modular tools to manage the different modules of a system. 
 This includes tools for version control, testing, and deployment.
 
-### Practice modular design
+#### Practice modular design
 Use modular design principles to create systems that are flexible and scalable. 
 This means breaking down systems into smaller, specialized modules that can be easily replaced or updated.
 
-### Collaborate with others
+#### Collaborate with others
 Collaboration is key in a hyper-modular world. 
 Work with others to share knowledge and expertise in managing the different modules of a system.
 
-### Continuously learn
+#### Continuously learn
 A hyper-modular world is constantly evolving. 
 Continuously learn about new technologies and techniques for managing modular systems.
 
@@ -426,40 +430,40 @@ By following these steps, you can design and convert processes to hyper-modular 
 Remember to focus on specialization, flexibility, and collaboration to create a system that can adapt to the process's changing needs.
 
 
-### Identify the process: 
+#### Identify the process: 
 Start by identifying the process that you want to convert into hyper-modular components. This could be any process, such as a manufacturing process, a customer service process, or a project management process.
 
-### Break down the process: 
+#### Break down the process: 
 Break down the process into smaller components or modules. 
 Each module should be highly specialized and focused on one specific task. 
 For example, a customer service process could be broken down into smaller modules such as answering calls, responding to emails, and handling complaints.
 
-### Define the interfaces: 
+#### Define the interfaces: 
 Define the interfaces between the different modules. 
 This will help you understand how the different modules interact with each other. 
 For example, the interface between the answering calls module and the responding to emails module could be the customer database.
 
-### Design the modules: 
+#### Design the modules: 
 Design each module to be highly specialized and flexible. 
 This will allow them to be easily replaced or updated as the process evolves. 
 For example, the answering calls module could be designed to handle different types of calls, such as sales calls, support calls, and billing calls.
 
-### Build the components: 
+#### Build the components: 
 Build the components using hyper-modular design principles. 
 This means breaking down the components into smaller, specialized components that can be easily replaced or updated. 
 For example, the answering calls module could be broken down into smaller components such as call scripts, FAQs, and customer information forms.
 
-### Test and iterate: 
+#### Test and iterate: 
 Test the components to ensure they are working effectively. 
 Iterate and refine the design until you find a solution that works. 
 For example, test the call scripts to ensure they are effective in handling different types of calls.
 
-### Integrate the components: 
+#### Integrate the components: 
 Integrate the components back into the overall process. 
 Ensure that the interfaces between the different modules are working effectively. 
 For example, ensure that the customer information forms are being properly transferred to the responding to emails module.
 
-### Continuously improve: 
+#### Continuously improve: 
 Continuously improve the process by monitoring its performance and making adjustments as necessary. 
 For example, monitor the average call time for the answering calls module and adjust the call scripts to improve efficiency.
 
