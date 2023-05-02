@@ -196,7 +196,7 @@ rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działa
 + To powtarzalny [sposób]() rozwiązywania [problemu]().
 
 
-#### Przykład:
+##### Przykład:
 
 + Eksperyment
 + Monografia
@@ -205,7 +205,7 @@ rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działa
 
 
 
-#### Proces
+#### [Proces](https://pl.wikipedia.org/wiki/Proces)
 
 Proces to seria zadań i czynności, które prowadzą do [celu](). 
 
@@ -217,7 +217,7 @@ Proces to seria zadań i czynności, które prowadzą do [celu]().
 
 
 
-#### Procedura 
+#### [Procedura](https://pl.wikipedia.org/wiki/Procedura)
 
 + pytanie: **Jakie czynności?**
 + Procedura to metod w organizacji
@@ -231,7 +231,7 @@ Pokazuje sekwencję czynności, jakie należy wykonać w odpowiedniej kolejnośc
 
 Procedura może być [metodą]() rozwiązania [problemu]().
 
-+ Przykład:
+##### Przykład:
 
 Przykładem niech będzie nieuprawniony dostęp do komputerów firmowych. 
 Metodą na rozwiązanie takiego problemu jest tworzenie unikalnych kont użytkowników zabezpieczonych hasłami. 
