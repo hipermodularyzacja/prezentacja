@@ -368,21 +368,13 @@ zwłaszcza w kontekście ostatniego roku dostępności sztucznej inteligencji do
 Część tej prezentacji (teoretyczna) powstała w ostatnim tygodniu, przy pomocy chatGPT 3.5, właśnie dzięki zadawaniu odpowiednich pytań
 
 
-
-
-
-+ Modular architecture and hypermodularity 
-+ Benefits of hypermodularity
-+ Modular architecture and hypermodularity in Software Devlopment
-+ Modularity and hypermodularity in Hardware development
 + Modularity and hypermodularity in the daily routine of a person working with people
++ Modularity and hypermodularity in preparing a presentation
 + Examples of usage between modularity and hypermodularity
 + The Benefits of using hypermodular approach
 + How to learn the Modular thinking approach?
 + How to learn the hypermodular thinking approach?
 + How to live in hyper modular world, how to manage the all modular elements?
-
-
 
 
 
