@@ -19,10 +19,10 @@
 
 ## Plan prezentacji
 
-+ 1. Wprowadzenie do hipermodularyzacji
-+ 2. Zadawanie właściwych pytań
-+ 3. Praktyczne przykłady
-+ 4. Dyskusja
+### 1. Wprowadzenie do hipermodularyzacji
+### 2. Zadawanie właściwych pytań
+### 3. Praktyczne przykłady
+### 4. Dyskusja
  
  
 
