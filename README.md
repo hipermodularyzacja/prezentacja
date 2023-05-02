@@ -18,13 +18,8 @@
 + ...
 
 
-## Plan prezentacji:
+#### Cel prezentacji
 
-#### 1. Wprowadzenie do hipermodularyzacji
-#### 2. Zadawanie właściwych pytań
-#### 3. Praktyczne przykłady
-#### 4. Dyskusja
- 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
 + Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
@@ -39,6 +34,15 @@ Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzy�
 + Zwinność, Agility
 + Odporność, Resilience
 + Dostosowalność, Customization
+
+
+#### Plan prezentacji:
+
+#### 1. Wprowadzenie do hipermodularyzacji
+#### 2. Zadawanie właściwych pytań
+#### 3. Praktyczne przykłady
+#### 4. Dyskusja
+ 
 
 
 
