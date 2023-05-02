@@ -22,18 +22,6 @@
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
-+ Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
-+ Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
-+ Hipermodularyzacja zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
-
-Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
-
-+ Elastyczność, Flexibility
-+ Reużywalność, Reusability
-+ Skalowalność, Scalability
-+ Zwinność, Agility
-+ Odporność, Resilience
-+ Dostosowalność, Customization
 
 
 ### Plan prezentacji:
@@ -48,8 +36,21 @@ Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzy�
 
 
 # 1. Wprowadzenie do hipermodularyzacji
-Tekst
-Muzyka
++ Muzyka
+
+
++ Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
++ Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
++ Hipermodularyzacja zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
+
+Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
+
++ Elastyczność, Flexibility
++ Reużywalność, Reusability
++ Skalowalność, Scalability
++ Zwinność, Agility
++ Odporność, Resilience
++ Dostosowalność, Customization
 
 
 ## Jak powstała ta prezentacja?
