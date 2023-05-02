@@ -2,16 +2,20 @@
 
 ## Kim jestem
 
-Role:
+### Role:
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
-+ badacz,[researcher](http://www.researcher.pl)
++ badacz, [researcher](http://www.researcher.pl)
 + programista, administrator, [platform engineer](http://www.platformengineer.pl)
 
-Tematy:
+### Tematy:
 + [modularyzacja](http://www.entuzjasta.pl)
 + [automatyzacja](http://www..pl)
 + [bezpieczeństwo](http://www..pl)
 
+### Ślad węglowy
++ do 2013 Polska
++ do 2023 Niemcy
++ ...
 
 ## Plan prezentacji
 
