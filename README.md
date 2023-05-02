@@ -1,6 +1,8 @@
 # prezentacja.hipermodularyzacja.pl
 
-## Kim jestem?
+## Wprowadzenie [5 minut]
+
+### Kim jestem?
 
 ### Role:
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
@@ -26,18 +28,37 @@ Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na te
 
 ### Plan prezentacji:
 
-#### 1. Wprowadzenie do hipermodularyzacji
+#### 1. Wprowadzenie do hipermodularyzacji, Teoria, Praktyka
 #### 2. Zadawanie właściwych pytań
 #### 3. Praktyczne przykłady
 #### 4. Dyskusja
  
 
+### Jak powstała ta prezentacja?
+
+Ta prezentacja jest pdsumowaniem wieloletnich prac badawaczych nad drogą dotarcia do automatyzacji.
+Badałem specyfikę i naturę metod, które sprawdzają się w różnych branżach i zastosowaniach.
+
+
+### Jakie książki polecam?
+
++ [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
++ [hipermodularyzacja -  w trakcie pisania]
+
+
+### Nagroda
+
+Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
 
 
 
-# 1. Wprowadzenie do hipermodularyzacji
+
+
+# 1. Wprowadzenie do hipermodularyzacji [10 minut]
 + Muzyka
 
+
+## Hipermodularyzacja
 
 + Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
 + Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
@@ -53,21 +74,26 @@ Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzy�
 + Dostosowalność, Customization
 
 
-## Jak powstała ta prezentacja?
+## Automatyzacja
 
-Ta prezentacja jest pdsumowaniem wieloletnich prac badawaczych nad drogą dotarcia do automatyzacji.
-Badałem specyfikę i naturę metod, które sprawdzają się w różnych branżach i zastosowaniach.
+Automatyzacja to droga w której modularyzujemy, standaryzujemy i specjalizujemy procesy.
 
-
-## Jakie książki polecam?
-
-+ [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
-+ [hipermodularyzacja -  w trakcie pisania]
+Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy wiedzieli jaki standard użyć, możemy wcześniej na podstawie minimalnych danych o cechach procesu poznać jaka jest jego specyfika i przez to przyporzadkować go do określonego zbioru.
 
 
-## Nagroda
 
-Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
+## Modularyzacja i Hipermodularyzacja
+
+Modularyzacja to przyporządkowywanie na podstawie specyfiki.
+
+Hipermodularyzacja to wytwarzanie ustandaryzowanych i wyspecjalizowanych modułów.
+
+O ile modularyzacja bazuje na gotowych modułachj o tyle Hiermodularyzacja  determinuje ich powstawanie, narzuca standardy.
+
+Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
+Hipermodularyzacja narzuza metodykę pow
+
+
 
 
 ## Teoria
@@ -275,32 +301,10 @@ O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w m
 Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 
-## Automatyzacja
-
-Automatyzacja to droga w której modularyzujemy, standaryzujemy i specjalizujemy procesy.
-
-Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy wiedzieli jaki standard użyć, możemy wcześniej na podstawie minimalnych danych o cechach procesu poznać jaka jest jego specyfika i przez to przyporzadkować go do określonego zbioru.
 
 
+## Praktyka 
 
-## Modularyzacja i Hipermodularyzacja
-
-Modularyzacja to przyporządkowywanie na podstawie specyfiki.
-
-Hipermodularyzacja to wytwarzanie ustandaryzowanych i wyspecjalizowanych modułów.
-
-O ile modularyzacja bazuje na gotowych modułachj o tyle Hiermodularyzacja  determinuje ich powstawanie, narzuca standardy.
-
-Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
-Hipermodularyzacja narzuza metodykę pow
-
-
-
-
-
-## Przykłady
-
-#### IT
 
 ##### architektura modularna i monolityczna
 
@@ -315,8 +319,7 @@ systemy układania
 
 
 
-
-# 2. Zadawanie pytań
+# 2. Zadawanie pytań [5 minut]
 
 Właściwe zadawanie pytań jest konieczne do poznania prawdy na temat, który nas interesuje,
 zwłaszcza w kontekście ostatniego roku dostępności sztucznej inteligencji do masowego użycia. 
@@ -618,7 +621,8 @@ By following these steps, a non-technical person can build components using hype
 
 
 
-# 3. Galeria
+
+# 3. Galeria [5 minut]
 
 Galeria Przykładów modularyzacji
 
