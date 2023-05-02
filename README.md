@@ -175,11 +175,11 @@ Na przykład, podczas kierowania wniosku do odpowiedniego recenzenta, może być
 
 #### [Metodyka](https://pl.wikipedia.org/wiki/Metodyka) 
 
-to [zbiór]() zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego [celu]().
+to [zbiór]() [metod]() i [technik]() dotyczących sposobów wykonywania pracy lub trybu postępowania prowadzącego do określonego [celu]().
 
 + pytanie: Jak to należy robić?
 + kieruje się ku praktyce wykonawczej, skupia się na metodach realizacji zadań
-+ pojedyncza metodyka będzie gromadziła metody lub techniki
++ pojedyncza metodyka będzie gromadziła [metody]() lub [techniki]()
 
 + Przykład:
   + Metodyki zarządzania projektami: PRINCE2 lub TenStep. 
