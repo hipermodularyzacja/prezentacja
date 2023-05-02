@@ -28,10 +28,11 @@ Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na te
 
 ### Plan prezentacji:
 
-#### 1. Wprowadzenie do hipermodularyzacji, Teoria, Praktyka
-#### 2. Zadawanie właściwych pytań
-#### 3. Praktyczne przykłady
-#### 4. Dyskusja
+#### 1. Wprowadzenie do hipermodularyzacji
+#### 2. Słownictwo
+#### 3. Teoria
+#### 4. Galeria przykładów
+#### 5. Dyskusja
  
 
 ### Jak powstała ta prezentacja?
@@ -49,6 +50,7 @@ Badałem specyfikę i naturę metod, które sprawdzają się w różnych branża
 ### Nagroda
 
 Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
+
 
 
 
@@ -138,7 +140,7 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 
 
-## Teoria
+# 2. Słownictwo
 
 
 Problem, Rozwiązanie, Hipoteza, Procedura, Proces, Technika, Dyrektywa, Metoda, Metodyka, Metodologia
@@ -345,23 +347,11 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 
 
-## Praktyka 
 
 
-##### architektura modularna i monolityczna
+# 3. Teoria [10 minut]
 
-+ [Modularyzacja: kolejny modny trend IT, czy jedyna słuszna droga? - Tech Blog ING Bank Śląski](https://techblog.ing.pl/blog/modularyzacja-kolejny-modny-trend-it-czy-jedyna-sluszna-droga)
-
-
-systemy do pakowania przedmiotów
-systemy układania 
-
-
-
-
-
-
-# 2. Zadawanie pytań [5 minut]
+Zadawanie własicwych pytań 
 
 Właściwe zadawanie pytań jest konieczne do poznania prawdy na temat, który nas interesuje,
 zwłaszcza w kontekście ostatniego roku dostępności sztucznej inteligencji do masowego użycia. 
@@ -605,9 +595,27 @@ By following these steps, a non-technical person can build components using hype
 
 
 
-# 3. Galeria [5 minut]
+# 4. Galeria przykładów [5 minut]
 
 Galeria Przykładów modularyzacji
+
+
+
+
+### architektura modularna i monolityczna
+
++ [Modularyzacja: kolejny modny trend IT, czy jedyna słuszna droga? - Tech Blog ING Bank Śląski](https://techblog.ing.pl/blog/modularyzacja-kolejny-modny-trend-it-czy-jedyna-sluszna-droga)
+
+
+systemy do pakowania przedmiotów
+systemy układania 
+
+
+
+
+
+
+# 5. Dyskusja [15 Minut]
 
 
 
