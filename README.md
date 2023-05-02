@@ -94,12 +94,12 @@ Metoda, technika, procedura badawcza
 + Stawianie i testowanie hipotez to jeden z podstawowych procesów twórczego myślenia oraz fundamentalny element procesu tworzenia nauki. 
 
 
-#### Technika to [sposób]()
+#### Technika
 
-to [sposób]() gromadzenia materiału według ściśle opracowanych [dyrektyw]()
+to [sposób]() realizacji [metod]() przy respektowaniu [dyrektyw]() biorąc pod uwagę warunki środowiskowe
 
 
-#### Dyrektywa, wytyczna
+#### Dyrektywa, wytyczna, rozporządzenie
 
 rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działania; wytyczna, zalecenie, nakaz:
 + czego nie wolno?
@@ -107,7 +107,7 @@ rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działa
 
 
 
-#### [Metoda](https://pl.wikipedia.org/wiki/Metoda) rozwiązania [problemu]() 
+#### [Metoda](https://pl.wikipedia.org/wiki/Metoda), forma rozwiązania [problemu]() 
 
 + To [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. 
 + To powtarzalny [sposób]() rozwiązywania [problemu]().
