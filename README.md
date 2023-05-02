@@ -19,12 +19,16 @@
 
 ## Plan prezentacji
 
-+ Wprowadzenie do hipermodularyzacji
-+ Zadawanie właściwych pytań
-+ Jak powstała ta prezentacja
++ 1. Wprowadzenie do hipermodularyzacji
++ 2. Zadawanie właściwych pytań
++ 3. Praktyczne przykłady
++ 4. Dyskusja
+ 
+ 
 
 
-## Wprowadzenie do hipermodularyzacji
+
+# 1. Wprowadzenie do hipermodularyzacji
 Tekst
 Muzyka
 
@@ -166,7 +170,9 @@ systemy układania
 
 
 
-# Zadawanie pytań
+
+
+# 2. Zadawanie pytań
 
 Właściwe zadawanie pytań jest konieczne do poznania prawdy na temat, który nas interesuje,
 zwłaszcza w kontekście ostatniego roku dostępności sztucznej inteligencji do masowego użycia. 
@@ -564,6 +570,11 @@ For example, monitor the average call time for the answering calls module and ad
 By following these steps, a non-technical person can build components using hyper-modular design principles, which can lead to a more efficient and effective process.
 
 
+
+
+# 3. Galeria
+
+Galeria Przykładów modularyzacji
 
 
 
