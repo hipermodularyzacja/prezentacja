@@ -101,7 +101,8 @@ to [sposób]() gromadzenia materiału według ściśle opracowanych [dyrektyw]()
 rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działania; wytyczna, zalecenie, nakaz
 + czego nie wolno
 + jak wolno
-+ 
+
+
 
 #### [Metoda](https://pl.wikipedia.org/wiki/Metoda) rozwiązania [problemu]() 
 
@@ -132,7 +133,7 @@ Proces to seria zadań i czynności, które prowadzą do [celu]().
 
 + Pytanie: Jakie czynności?
 + Procedura to metod w organizacji
-+ proces to [zbiór]() procedur
++ proces to [zbiór]() [procedur]()
 + Procedura to zbiór instrukcji dotyczących wykonania pojedynczego zadania lub czynności w ramach procesu.
 
 Metoda zwykle jest ogólna, nie uwzględnia na przykład specyfiki organizacji i jej otoczenia.
@@ -173,6 +174,7 @@ Na przykład, podczas kierowania wniosku do odpowiedniego recenzenta, może być
     Wyślij zgłoszenie do zatwierdzającego.
 
 
+
 #### [Metodyka](https://pl.wikipedia.org/wiki/Metodyka) 
 
 to [zbiór]() [metod]() i [technik]() dotyczących sposobów wykonywania pracy lub trybu postępowania prowadzącego do określonego [celu]().
@@ -180,6 +182,7 @@ to [zbiór]() [metod]() i [technik]() dotyczących sposobów wykonywania pracy l
 + pytanie: Jak to należy robić?
 + kieruje się ku praktyce wykonawczej, skupia się na metodach realizacji zadań
 + pojedyncza metodyka będzie gromadziła [metody]() lub [techniki]()
++ Metodyka abstrahuje od merytorycznego kontekstu danego obszaru,
 
 + Przykład:
   + Metodyki zarządzania projektami: PRINCE2 lub TenStep. 
@@ -196,11 +199,21 @@ Przykłady:
 
 
 
-```
-zbiór metod, ustandaryzowane dla wybranego obszaru podejście do rozwiązywania problemów. 
-Metodyka abstrahuje od merytorycznego kontekstu danego obszaru, a, szczególnie metodach zarządzania.
-```
+#### Paradygmaty programowania. 
 
+Programowanie imperatywne oraz deklaratywne
+
+Paradygmat imperatywny
++ jak coś zrobić, krok po kroku
++ Cel jest określony poprzez szczegółowe czynności
++ opis czynności procedur
+
+
+Paradygmat deklaratywny 
++ co ma dla nas zrobić, 
++ celem jest rezultat - proces, a nie same procedury
++ bez szczegółów implementacji, 
++ ważny jest dla nas wynik
 
 
 
@@ -234,6 +247,9 @@ O ile modularyzacja bazuje na gotowych modułachj o tyle Hiermodularyzacja  dete
 
 Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
 Hipermodularyzacja narzuza metodykę pow
+
+
+
 
 
 ## Przykłady
