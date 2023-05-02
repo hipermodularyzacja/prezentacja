@@ -633,14 +633,14 @@ Galeria Przykładów modularyzacji
 
 + [IMMUSEC Metodologia, metodyka, metoda, sposób, procedura – wyjaśnienie zawiłości językowych](https://www.immusec.com/metodologia-metodyka-metoda-sposob-procedura-wyjasnienie-zawilosci-jezykowych/)
 
-Metodologia – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567697/metodologia
++ Metodologia – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567697/metodologia
 
-Metodyka – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567700/metodyka
++ Metodyka – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567700/metodyka
 
-Metoda – Słownik języka polskiego http://sjp.pwn.pl/slownik/2482575/metoda
++ Metoda – Słownik języka polskiego http://sjp.pwn.pl/slownik/2482575/metoda
 
-Sposób – Słownik SJP, http://sjp.pl/spos%F3b
++ Sposób – Słownik SJP, http://sjp.pl/spos%F3b
 
-What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
++ What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
 
-What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
++ What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
