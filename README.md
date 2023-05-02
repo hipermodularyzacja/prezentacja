@@ -81,10 +81,8 @@ Metoda, technika, procedura badawcza
 
 #### Problem naukowy
 
-Problem naukowy nie musi być w każdym przypadku sprecyzowany dokładnie i niewzruszony. Zmiany są możliwe szczególnie wtedy, gdy badanie dotyczy spraw mniej czy bardziej nowych. Wtedy wiadomy może być tylko ogólny kierunek badań. Problem w trakcie badań jest wciąż na nowo uściślany, a nawet może być dość znacznie przekształcony. 
-
-+ pytanie: Dlaczego?
-+
++ pytanie: Co?
++ Problem naukowy nie musi być w każdym przypadku sprecyzowany dokładnie i niewzruszony.
 
 #### Hipoteza
 
@@ -96,42 +94,98 @@ Problem naukowy nie musi być w każdym przypadku sprecyzowany dokładnie i niew
 #### Procedura to [sposób]()
 
 
-#### Proces
-
-+ pytanie: Jak?
-+ Proces badawczy to świadoma, celowa zmierzona czynność
-+ powinna kierować się określonymi regułami i wskazaniami, które będą kontrolowały postępowanie 
-
 
 #### Technika to [sposób]()
-to sposób gromadzenia materiału według ściśle opracowanych dyrektyw
+
+to [sposób]() gromadzenia materiału według ściśle opracowanych [dyrektyw]()
 
 
 #### Dyrektywa, wytyczna
+rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działania; wytyczna, zalecenie, nakaz
++ czego nie wolno
++ jak wolno
++ 
+
+#### [Metoda](https://pl.wikipedia.org/wiki/Metoda) rozwiązania [problemu]() 
+
++ To [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. 
++ To powtarzalny [sposób]() rozwiązywania [problemu]().
+
++ Przykład: 
+  + Eksperyment
+  + Monografia
+  + Metoda indywidualnych przypadków
+  + Metoda sondażu diagnostycznego
 
 
-#### [Metoda](https://pl.wikipedia.org/wiki/Metoda)  
 
-to [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. To powtarzalny sposób rozwiązywania [problemu]().
+#### Proces
 
-Przykłady: 
-+ Eksperyment
-+ Monografia
-+ Metoda indywidualnych przypadków.
-+ Metoda sondażu diagnostycznego
+Proces to seria zadań i czynności, które prowadzą do [celu](). 
 
-#### Narzędzia to [sposób]()
++ pytanie: Jakie procedury?
++ Proces badawczy to świadoma, celowa zmierzona czynność
++ powinna kierować się określonymi regułami i wskazaniami
+
++ Przykład:
+
+
+
+#### Procedura 
+
++ Pytanie: Jakie czynności?
++ Procedura to metod w organizacji
++ proces to [zbiór]() procedur
++ Procedura to zbiór instrukcji dotyczących wykonania pojedynczego zadania lub czynności w ramach procesu.
+
+Metoda zwykle jest ogólna, nie uwzględnia na przykład specyfiki organizacji i jej otoczenia.
+Procedura natomiast jest bardziej szczegółowa, pokazuje sposób użycia danej metody z zachowaniem porządku i powtarzalności, przy uwzględnieniu aspektów otoczenia, w jakim metoda będzie stosowana. 
+Pokazuje sekwencję czynności, jakie należy wykonać w odpowiedniej kolejności, by osiągnąć zamierzony rezultat, a także określa kto i co wykonuje.
+
+
+Procedura może być [metodą]() rozwiązania [problemu]().
+
++ Przykład:
+
+Przykładem niech będzie nieuprawniony dostęp do komputerów firmowych. 
+Metodą na rozwiązanie takiego problemu jest tworzenie unikalnych kont użytkowników zabezpieczonych hasłami. 
+W tym wypadku organizacje powinny wdrożyć procedurę tworzenia kont użytkowników i zarządzania nimi. 
+O ile tworzenie kont jest sprawdzoną i powszechnie stosowaną metodą, procedura zostanie stworzona z uwzględnieniem specyfiki danej organizacji, w odniesieniu do dokumentów, regulaminu, czy wewnętrznych ustaleń firmy. 
+Będzie ona jasno określać zakres odpowiedzialności osób realizujących działania w ramach procedury oraz kolejność wykonywanych zadań, procesów
+
+
+
+
+#### Proces i Procedura
+
+Rozważmy typowy proces zarządzania żądaniami. Kroki w procesie obejmują:
+
+    Otrzymanie żądania
+    Przekierowanie wniosku do odpowiedniego recenzenta
+    Zatwierdzenie lub odrzucenie wniosku
+    Powiadomienie wnioskodawcy o decyzji zatwierdzającej
+
+Dla każdego z tych kroków istnieje odrębna procedura. 
+Służy to jako zestaw instrukcji, który mówi pracownikowi dokładnie, jak ukończyć każdy etap procesu. 
+Na przykład, podczas kierowania wniosku do odpowiedniego recenzenta, może być wymagana następująca procedura:
+
+    Sprawdź typ żądania.
+    Wybrać zatwierdzającego na podstawie typu.
+    Utwórz bilet zatwierdzenia.
+    Dodaj termin zatwierdzenia do biletu.
+    Wyślij zgłoszenie do zatwierdzającego.
 
 
 #### [Metodyka](https://pl.wikipedia.org/wiki/Metodyka) 
 
 to [zbiór]() zasad dotyczących sposobów wykonywania jakiejś pracy lub trybu postępowania prowadzącego do określonego [celu]().
 
-+ Jak to należy robić?
++ pytanie: Jak to należy robić?
 + kieruje się ku praktyce wykonawczej, skupia się na metodach realizacji zadań
 + pojedyncza metodyka będzie gromadziła metody lub techniki
-Przykłady: 
-+ Metodyki zarządzania projektami: PRINCE2 lub TenStep. 
+
++ Przykład:
+  + Metodyki zarządzania projektami: PRINCE2 lub TenStep. 
 
 
 #### [Metodologia](https://pl.wikipedia.org/wiki/Metodologia) 
@@ -522,3 +576,17 @@ Galeria Przykładów modularyzacji
 
 + [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
 
+
+[IMMUSEC | Metodologia, metodyka, metoda, sposób, procedura – wyjaśnienie zawiłości językowych](https://www.immusec.com/metodologia-metodyka-metoda-sposob-procedura-wyjasnienie-zawilosci-jezykowych/)
+
+Metodologia – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567697/metodologia
+
+Metodyka – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567700/metodyka
+
+Metoda – Słownik języka polskiego http://sjp.pwn.pl/slownik/2482575/metoda
+
+Sposób – Słownik SJP, http://sjp.pl/spos%F3b
+
+What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
+
+What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
