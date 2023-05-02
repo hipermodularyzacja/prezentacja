@@ -58,7 +58,14 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 + Muzyka
 
 
-## Hipermodularyzacja
+## Automatyzacja
+
+Automatyzacja to droga w której modularyzujemy, standaryzujemy i specjalizujemy procesy.
+
+Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy wiedzieli jaki standard użyć, możemy wcześniej na podstawie minimalnych danych o cechach procesu poznać jaka jest jego specyfika i przez to przyporzadkować go do określonego zbioru.
+
+
+### Hipermodularyzacja
 
 + Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
 + Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
@@ -74,15 +81,8 @@ Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzy�
 + Dostosowalność, Customization
 
 
-## Automatyzacja
 
-Automatyzacja to droga w której modularyzujemy, standaryzujemy i specjalizujemy procesy.
-
-Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy wiedzieli jaki standard użyć, możemy wcześniej na podstawie minimalnych danych o cechach procesu poznać jaka jest jego specyfika i przez to przyporzadkować go do określonego zbioru.
-
-
-
-## Modularyzacja i Hipermodularyzacja
+### Modularyzacja i Hipermodularyzacja
 
 Modularyzacja to przyporządkowywanie na podstawie specyfiki.
 
@@ -92,6 +92,48 @@ O ile modularyzacja bazuje na gotowych modułachj o tyle Hiermodularyzacja  dete
 
 Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
 Hipermodularyzacja narzuza metodykę pow
+
+
+### architektura modułowa
+
+architektura modułowa odnosi się do projektowania systemu składającego się z niezależnych jednostek, które można łączyć w celu stworzenia większego i bardziej złożonego systemu.
+Te niezależne jednostki nazywane są modułami i można je łatwo wymieniać lub modyfikować bez wpływu na cały system.
+
+
+### Korzyści z hipermodularności
+
+Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
+Oferują znaczące korzyści w zakresie elastyczności, skalowalności, możliwości ponownego użycia, konserwacji, sprawności, odporności, dostosowywania i współpracy. 
+Modularyzacja to droga do solidnych, elastycznych i wydajnych systemy.
+
+
+#### Zwinność
+Hipermodularność pozwala na szybki rozwój i wdrażanie nowych funkcji i usług. Deweloperzy mogą pracować nad poszczególnymi modułami bez wpływu na cały system, co pozwala na szybszą iterację i dostarczanie.
+
+#### Odporność
+Systemy hipermodularne są bardziej odporne na awarie. Jeśli jeden moduł ulegnie awarii, można go łatwo wymienić na zapasowy lub nowy moduł, bez wpływu na resztę systemu.
+
+#### Dostosowywanie
+Hipermodularność pozwala na większą personalizację systemu. Moduły można dodawać, usuwać lub wymieniać, aby spełnić określone wymagania lub potrzeby biznesowe.
+
+#### Współpraca
+Hipermodularność zachęca do współpracy między programistami. Różne zespoły mogą pracować nad różnymi modułami, co ułatwia zarządzanie procesem rozwoju.
+
+
+#### Elastyczność:
+Modułowa architektura pozwala na łatwą modyfikację i dostosowanie systemu. Dodawanie nowych funkcji, aktualizacja komponentów i naprawianie błędów może odbywać się bez zakłócania pracy całego systemu.
+
+#### Skalowalność:
+Modułowa architektura wspiera skalowalność.
+Pozwala na dodawanie nowych modułów do systemu, czyniąc go zdolnym do obsługi zwiększonego obciążenia.
+
+#### Możliwość ponownego użycia:
+Moduły mogą być używane w różnych systemach lub aplikacjach, oszczędzając czas i zasoby w procesie rozwoju.
+
+#### Konserwacja:
+Modułowa architektura upraszcza konserwację.
+System można łatwo konserwować, wymieniając lub aktualizując moduł, którego dotyczy problem, bez wpływu na cały system.
+
 
 
 
@@ -339,57 +381,6 @@ Część tej prezentacji (teoretyczna) powstała w ostatnim tygodniu, przy pomoc
 + How to learn the Modular thinking approach?
 + How to learn the hypermodular thinking approach?
 + How to live in hyper modular world, how to manage the all modular elements?
-
-
-
-## Modular architecture and hypermodularity 
-
-### modular architecture
-
-modular architecture refers to the design of a system that is composed of independent units that can be combined to create a larger and more complex system. 
-These independent units are called modules and can be easily replaced or modified without affecting the entire system. 
-
-
-### Benefits of hypermodularity
-
-#### Flexibility: 
-Modular architecture allows for easy modification and customization of a system. Adding new features, upgrading components, and fixing bugs can be done without disrupting the entire system.
-
-#### Scalability: 
-Modular architecture supports scalability. 
-It allows for the addition of new modules to the system, making it capable of handling increased workload.
-
-#### Reusability: 
-Modules can be used in different systems or applications, saving time and resources in the development process.
-
-#### Maintenance: 
-Modular architecture simplifies maintenance. 
-The system can be easily maintained by replacing or updating the affected module without affecting the entire system.
-
-
-
-### Hypermodularity
-
-Hypermodularity, on the other hand, takes modular architecture to the next level. 
-It goes beyond the traditional modular approach and involves breaking down a system into smaller, more specialized modules. 
-These modules are designed to work together seamlessly, creating a highly flexible and adaptable system.
-
-
-### Benefits of hypermodularity
-
-#### Agility
-Hypermodularity allows for rapid development and deployment of new features and services. Developers can work on individual modules without affecting the entire system, allowing for faster iteration and delivery.
-
-#### Resilience
-Hypermodular systems are more resilient to failures. If one module fails, it can be easily replaced with a backup or a new module, without affecting the rest of the system.
-
-#### Customization
-Hypermodularity allows for greater customization of the system. Modules can be added, removed, or replaced to meet specific requirements or business needs.
-
-#### Collaboration
-Hypermodularity encourages collaboration among developers. Different teams can work on different modules, making it easier to manage the development process.
-
-In summary, modular architecture and hypermodularity are important concepts for DevOps, hardware, and software developers. They offer significant benefits in terms of flexibility, scalability, reusability, maintenance, agility, resilience, customization, and collaboration. By adopting these approaches, developers can create robust, adaptable, and efficient systems that meet the needs of their customers and businesses.
 
 
 
