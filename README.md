@@ -82,7 +82,7 @@ Metoda, technika, procedura badawcza
 
 #### Problem naukowy
 
-+ pytanie: Co?
++ pytanie: **Co?**
 + Problem naukowy nie musi być w każdym przypadku sprecyzowany dokładnie i niewzruszony.
 
 
@@ -102,6 +102,7 @@ to [sposób]() realizacji [metod]() przy respektowaniu [dyrektyw]() biorąc pod 
 #### Dyrektywa, wytyczna, rozporządzenie
 
 rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działania; wytyczna, zalecenie, nakaz:
+
 + czego nie wolno?
 + co wolno?
 
@@ -112,11 +113,13 @@ rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działa
 + To [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. 
 + To powtarzalny [sposób]() rozwiązywania [problemu]().
 
-+ Przykład: 
-  + Eksperyment
-  + Monografia
-  + Metoda indywidualnych przypadków
-  + Metoda sondażu diagnostycznego
+
+#### Przykład:
+
++ Eksperyment
++ Monografia
++ Metoda indywidualnych przypadków
++ Metoda sondażu diagnostycznego
 
 
 
@@ -128,7 +131,7 @@ Proces to seria zadań i czynności, które prowadzą do [celu]().
 + Proces badawczy to świadoma, celowa zmierzona czynność
 + powinna kierować się określonymi regułami i wskazaniami
 
-+ Przykład:
+##### Przykład:
 
 
 
