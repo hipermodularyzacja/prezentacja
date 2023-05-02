@@ -25,7 +25,21 @@
 #### 3. Praktyczne przykłady
 #### 4. Dyskusja
  
- 
+Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
+
++ Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
++ Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
++ Hipermodularyzacja zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
+
+Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
+
++ Elastyczność, Flexibility
++ Reużywalność, Reusability
++ Skalowalność, Scalability
++ Zwinność, Agility
++ Odporność, Resilience
++ Dostosowalność, Customization
+
 
 
 
@@ -53,19 +67,6 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 ## Teoria
 
-Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
-+ Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
-+ Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
-+ Hipermodularyzacja zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
-
-Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
-+ Elastyczność, Flexibility
-+ Reużywalność, Reusability
-+ Skalowalność, Scalability
-+ Zwinność, Agility
-+ Odporność, Resilience
-+ Dostosowalność, Customization
-
 
 Problem, Rozwiązanie, Hipoteza, Procedura, Proces, Technika, Dyrektywa, Metoda, Metodyka, Metodologia
 
@@ -84,9 +85,10 @@ Metoda, technika, procedura badawcza
 + pytanie: Co?
 + Problem naukowy nie musi być w każdym przypadku sprecyzowany dokładnie i niewzruszony.
 
+
 #### Hipoteza
 
-+ pytanie, Dlaczego?
++ pytanie: **Dlaczego?**
 + hipoteza to założenie, na podstawie którego zadajemy sobie pytanie: dlaczego zjawisko, fakt czy proces jest możliwe?
 + Hipoteza badawcza po przeprowadzeniu badania może zostać potwierdzona bądź obalona
 + Stawianie i testowanie hipotez to jeden z podstawowych procesów twórczego myślenia oraz fundamentalny element procesu tworzenia nauki. 
@@ -99,9 +101,9 @@ to [sposób]() gromadzenia materiału według ściśle opracowanych [dyrektyw]()
 
 #### Dyrektywa, wytyczna
 
-rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działania; wytyczna, zalecenie, nakaz
-+ czego nie wolno
-+ jak wolno
+rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działania; wytyczna, zalecenie, nakaz:
++ czego nie wolno?
++ co wolno?
 
 
 
@@ -122,7 +124,7 @@ rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działa
 
 Proces to seria zadań i czynności, które prowadzą do [celu](). 
 
-+ pytanie: Jakie procedury?
++ pytanie: **Jakie procedury?**
 + Proces badawczy to świadoma, celowa zmierzona czynność
 + powinna kierować się określonymi regułami i wskazaniami
 
@@ -132,7 +134,7 @@ Proces to seria zadań i czynności, które prowadzą do [celu]().
 
 #### Procedura 
 
-+ Pytanie: Jakie czynności?
++ pytanie: **Jakie czynności?**
 + Procedura to metod w organizacji
 + proces to [zbiór]() [procedur]()
 + Procedura to zbiór instrukcji dotyczących wykonania pojedynczego zadania lub czynności w ramach procesu.
@@ -180,7 +182,7 @@ Na przykład, podczas kierowania wniosku do odpowiedniego recenzenta, może być
 
 to [zbiór]() [metod]() i [technik]() dotyczących sposobów wykonywania pracy lub trybu postępowania prowadzącego do określonego [celu]().
 
-+ pytanie: Jak to należy robić?
++ pytanie: **Jak to należy robić?**
 + kieruje się ku praktyce wykonawczej, skupia się na metodach realizacji zadań
 + pojedyncza metodyka będzie gromadziła [metody]() lub [techniki]()
 + Metodyka abstrahuje od merytorycznego kontekstu danego obszaru,
@@ -193,30 +195,65 @@ to [zbiór]() [metod]() i [technik]() dotyczących sposobów wykonywania pracy l
 
 to [nauka]() o metodach badań naukowych i o sposobach przeprowadzania analiz oraz oceniania wartości poznawczej poszczególnych [dyscyplin naukowych]().
 
-+ Co należy robić?
++ pytanie: **Co należy robić?**
 + kieruje się ku teorii usprawniania
 Przykłady: 
 + Agile - metodologia prowadzenia projektów zwinnych.
 
 
 
-#### Paradygmaty programowania. 
+### Paradygmaty programowania
 
 Programowanie imperatywne oraz deklaratywne
 
-Paradygmat imperatywny
+#### Paradygmat imperatywny
+opisuje proces wykonywania jako sekwencję instrukcji zmieniających stan programu. 
+Rozszerzeniem (w sensie wbudowanych funkcji) i rodzajem (w sensie paradygmatu) programowania imperatywnego jest programowanie proceduralne. 
 + jak coś zrobić, krok po kroku
 + Cel jest określony poprzez szczegółowe czynności
 + opis czynności procedur
 
 
-Paradygmat deklaratywny 
+Przykład paradygmat imperatywnego: programowanie strukturalne i proceduralne
+
++ W programowaniu strukturalnym chodzi o używanie struktur, które kontrolują flow programu w stylu for, switch, while, if, else
++ Podejście proceduralne polega na podzieleniu programu na procedury czyli funkcje w skład których wchodzi struktura, to wyższa forma abstrakcji, ale zachowuje cechy programu imperatywnego
+
+Każdy program proceduralny jest też programem strukturalnym (ze względu na użycie wywołań funkcji, które są tymi "strukturami" sterującymi przebiegiem programu).
+![image](https://user-images.githubusercontent.com/5669657/235690706-40450624-bf13-40ad-980a-dabbd985bfda.png)
+
+
+
+#### Paradygmat deklaratywny
+
+Peter Van Roy oraz Serif Haridi podają następujące warunki, jakie musi spełniać program, aby mógł być uznany za deklaratywny:
+
++ niezależny — wynik końcowy nie zależy od żadnego zewnętrznego stanu,
++ bezstanowy — nie posiada stanu wewnętrznego, który jest zachowywany między wywołaniami,
++ deterministyczny — dla takich samych argumentów wejściowych zawsze daje ten sam wynik.
+
+
+Przykłady:
+Istnieje kilka szczegółowych paradygmatów, które spełniają te warunki, różniących się sposobami ich osiągnięcia: programowanie funkcyjne, programowanie logiczne, programowanie ograniczeń. 
+
 + co ma dla nas zrobić, 
 + celem jest rezultat - proces, a nie same procedury
 + bez szczegółów implementacji, 
 + ważny jest dla nas wynik
 
-https://codenga.pl/artykuly/poradniki/programowanie-imperatywne-oraz-deklaratywne
+
+
+#### Paradygmat modularny
+
+Programowanie modularne, modular programming
+
+paradygmat programowania zalecający stosowanie nadrzędności modułów w stosunku do procedur i bloków tworzących program. 
+Moduł grupuje funkcjonalnie związane ze sobą dane oraz procedury i jest reprezentacją obiektu jednokrotnie występującego w programie. 
+Programowanie takie wykorzystywane jest przez wyspecjalizowane języki programowania, np. Ada, Modula-2, Pascal, Fortran90.
+
+Paradygmat programowania modularnego jest blisko związany z innymi paradygmatami, a mianowicie programowaniem strukturalnym i programowaniem zorientowanym obiektowo, gdzie jest często stosowany. 
+
+
 
 #### Podsumowanie
 
@@ -592,6 +629,7 @@ Galeria Przykładów modularyzacji
 
 + [programowanie deklaratywne i imperatywne](https://codenga.pl/artykuly/poradniki/programowanie-imperatywne-oraz-deklaratywne)
 
++ [Programowanie deklaratywne – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Programowanie_deklaratywne)
 
 + [IMMUSEC Metodologia, metodyka, metoda, sposób, procedura – wyjaśnienie zawiłości językowych](https://www.immusec.com/metodologia-metodyka-metoda-sposob-procedura-wyjasnienie-zawilosci-jezykowych/)
 
