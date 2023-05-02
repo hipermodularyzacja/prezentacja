@@ -28,7 +28,7 @@ Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na te
 
 ### Plan prezentacji:
 
-##### 1. Wprowadzenie do hipermodularyzacji
+##### 1. Geneza
 ##### 2. Słownictwo
 ##### 3. Teoria
 ##### 4. Galeria przykładów
@@ -60,7 +60,9 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
-# 1. Wprowadzenie do hipermodularyzacji [10 minut]
+# 1. Geneza [10 minut]
+
+Wprowadzenie do hipermodularyzacji 
 
 + Muzyka
 
