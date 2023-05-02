@@ -91,9 +91,6 @@ Metoda, technika, procedura badawcza
 + Hipoteza badawcza po przeprowadzeniu badania może zostać potwierdzona bądź obalona
 + Stawianie i testowanie hipotez to jeden z podstawowych procesów twórczego myślenia oraz fundamentalny element procesu tworzenia nauki. 
 
-#### Procedura to [sposób]()
-
-
 
 #### Technika to [sposób]()
 
