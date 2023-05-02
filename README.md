@@ -368,7 +368,6 @@ Część tej prezentacji (teoretyczna) powstała w ostatnim tygodniu, przy pomoc
 + Modularity and hypermodularity in the daily routine of a person working with people
 + Modularity and hypermodularity in preparing a presentation
 + Examples of usage between modularity and hypermodularity
-+ The Benefits of using hypermodular approach
 + How to learn the Modular thinking approach?
 + How to learn the hypermodular thinking approach?
 + How to live in hyper modular world, how to manage the all modular elements?
@@ -432,30 +431,6 @@ Hypermodularity, on the other hand, is often used for creating products with hig
 In project management, modularity is often used for breaking down a project into smaller, manageable tasks that can be assigned to different team members. 
 Hypermodularity, on the other hand, is often used for creating highly agile and adaptable project workflows that can be easily customized and adjusted based on changing requirements.
 
-
-
-## The Benefits of using hypermodular approach:
-
-#### Flexibility:
-Hypermodularity allows for a highly flexible approach to creating and managing systems, products, or projects. It allows for easy customization and modification, making it easier to adapt to changing needs and requirements.
-
-#### Scalability:
-Hypermodularity allows for easy scalability of systems or products. It allows for the addition or removal of modules or components as needed, without affecting the entire system.
-
-#### Resilience:
-Hypermodularity allows for highly resilient systems that can withstand failures or disruptions. It allows for easy replacement or repair of individual modules or components, without affecting the entire system.
-
-#### Efficiency:
-Hypermodularity allows for more efficient development, deployment, and maintenance of systems or products. It allows for easy integration of different modules or components, reducing development time and costs.
-
-#### Collaboration:
-Hypermodularity allows for greater collaboration among team members working on different modules or components. It allows for easy integration of different components, making it easier to work together on complex projects.
-
-#### Customization:
-Hypermodularity allows for easy customization of systems or products. It allows for the creation of highly personalized systems or products, tailored to the specific needs of individual users or customers.
-
-Overall, hypermodularity approach offers many benefits for creating and managing complex systems, products, or projects. 
-It allows for greater flexibility, scalability, resilience, efficiency, collaboration, and customization, making it an ideal approach for many different applications.
 
 
 
