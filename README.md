@@ -1,5 +1,12 @@
 # prezentacja.hipermodularyzacja.pl
 
+## Kim jestem
+
++ [entuzjasta](http://www.entuzjasta.pl)
++ [researcher](http://www.researcher.pl)
++ [platformengineer](http://www.platformengineer.pl)
+
+
 ## Plan prezentacji
 
 + Wprowadzenie do hipermodularyzacji
