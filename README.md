@@ -5,7 +5,7 @@
 ### Role:
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
 + badacz, [researcher](http://www.researcher.pl)
-+ programista, administrator, [platform engineer](http://www.platformengineer.pl)
++ programista, administrator, DevOps, [platform engineer](http://www.platformengineer.pl)
 
 ### Tematy:
 + [modularyzacja](http://www.entuzjasta.pl)
