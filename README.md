@@ -2,9 +2,15 @@
 
 ## Kim jestem
 
-+ [entuzjasta](http://www.entuzjasta.pl)
-+ [researcher](http://www.researcher.pl)
-+ [platformengineer](http://www.platformengineer.pl)
+Role:
++ [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
++ badacz,[researcher](http://www.researcher.pl)
++ programista, administrator, [platform engineer](http://www.platformengineer.pl)
+
+Tematy:
++ [modularyzacja](http://www.entuzjasta.pl)
++ [automatyzacja](http://www..pl)
++ [bezpieczeństwo](http://www..pl)
 
 
 ## Plan prezentacji
@@ -135,7 +141,7 @@ Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy
 
 
 
-## Modualyzacja i Hipermodularyzacja
+## Modularyzacja i Hipermodularyzacja
 
 Modularyzacja to przyporządkowywanie na podstawie specyfiki.
 
