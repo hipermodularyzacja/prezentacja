@@ -28,23 +28,26 @@ Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na te
 
 ### Plan prezentacji:
 
-#### 1. Wprowadzenie do hipermodularyzacji
-#### 2. Słownictwo
-#### 3. Teoria
-#### 4. Galeria przykładów
-#### 5. Dyskusja
+##### 1. Wprowadzenie do hipermodularyzacji
+##### 2. Słownictwo
+##### 3. Teoria
+##### 4. Galeria przykładów
+##### 5. Dyskusja
  
+
 
 ### Jak powstała ta prezentacja?
 
-Ta prezentacja jest pdsumowaniem wieloletnich prac badawaczych nad drogą dotarcia do automatyzacji.
+Ta prezentacja jest podsumowaniem wieloletnich prac badawaczych nad drogą dotarcia do automatyzacji.
 Badałem specyfikę i naturę metod, które sprawdzają się w różnych branżach i zastosowaniach.
+
 
 
 ### Jakie książki polecam?
 
 + [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
 + [hipermodularyzacja -  w trakcie pisania]
+
 
 
 ### Nagroda
@@ -56,7 +59,9 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
+
 # 1. Wprowadzenie do hipermodularyzacji [10 minut]
+
 + Muzyka
 
 
