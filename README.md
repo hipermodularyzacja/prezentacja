@@ -99,7 +99,8 @@ Modularyzacja to przyporządkowywanie na podstawie specyfiki.
 
 Hipermodularyzacja to wytwarzanie ustandaryzowanych i wyspecjalizowanych modułów.
 
-O ile modularyzacja bazuje na gotowych modułachj o tyle Hiermodularyzacja  determinuje ich powstawanie, narzuca standardy.
+**Modularyzacja** zajmuje się tworzeniem sieci modułów, **Hiermodularyzacja** wchodzi istotę samych modułów, determinuje ich powstawanie, narzuca standardy.
+
 
 Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
 Hipermodularyzacja narzuza metodykę pow
