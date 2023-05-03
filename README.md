@@ -35,6 +35,7 @@ Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na te
 ##### 5. Jak (hiper)modularyzować?
 ##### 6. Dyskusja
  
+każdy krok jest obliczony na ok. 5 minut
 
 
 ### Jak powstała ta prezentacja?
@@ -61,7 +62,7 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
-# 1. Geneza [10 minut]
+# 1. Geneza
 
 Wprowadzenie do hipermodularyzacji 
 
