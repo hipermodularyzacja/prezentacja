@@ -82,16 +82,6 @@ Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy
 + Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
 + Hipermodularyzacja zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
 
-Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
-
-+ Elastyczność, Flexibility
-+ Reużywalność, Reusability
-+ Skalowalność, Scalability
-+ Zwinność, Agility
-+ Odporność, Resilience
-+ Dostosowalność, Customization
-
-
 
 ### Modularyzacja i Hipermodularyzacja
 
@@ -103,7 +93,7 @@ Hipermodularyzacja to wytwarzanie ustandaryzowanych i wyspecjalizowanych moduł�
 
 
 Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
-Hipermodularyzacja narzuza metodykę pow
+Hipermodularyzacja narzuza metodykę tworzenia nowych modułów
 
 
 ### architektura modułowa
@@ -117,6 +107,18 @@ Te niezależne jednostki nazywane są modułami i można je łatwo wymieniać lu
 Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
 Oferują znaczące korzyści w zakresie elastyczności, skalowalności, możliwości ponownego użycia, konserwacji, sprawności, odporności, dostosowywania i współpracy. 
 Modularyzacja to droga do solidnych, elastycznych i wydajnych systemy.
+
+
+Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
+
++ Elastyczność, Flexibility
++ Reużywalność, Reusability
++ Skalowalność, Scalability
++ Zwinność, Agility
++ Odporność, Resilience
++ Dostosowalność, Customization
+
+
 
 
 #### Zwinność
