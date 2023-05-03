@@ -85,21 +85,23 @@ Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy
 
 ### Modularyzacja i Hipermodularyzacja
 
-Modularyzacja to przyporządkowywanie na podstawie specyfiki.
-
-Hipermodularyzacja to wytwarzanie ustandaryzowanych i wyspecjalizowanych modułów.
-
 **Modularyzacja** zajmuje się tworzeniem sieci modułów, **Hiermodularyzacja** wchodzi istotę samych modułów, determinuje ich powstawanie, narzuca standardy.
 
 
-Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
-Hipermodularyzacja narzuza metodykę tworzenia nowych modułów
+Modularyzacja to tworzenie sieci modułów. (Ilościowe)
+
+Hipermodularyzacja to tworzenie ustandaryzowanych i wyspecjalizowanych modułów. (Jakościowe)
+
 
 
 ### architektura modułowa
 
 architektura modułowa odnosi się do projektowania systemu składającego się z niezależnych jednostek, które można łączyć w celu stworzenia większego i bardziej złożonego systemu.
 Te niezależne jednostki nazywane są modułami i można je łatwo wymieniać lub modyfikować bez wpływu na cały system.
+
+Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
+Hipermodularyzacja narzuza metodykę tworzenia nowych modułów
+
 
 
 ### Korzyści z hipermodularności
