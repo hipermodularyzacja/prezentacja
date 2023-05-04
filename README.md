@@ -385,7 +385,7 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 
 
-# 3. Teoria [10 minut]
+# 3. Teoria
 
 Zadawanie własicwych pytań 
 
@@ -704,7 +704,7 @@ Postępując zgodnie z tymi krokami, osoba nietechniczna może budować komponen
 4. Magazynowanie
 + regały, skrzynki, pudełka
 
-
+5. ...
 
 
 
