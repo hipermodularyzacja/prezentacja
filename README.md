@@ -156,11 +156,19 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 # 2. Słownictwo
 
+Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
 
-Problem, Rozwiązanie, Hipoteza, Procedura, Proces, Technika, Dyrektywa, Metoda, Metodyka, Metodologia
++ Problem
++ Rozwiązanie
++ Hipoteza
++ Procedura
++ Proces
++ Technika
++ Dyrektywa
++ Metoda
++ Metodyka
++ Metodologia
 
-Na podstawie [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
-Metoda, technika, procedura badawcza
 
 
 #### [Badania naukowe](https://pl.wikipedia.org/wiki/Badania_naukowe)
