@@ -664,16 +664,33 @@ Na przykład monitoruj średni czas połączeń dla modułu odbierania połącze
 Postępując zgodnie z tymi krokami, osoba nietechniczna może budować komponenty przy użyciu zasad projektowania hipermodułowego, co może prowadzić do bardziej wydajnego i efektywnego procesu.
 
 
+
 + Tworzenie kilku na raz
 + Porównanie modułów
-+ 
+ 
 
 
-1. Infrastruktura
-plesk, backup
+1. Programowanie
++ Enterprise Integration Patterns
++ Camel
++ Wzorce
++ Biblioteki
++ Digital Twin
 
-2. Modularny hardware
-+ 
+
+2. Infrastruktura
++ plesk
++ proxmox
++ openstack
+
+3. Modularny hardware
++ minipc
++ systemowe skrzynki
+
+4. Magazynowanie
++ regały, skrzynki, pudełka
+
+
 
 
 
