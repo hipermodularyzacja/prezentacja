@@ -29,7 +29,7 @@ Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na te
 ### Plan prezentacji:
 
 ##### 1. Geneza
-##### 2. Słownictwo
+##### 2. Badanie
 ##### 3. Teoria
 ##### 4. Galeria przykładów
 ##### 5. Jak (hiper)modularyzować?
@@ -154,9 +154,18 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 
 
-# 2. Słownictwo
+# 2. Badanie
+
+Moim celem badania tematu hipermodularyzacji jest większenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
+
+Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
+
+To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
+
 
 Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
+
+## Słownictwo 
 
 + Problem
 + Rozwiązanie
