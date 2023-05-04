@@ -59,6 +59,17 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
+## Cel
+
+Moim celem badania tematu hipermodularyzacji jest większenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
+
+Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
+
+To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
+
+
+
+
 
 
 
@@ -108,8 +119,8 @@ Hipermodularyzacja narzuza metodykę tworzenia nowych modułów
 
 Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
 Oferują znaczące korzyści w zakresie elastyczności, skalowalności, możliwości ponownego użycia, konserwacji, sprawności, odporności, dostosowywania i współpracy. 
-Modularyzacja to droga do solidnych, elastycznych i wydajnych systemy.
 
+Modularyzacja to droga do solidnych, elastycznych i wydajnych systemy.
 
 Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
 
@@ -155,13 +166,6 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 
 # 2. Badanie
-
-Moim celem badania tematu hipermodularyzacji jest większenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
-
-Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
-
-To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
-
 
 Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
 
@@ -298,6 +302,7 @@ to [zbiór]() [metod]() i [technik]() dotyczących sposobów wykonywania pracy l
 
 + Przykład:
   + Metodyki zarządzania projektami: PRINCE2 lub TenStep. 
+
 
 
 #### [Metodologia](https://pl.wikipedia.org/wiki/Metodologia) 
