@@ -385,9 +385,11 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 
 
+
+
 # 3. Teoria
 
-Zadawanie własicwych pytań 
+Zadawanie właściwych pytań 
 
 Właściwe zadawanie pytań jest konieczne do poznania prawdy na temat, który nas interesuje,
 zwłaszcza w kontekście ostatniego roku dostępności sztucznej inteligencji do masowego użycia. 
@@ -582,17 +584,22 @@ Dowiedz się o różnych typach interfejsów, takich jak interfejsy API lub prot
 
 
 #### Korzystaj z narzędzi modułowych
+
 Używaj narzędzi modułowych do zarządzania różnymi modułami systemu.
 Obejmuje to narzędzia do kontroli wersji, testowania i wdrażania.
 
+
 #### Ćwicz projektowanie modułowe
+
 Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
 Oznacza to podzielenie systemów na mniejsze, wyspecjalizowane moduły, które można łatwo wymienić lub zaktualizować.
+
 
 #### Współpracuj z innymi
 
 Współpraca jest kluczem w hiper-modułowym świecie.
 Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
+
 
 #### Nieustannie się ucz
 
@@ -618,43 +625,57 @@ Wykonując te kroki, możesz projektować i przekształcać procesy w hipermodu�
 Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
 Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb procesu.
 
+### Ogranicz
+Określ kontekst w którym chcesz usprawnić system połączeń, lub chcesz dopiero go zaimplementować.
+W modularyzacji staramy się  ograniczać pole widzenia, analizy i działania, aby ograniczyć jej koszty.
+Prześledć gdzie jest największy ruch w sieci połączeń organizacji, gdzie korzyści z modularyzacji mogą przynieść najwięcej korzyści, gdzie specjalizacja czyli podniesienie jakości będzie docenione?
+**Na przykład** Przy obsłudze klienta są dwa przypadki dzwoniących, reklamacje i zapytania ofertowe, odbierającym może być być sekretarka, która krok po kroku poprowadzi dzwoniącego a następnie bot, ta sama implementacja może dotyczcyć chatbota na stronie www lub wiadomości email, ale najpierw trzeba ograniczyć ją do telefonujących.
+
 #### Identyfikuj:
+
 Zacznij od zidentyfikowania procesu, który chcesz przekształcić w komponenty hipermodułowe. 
 Może to być dowolny proces, taki jak proces produkcyjny, proces obsługi klienta lub proces zarządzania projektem.
 
 #### Dziel:
+
 Podziel proces na mniejsze komponenty lub moduły.
 Każdy moduł powinien być wysoce wyspecjalizowany i skoncentrowany na jednym konkretnym zadaniu.
-Na przykład proces obsługi klienta można podzielić na mniejsze moduły, takie jak odbieranie połączeń, odpowiadanie na e-maile i rozpatrywanie reklamacji.
+**Na przykład** proces obsługi klienta można podzielić na mniejsze moduły, takie jak odbieranie połączeń, odpowiadanie na e-maile i rozpatrywanie reklamacji.
 
 #### Łącz:
+
 Zdefiniuj interfejsy między różnymi modułami.
 Pomoże Ci to zrozumieć, w jaki sposób poszczególne moduły współdziałają ze sobą.
-Na przykład interfejsem pomiędzy modułem odbierania połączeń a modułem odpowiadania na e-maile może być baza danych klientów.
+**Na przykład** interfejsem pomiędzy modułem odbierania połączeń a modułem odpowiadania na e-maile może być baza danych klientów.
 
 #### Twórz:
+
 Zaprojektuj każdy moduł tak, aby był wysoce wyspecjalizowany i elastyczny.
 Umożliwi to ich łatwą wymianę lub aktualizację w miarę rozwoju procesu.
-Na przykład moduł odbierania połączeń może być zaprojektowany do obsługi różnych typów połączeń, takich jak połączenia sprzedażowe, połączenia wsparcia i połączenia rozliczeniowe.
+**Na przykład** moduł odbierania połączeń może być zaprojektowany do obsługi różnych typów połączeń, takich jak połączenia sprzedażowe, połączenia wsparcia i połączenia rozliczeniowe.
 
 #### Buduj:
+
 Zbuduj komponenty, korzystając z hipermodułowych zasad projektowania.
 Oznacza to podzielenie komponentów na mniejsze, wyspecjalizowane komponenty, które można łatwo wymienić lub zaktualizować.
-Na przykład moduł odbierania połączeń można podzielić na mniejsze elementy, takie jak skrypty rozmów, często zadawane pytania i formularze informacyjne dla klientów.
+**Na przykład** moduł odbierania połączeń można podzielić na mniejsze elementy, takie jak skrypty rozmów, często zadawane pytania i formularze informacyjne dla klientów.
 
 #### Testuj:
+
 Przetestuj komponenty, aby upewnić się, że działają efektywnie.
 Powtarzaj i udoskonalaj projekt, aż znajdziesz rozwiązanie, które działa.
-Na przykład przetestuj skrypty połączeń, aby upewnić się, że są skuteczne w obsłudze różnych typów połączeń.
+**Na przykład** przetestuj skrypty połączeń, aby upewnić się, że są skuteczne w obsłudze różnych typów połączeń.
 
 #### Integruj:
+
 Zintegruj komponenty z powrotem w cały proces.
 Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
-Na przykład upewnij się, że formularze z informacjami o klientach są prawidłowo przesyłane do modułu odpowiadania na wiadomości e-mail.
+**Na przykład** upewnij się, że formularze z informacjami o klientach są prawidłowo przesyłane do modułu odpowiadania na wiadomości e-mail.
 
 #### Ulepszaj:
+
 Stale ulepszaj proces, monitorując jego wydajność i dokonując niezbędnych korekt.
-Na przykład monitoruj średni czas połączeń dla modułu odbierania połączeń i dostosuj skrypty połączeń, aby poprawić wydajność.
+**Na przykład** monitoruj średni czas połączeń dla modułu odbierania połączeń i dostosuj skrypty połączeń, aby poprawić wydajność.
 
 Postępując zgodnie z tymi krokami, osoba nietechniczna może budować komponenty przy użyciu zasad projektowania hipermodułowego, co może prowadzić do bardziej wydajnego i efektywnego procesu.
 
