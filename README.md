@@ -1,6 +1,6 @@
 # prezentacja.hipermodularyzacja.pl
 
-## Wprowadzenie [5 minut]
+## Wprowadzenie
 
 ### Kim jestem?
 
@@ -698,6 +698,19 @@ Postępując zgodnie z tymi krokami, osoba nietechniczna może budować komponen
 
 
 ## Źródła
+
+
++ [Modularyzacja przy wytwarzaniu oprogramowania](https://www.hipermodularyzacja.pl/)
+
++ Polskie wydanie, Wersja Polska: HiperModularyzacja.pl [książka: Hiper Modularyzacja](https://book.hipermodularyzacja.pl/)
+
++ Polskie wydanie, Wersja Polska: HiperModularyzacja.pl [Blog: blog.HiperModularyzacja.pl](https://blog.hipermodularyzacja.pl/)
+
++ W trakcie jest też wersja angielska: HyperModularity.com  [www. Hyper Modularity .com](http://www.hypermodularity.com/)
+
++ [muzyka: Hiper Modularyzacja](https://www.hipermodularyzacja.pl/tekst.html)
+
++ Metamoduły bazujące na tym:  [docs.metamodule.org](https://docs.metamodule.org/)
 
 
 + [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
