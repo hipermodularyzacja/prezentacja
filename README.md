@@ -519,98 +519,34 @@ Seek out resources, books, and mentors who can help you learn more about hypermo
 By following these steps, you can develop your hypermodular thinking skills and become better equipped to tackle complex problems in a more flexible and scalable way. Remember to start small, focus on interfaces, and keep experimenting to build your skills.
 
 
-## Summary
-How to live in hyper modular world, how to manage the all modular elements?
 
-Living in a hyper-modular world means that we are constantly surrounded by an increasing number of specialized modules that are interconnected to form complex systems. Here are some ways to manage the all modular elements in a hyper-modular world:
-
-#### Develop a modular mindset
-Adopt a modular mindset that allows you to break down complex problems into smaller, more manageable pieces. 
-This will help you understand and manage the interconnected modules of a system.
-
-#### Understand the interfaces 
-In a hyper-modular world, it's important to understand how different modules interface with each other. 
-Learn about the different types of interfaces, such as APIs or protocols, and how they work.
-
-#### Use modular tools
-Use modular tools to manage the different modules of a system. 
-This includes tools for version control, testing, and deployment.
-
-#### Practice modular design
-Use modular design principles to create systems that are flexible and scalable. 
-This means breaking down systems into smaller, specialized modules that can be easily replaced or updated.
-
-#### Collaborate with others
-Collaboration is key in a hyper-modular world. 
-Work with others to share knowledge and expertise in managing the different modules of a system.
-
-#### Continuously learn
-A hyper-modular world is constantly evolving. 
-Continuously learn about new technologies and techniques for managing modular systems.
-
-By adopting a modular mindset, understanding the interfaces, using modular tools, practicing modular design, collaborating with others, and continuously learning, you can effectively manage the all modular elements in a hyper-modular world.
-
-
-## How to do it?
-
-
-Building the components using hyper-modular design principles means breaking down the components into smaller, specialized components that can be easily replaced or updated,
-
-Here is a to-do list with explanations on how to build components using hyper-modular design principles for a non-technical person:
- 
-By following these steps, you can design and convert processes to hyper-modular components that are flexible, scalable, and efficient. 
-
-Remember to focus on specialization, flexibility, and collaboration to create a system that can adapt to the process's changing needs.
-
-
-#### Identify the process: 
-Start by identifying the process that you want to convert into hyper-modular components. This could be any process, such as a manufacturing process, a customer service process, or a project management process.
-
-#### Break down the process: 
-Break down the process into smaller components or modules. 
-Each module should be highly specialized and focused on one specific task. 
-For example, a customer service process could be broken down into smaller modules such as answering calls, responding to emails, and handling complaints.
-
-#### Define the interfaces: 
-Define the interfaces between the different modules. 
-This will help you understand how the different modules interact with each other. 
-For example, the interface between the answering calls module and the responding to emails module could be the customer database.
-
-#### Design the modules: 
-Design each module to be highly specialized and flexible. 
-This will allow them to be easily replaced or updated as the process evolves. 
-For example, the answering calls module could be designed to handle different types of calls, such as sales calls, support calls, and billing calls.
-
-#### Build the components: 
-Build the components using hyper-modular design principles. 
-This means breaking down the components into smaller, specialized components that can be easily replaced or updated. 
-For example, the answering calls module could be broken down into smaller components such as call scripts, FAQs, and customer information forms.
-
-#### Test and iterate: 
-Test the components to ensure they are working effectively. 
-Iterate and refine the design until you find a solution that works. 
-For example, test the call scripts to ensure they are effective in handling different types of calls.
-
-#### Integrate the components: 
-Integrate the components back into the overall process. 
-Ensure that the interfaces between the different modules are working effectively. 
-For example, ensure that the customer information forms are being properly transferred to the responding to emails module.
-
-#### Continuously improve: 
-Continuously improve the process by monitoring its performance and making adjustments as necessary. 
-For example, monitor the average call time for the answering calls module and adjust the call scripts to improve efficiency.
-
-By following these steps, a non-technical person can build components using hyper-modular design principles, which can lead to a more efficient and effective process.
-
-
-
-
-
-# 4. Galeria przykładów [5 minut]
+# 4. Galeria przykładów
 
 Galeria Przykładów modularyzacji
 
 
+
+1. Programowanie
++ Enterprise Integration Patterns
++ Camel
++ Wzorce
++ Biblioteki
++ Digital Twin
+
+
+2. Infrastruktura
++ plesk
++ proxmox
++ openstack
+
+3. Modularny hardware
++ minipc
++ systemowe skrzynki
+
+4. Magazynowanie
++ regały, skrzynki, pudełka
+
+5. ...
 
 
 ### architektura modularna i monolityczna
@@ -626,7 +562,53 @@ systemy układania
 
 # 5. Jak (hiper)modularyzować?
 
+
+
+## Metodyka w IT
+
+Życie w hiper-modułowym świecie oznacza, że nieustannie otacza nas coraz większa liczba wyspecjalizowanych modułów, które są ze sobą połączone, tworząc złożone systemy. 
+Oto kilka sposobów zarządzania wszystkimi modułowymi elementami w hipermodułowym świecie:
+
+
+#### Rozwijaj modułowy sposób myślenia
+
+Rozbijaj złożone problemy na mniejsze, łatwiejsze i bardziej ekonomiczne w zarządzaniu elementy.
+Pomoże Ci to zrozumieć i zarządzać połączonymi ze sobą modułami systemu.
+
+#### Zapoznaj się z interfejsami
+
+W hiper-modułowym świecie ważne jest, aby zrozumieć, w jaki sposób różne moduły wchodzą ze sobą w interakcję.
+Dowiedz się o różnych typach interfejsów, takich jak interfejsy API lub protokoły, oraz o tym, jak działają.
+
+
+#### Korzystaj z narzędzi modułowych
+Używaj narzędzi modułowych do zarządzania różnymi modułami systemu.
+Obejmuje to narzędzia do kontroli wersji, testowania i wdrażania.
+
+#### Ćwicz projektowanie modułowe
+Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
+Oznacza to podzielenie systemów na mniejsze, wyspecjalizowane moduły, które można łatwo wymienić lub zaktualizować.
+
+#### Współpracuj z innymi
+
+Współpraca jest kluczem w hiper-modułowym świecie.
+Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
+
+#### Nieustannie się ucz
+
+Hipermodułowy świat nieustannie ewoluuje.
+Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
+
+
+Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modułowych narzędzi, ćwicząc modułowe projektowanie, współpracując z innymi i stale się ucząc, możesz skutecznie zarządzać wszystkimi modułowymi elementami w hipermodułowym świecie.
+
+
+
+## Technika
+
+
 Jak budować system w oparciu o hiper-modularne komponenty?
+
 Jakie są zasady projektowania hipermodułowego?
 
 Budowanie komponentów przy użyciu hipermodułowych zasad projektowania oznacza rozbijanie komponentów na mniejsze, wyspecjalizowane komponenty, które można łatwo wymienić lub zaktualizować.
@@ -635,7 +617,6 @@ Wykonując te kroki, możesz projektować i przekształcać procesy w hipermodu�
 
 Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
 Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb procesu.
-
 
 #### Identyfikuj:
 Zacznij od zidentyfikowania procesu, który chcesz przekształcić w komponenty hipermodułowe. 
@@ -681,30 +662,7 @@ Postępując zgodnie z tymi krokami, osoba nietechniczna może budować komponen
 
 + Tworzenie kilku na raz
 + Porównanie modułów
- 
 
-
-1. Programowanie
-+ Enterprise Integration Patterns
-+ Camel
-+ Wzorce
-+ Biblioteki
-+ Digital Twin
-
-
-2. Infrastruktura
-+ plesk
-+ proxmox
-+ openstack
-
-3. Modularny hardware
-+ minipc
-+ systemowe skrzynki
-
-4. Magazynowanie
-+ regały, skrzynki, pudełka
-
-5. ...
 
 
 
