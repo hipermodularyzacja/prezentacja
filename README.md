@@ -801,14 +801,19 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 
 
 ### Pokój dziecka:
+
+#### Etap 1
+
 + jeśli zabawki będą schowane do szafek, szuflad czy skrzynek to zawsze będzie to wyglądało na porządek.
 +  chodziło jedynie o wrzucenie zabawek do pudełek. Oczywiście to nie jest tak, że dzięki temu w pokojach dzieci panuje idealny porządek, ale jest im po prostu łatwiej go utrzymać, a ja jak wchodzę, to nie widzę tego, że w pudełku z klockami są też samochody, więc się tym nie denerwuję :)
 + pojemnik na zabawki w salonie. Dziecku będzie łatwiej po skończonej zabawie w salonie wrzucić zabawki do jednego pudła, a nie odnosić po kolei do swojego pokoju. 
 + Oczywiście te zabawki będą sobie rotowały między pokojem dziecka a pokojem dziennym, ale rodzice będą musieli raz na jakiś czas zorganizować przegląd pudełka w salonie i poprosić dziecko o przeniesienie części zabawek z powrotem do salonu. 
+
 [Jak utrzymać porządek w pokoju dziecka? - Mamy Gadżety](https://mamygadzety.pl/porzadek-pokoju-dziecka/)
 ![image](https://user-images.githubusercontent.com/5669657/236608428-2e022a4b-224d-4c66-9d33-25efb200f8df.png)
 
 
+#### Etap 2
 
 
 ##### rozmiary:
@@ -830,9 +835,22 @@ różne pokoje
 ![image](https://user-images.githubusercontent.com/5669657/236608605-8405fca3-2ff3-4af9-b76b-3099f1f0817b.png)
 + źródło: [Jak zaprowadzić porządek w pokoju dziecka? » Brykacze.pl - blog. Wszystko o zabawkach.](http://blog.brykacze.pl/zaprowadzic-porzadek-pokoju-dziecka/rodzic/)
 
-Małe pudełka, maksymalny bałagan, łatwy, bezpieczny transport i zarządzanie
+
+
+#### Etap 3
+
+
++ Małe, transparentne pudełka, 
++ Duży niekontrolowany bałagan przeniesiony do małego kontrolowanego pudełka,
++ Bezpieczny i łatwy transport przez dziecko
++ Możliwość zarządzania zawartością na kolejnych etapach.
+
 ![image](https://user-images.githubusercontent.com/5669657/236608899-70078ba3-2ab5-4e73-81cd-2d2403df9d28.png)
 
+
+
+
+----
 
 
 
