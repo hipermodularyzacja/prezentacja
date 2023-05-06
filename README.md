@@ -1,6 +1,25 @@
 # prezentacja.hipermodularyzacja.pl
 
-## Wprowadzenie
+
+## Plan prezentacji:
+
+##### 1. Prelegent
+##### 2. Cel prezentacji
+##### 3. Problem - dlaczego?
+##### 4. Geneza 
+##### 5. Badanie 
+##### 6. Teoria
+##### 7. Galeria przykładów
+##### 8. Jak (hiper)modularyzować?
+##### 9. Dyskusja
+ 
+każdy krok jest obliczony na ok. 5 minut
+
+
+
+---
+
+# 1. Prelegent
 
 + Kim jestem?
 
@@ -20,22 +39,21 @@
 + ...
 
 
-### Cel prezentacji
+
+
+
+
+
+# 2. Cel prezentacji
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
+Moim celem badania tematu hipermodularyzacji jest większenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
 
+Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
 
-### Plan prezentacji:
+To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
 
-##### 1. Geneza
-##### 2. Badanie
-##### 3. Teoria
-##### 4. Galeria przykładów
-##### 5. Jak (hiper)modularyzować?
-##### 6. Dyskusja
- 
-każdy krok jest obliczony na ok. 5 minut
 
 
 ### Jak powstała ta prezentacja?
@@ -51,7 +69,6 @@ Badałem specyfikę i naturę metod, które sprawdzają się w różnych branża
 + [hipermodularyzacja -  w trakcie pisania]
 
 
-
 ### Nagroda
 
 Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
@@ -59,21 +76,66 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
-## Cel
-
-Moim celem badania tematu hipermodularyzacji jest większenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
-
-Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
-
-To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
 
 
 
+# 3. Problem - dlaczego?
+
+
+
+Problemyu związane z modularyzacją, jak rozeznać granice?
++ [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
+
+
+### Odwozorowanie
+
+W tej prezentacji przeznaczonej dla programistów można zaobserwować jak jest pojmowana modularyzacja w IT.
+Częstą praktyką jest wykorzystywanie dostępnych i znanych programiście wzorców, dopasowwywanie rzeczywistości pod wrzozec.
+Niestety taka praktyka w naturalny sposób prowadzi do tworzenia implementecji, kosztownych w utrzymaniu.
+
+Można tę sytuację porównać do klocków, gdzie chcąc odwzorować obiekt, np pojazd, używamy tylko dostępnym klocków.
+
+
+### Kierunek oddziaływania modularyzacji na rzeczywistość
+
+W modularyzacji gdy braknie klocków to dostarczamy nowe, lepiej dopasowane poprzez hipermodularyzację.
+
++ staramy się zmieniać rzeczywistość prowadząc zmiany w ograniczonym miejscu i czasie.
++ Staramy się zawężać pole oddziaływania modularyzacji na rzeczywistość prowadząc do uszlachetnienia tylko części w danej chwili
++ oddziałujemy tam gdzie jest to łatwiejsze, gdzie ingerencja nie jest znacząca, nie jest wymagany duży koszt
+
+UWAGA
++ nie prowadzimy działań na całym systemie, gdyż interesuje nas elastyczność i sprężystość, odporność na wpływ z zewnątrz, chcemy uniknąć braku dostępu do zasobów
++ korzystamy z tego co mamy, nie zmieniamy połączeń, które prowadzą do ryzyka
 
 
 
 
-# 1. Geneza
+### Pokój dziecka:
+
+forma i treść
+
+nie mogę być jednocześnie formą i tworzywem - Andrzej Dobosz (Filozof w "Rejsie"):
+„Nie mogę być jednocześnie twórcą i tworzywem” – mówił filozof w klasyku polskiego kina, w filmie „Rejs”.
+
+Dotyczy to często każdego z nas na styku teorii i praktyki.
+![image](https://user-images.githubusercontent.com/5669657/236606256-ec0d72e5-8c50-4b4e-ab91-45c629c41f50.png)
+żródło: https://www.youtube.com/watch?v=ylfdoWEyYXQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 4. Geneza
 
 Wprowadzenie do hipermodularyzacji 
 
@@ -165,7 +227,9 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 
 
-# 2. Badanie
+
+
+# 5. Badanie
 
 Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
 
@@ -387,7 +451,7 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 
 
-# 3. Teoria
+# 6. Teoria
 
 Zadawanie właściwych pytań 
 
@@ -525,7 +589,9 @@ By following these steps, you can develop your hypermodular thinking skills and 
 
 
 
-# 4. Galeria przykładów
+
+
+# 7. Galeria przykładów
 
 Galeria Przykładów modularyzacji
 
@@ -576,7 +642,6 @@ duże -> małe
 + systemowe skrzynki
 
 
-
 5. ...
 
 
@@ -591,7 +656,11 @@ systemy układania
 
 
 
-# 5. Jak (hiper)modularyzować?
+
+
+
+
+# 8. Jak (hiper)modularyzować?
 
 
 
@@ -719,45 +788,12 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 
 
 
-# 6. Problemy 
-
-Problemyu związane z modularyzacją, jak rozeznać granice?
-+ [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
-
-
-### Odwozorowanie
-
-W tej prezentacji przeznaczonej dla programistów można zaobserwować jak jest pojmowana modularyzacja w IT.
-Częstą praktyką jest wykorzystywanie dostępnych i znanych programiście wzorców, dopasowwywanie rzeczywistości pod wrzozec.
-Niestety taka praktyka w naturalny sposób prowadzi do tworzenia implementecji, kosztownych w utrzymaniu.
-
-Można tę sytuację porównać do klocków, gdzie chcąc odwzorować obiekt, np pojazd, używamy tylko dostępnym klocków.
-
-
-### Kierunek oddziaływania modularyzacji na rzeczywistość
-
-W modularyzacji gdy braknie klocków to dostarczamy nowe, lepiej dopasowane poprzez hipermodularyzację.
-
-+ staramy się zmieniać rzeczywistość prowadząc zmiany w ograniczonym miejscu i czasie.
-+ Staramy się zawężać pole oddziaływania modularyzacji na rzeczywistość prowadząc do uszlachetnienia tylko części w danej chwili
-+ oddziałujemy tam gdzie jest to łatwiejsze, gdzie ingerencja nie jest znacząca, nie jest wymagany duży koszt
-
-UWAGA
-+ nie prowadzimy działań na całym systemie, gdyż interesuje nas elastyczność i sprężystość, odporność na wpływ z zewnątrz, chcemy uniknąć braku dostępu do zasobów
-+ korzystamy z tego co mamy, nie zmieniamy połączeń, które prowadzą do ryzyka
 
 
 
 
 
-
-
-
-
-
-
-
-# 7. Dyskusja [15 Minut]
+# 9. Dyskusja [15 Minut]
 
 + pytania
 + rozwiązania
@@ -767,6 +803,13 @@ UWAGA
 
 
 
+
+
+
+
+
+
+---
 
 ## Źródła
 
