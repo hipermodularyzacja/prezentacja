@@ -2,7 +2,7 @@
 
 ## Wprowadzenie
 
-### Kim jestem?
++ Kim jestem?
 
 ### Role:
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
@@ -522,13 +522,42 @@ By following these steps, you can develop your hypermodular thinking skills and 
 
 
 
+
+
+
 # 4. Galeria przykładów
 
 Galeria Przykładów modularyzacji
 
 
 
-1. Programowanie
+
+### Przeprowadzka:
+
+przenosimy w kartonach wszystkie rzeczy i nie mając starych mebli albo tylko część dodajemy nowe.
+Mamy możliwość poukładania wszystkich rzeczy w zależnośći od przeznaczenia lub/oraz właściciela:
+
+Tam gdzie jest własność wspólna, np. ręczniki, określamy miejsce w przestrzeni dostępne dla każdego
+Tam gdzie jest własność prywatna, odzież codzienna, określamy pokoje, które są używane przez konkretne osoby.
+Tam gdzie jest własność prywatna, ale używana w przestrzeni wspólnej, np buty, parasolki określamy ograniczone miejsce wspólne, korytarz.
+
+
+### Utrzymanie porządku
+
+
+duże -> małe
+
+
+
+### Magazynowanie
+
+
++ regały, skrzynki, pudełka
+
+
+### Programowanie
+
+
 + Enterprise Integration Patterns
 + Camel
 + Wzorce
@@ -536,17 +565,17 @@ Galeria Przykładów modularyzacji
 + Digital Twin
 
 
-2. Infrastruktura
+### Infrastruktura
 + plesk
 + proxmox
 + openstack
 
-3. Modularny hardware
+
+### Modularny hardware
 + minipc
 + systemowe skrzynki
 
-4. Magazynowanie
-+ regały, skrzynki, pudełka
+
 
 5. ...
 
@@ -626,6 +655,7 @@ Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączony
 Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb procesu.
 
 ### Ogranicz
+
 Określ kontekst w którym chcesz usprawnić system połączeń, lub chcesz dopiero go zaimplementować.
 W modularyzacji staramy się  ograniczać pole widzenia, analizy i działania, aby ograniczyć jej koszty.
 Prześledć gdzie jest największy ruch w sieci połączeń organizacji, gdzie korzyści z modularyzacji mogą przynieść najwięcej korzyści, gdzie specjalizacja czyli podniesienie jakości będzie docenione?
@@ -680,19 +710,60 @@ Stale ulepszaj proces, monitorując jego wydajność i dokonując niezbędnych k
 Postępując zgodnie z tymi krokami, osoba nietechniczna może budować komponenty przy użyciu zasad projektowania hipermodułowego, co może prowadzić do bardziej wydajnego i efektywnego procesu.
 
 
+#### Powiel i porównaj
 
+Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, by poprzez porównanie edukować się
 + Tworzenie kilku na raz
 + Porównanie modułów
 
 
 
 
+# 6. Problemy 
 
-# 6. Dyskusja [15 Minut]
+Problemyu związane z modularyzacją, jak rozeznać granice?
++ [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
+
+
+### Odwozorowanie
+
+W tej prezentacji przeznaczonej dla programistów można zaobserwować jak jest pojmowana modularyzacja w IT.
+Częstą praktyką jest wykorzystywanie dostępnych i znanych programiście wzorców, dopasowwywanie rzeczywistości pod wrzozec.
+Niestety taka praktyka w naturalny sposób prowadzi do tworzenia implementecji, kosztownych w utrzymaniu.
+
+Można tę sytuację porównać do klocków, gdzie chcąc odwzorować obiekt, np pojazd, używamy tylko dostępnym klocków.
+
+
+### Kierunek oddziaływania modularyzacji na rzeczywistość
+
+W modularyzacji gdy braknie klocków to dostarczamy nowe, lepiej dopasowane poprzez hipermodularyzację.
+
++ staramy się zmieniać rzeczywistość prowadząc zmiany w ograniczonym miejscu i czasie.
++ Staramy się zawężać pole oddziaływania modularyzacji na rzeczywistość prowadząc do uszlachetnienia tylko części w danej chwili
++ oddziałujemy tam gdzie jest to łatwiejsze, gdzie ingerencja nie jest znacząca, nie jest wymagany duży koszt
+
+UWAGA
++ nie prowadzimy działań na całym systemie, gdyż interesuje nas elastyczność i sprężystość, odporność na wpływ z zewnątrz, chcemy uniknąć braku dostępu do zasobów
++ korzystamy z tego co mamy, nie zmieniamy połączeń, które prowadzą do ryzyka
+
+
+
+
+
+
+
+
+
+
+
+
+# 7. Dyskusja [15 Minut]
 
 + pytania
 + rozwiązania
 + doświadczenia
+
+
 
 
 
