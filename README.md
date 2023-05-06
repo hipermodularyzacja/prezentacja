@@ -830,6 +830,10 @@ różne pokoje
 ![image](https://user-images.githubusercontent.com/5669657/236608605-8405fca3-2ff3-4af9-b76b-3099f1f0817b.png)
 + źródło: [Jak zaprowadzić porządek w pokoju dziecka? » Brykacze.pl - blog. Wszystko o zabawkach.](http://blog.brykacze.pl/zaprowadzic-porzadek-pokoju-dziecka/rodzic/)
 
+Małe pudełka, maksymalny bałagan, łatwy, bezpieczny transport i zarządzanie
+![image](https://user-images.githubusercontent.com/5669657/236608899-70078ba3-2ab5-4e73-81cd-2d2403df9d28.png)
+
+
 
 
 ### koniec:
