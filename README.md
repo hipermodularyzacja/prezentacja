@@ -134,7 +134,8 @@ UWAGA
 + forma: meble, pojemniki, miejsca
 + tworzywo: zabawki, urządzenia, przedmioty
 
-Porządek dziś, Porządek jutro, bez ingerencji
+
+Porządek dziś, Porządek jutro
 
 Jak tego dokonać, odpowiedź na koniec przentacji!
 
