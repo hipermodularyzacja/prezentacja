@@ -1,3 +1,4 @@
+
 # prezentacja.hipermodularyzacja.pl
 
 
@@ -45,6 +46,9 @@ każdy krok jest obliczony na ok. 5 minut
 
 
 # 2. Cel prezentacji
+
+![image](https://user-images.githubusercontent.com/5669657/236607475-39851935-19e4-4bf7-a1ac-9035587e0d4b.png)
+
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
@@ -789,11 +793,19 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 
 
 
+### koniec:
+klask, klask, klask
+![image](https://user-images.githubusercontent.com/5669657/236607603-e6a4a61c-8381-4bca-bb6f-bf5c066b6667.png)
 
 
 
 
 # 9. Dyskusja [15 Minut]
+
+Co na to jury?
+![image](https://user-images.githubusercontent.com/5669657/236607373-38586979-bf9e-4dd3-997c-3379ca95cdb1.png)
+
+
 
 + pytania
 + rozwiązania
