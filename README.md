@@ -846,8 +846,11 @@ różne pokoje
 + Bezpieczny i łatwy transport przez dziecko
 + Możliwość zarządzania zawartością na kolejnych etapach.
 
-![image](https://user-images.githubusercontent.com/5669657/236608899-70078ba3-2ab5-4e73-81cd-2d2403df9d28.png)
+Proza codzienności:
+![image](https://user-images.githubusercontent.com/5669657/236609574-ebc44829-ff78-44f4-81e8-e988379276be.png)
 
+Transparentne pojemniki:
+![image](https://user-images.githubusercontent.com/5669657/236608899-70078ba3-2ab5-4e73-81cd-2d2403df9d28.png)
 
 
 
