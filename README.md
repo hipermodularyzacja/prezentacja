@@ -87,6 +87,17 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
+### Forma i treść
+
+nie mogę być jednocześnie formą i tworzywem - Andrzej Dobosz (Filozof w "Rejsie"):
+„Nie mogę być jednocześnie twórcą i tworzywem” – mówił filozof w klasyku polskiego kina, w filmie „Rejs”.
+
+Dotyczy to często każdego z nas na styku teorii i praktyki.
+![image](https://user-images.githubusercontent.com/5669657/236606256-ec0d72e5-8c50-4b4e-ab91-45c629c41f50.png)
+żródło: https://www.youtube.com/watch?v=ylfdoWEyYXQ
+
+
+
 Problemyu związane z modularyzacją, jak rozeznać granice?
 + [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
 
@@ -115,22 +126,21 @@ UWAGA
 
 
 
+
 ### Pokój dziecka:
 
-forma i treść
++ ograniczona ilość miejsca
++ nieporządek
++ forma: meble, pojemniki, miejsca
++ tworzywo: zabawki, urządzenia, przedmioty
 
-nie mogę być jednocześnie formą i tworzywem - Andrzej Dobosz (Filozof w "Rejsie"):
-„Nie mogę być jednocześnie twórcą i tworzywem” – mówił filozof w klasyku polskiego kina, w filmie „Rejs”.
+Porządek dziś, Porządek jutro, bez ingerencji
 
-Dotyczy to często każdego z nas na styku teorii i praktyki.
-![image](https://user-images.githubusercontent.com/5669657/236606256-ec0d72e5-8c50-4b4e-ab91-45c629c41f50.png)
-żródło: https://www.youtube.com/watch?v=ylfdoWEyYXQ
-
-
+Jak tego dokonać, odpowiedź na koniec przentacji!
 
 
-
-
+![image](https://user-images.githubusercontent.com/5669657/236608538-0e99b3fc-49e2-498e-9e6c-a6a5bf7ffffc.png)
++ źródło: [Jak zaprowadzić porządek w pokoju dziecka? » Brykacze.pl - blog. Wszystko o zabawkach.](http://blog.brykacze.pl/zaprowadzic-porzadek-pokoju-dziecka/rodzic/)
 
 
 
@@ -790,6 +800,35 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 + Porównanie modułów
 
 
+### Pokój dziecka:
++ jeśli zabawki będą schowane do szafek, szuflad czy skrzynek to zawsze będzie to wyglądało na porządek.
++  chodziło jedynie o wrzucenie zabawek do pudełek. Oczywiście to nie jest tak, że dzięki temu w pokojach dzieci panuje idealny porządek, ale jest im po prostu łatwiej go utrzymać, a ja jak wchodzę, to nie widzę tego, że w pudełku z klockami są też samochody, więc się tym nie denerwuję :)
++ pojemnik na zabawki w salonie. Dziecku będzie łatwiej po skończonej zabawie w salonie wrzucić zabawki do jednego pudła, a nie odnosić po kolei do swojego pokoju. 
++ Oczywiście te zabawki będą sobie rotowały między pokojem dziecka a pokojem dziennym, ale rodzice będą musieli raz na jakiś czas zorganizować przegląd pudełka w salonie i poprosić dziecko o przeniesienie części zabawek z powrotem do salonu. 
+[Jak utrzymać porządek w pokoju dziecka? - Mamy Gadżety](https://mamygadzety.pl/porzadek-pokoju-dziecka/)
+![image](https://user-images.githubusercontent.com/5669657/236608428-2e022a4b-224d-4c66-9d33-25efb200f8df.png)
+
+
+
+
+##### rozmiary:
+duże - wszystko w jednym,
+dedykowane 1:1
+
+##### forma: 
+ogólne,
+dedykowane,
+
+#### kolory
+dopasowane do koloru przedmiotów,
+transparentne
+
+##### ograniczenia zasobów
+różne pokoje
+
+
+![image](https://user-images.githubusercontent.com/5669657/236608605-8405fca3-2ff3-4af9-b76b-3099f1f0817b.png)
++ źródło: [Jak zaprowadzić porządek w pokoju dziecka? » Brykacze.pl - blog. Wszystko o zabawkach.](http://blog.brykacze.pl/zaprowadzic-porzadek-pokoju-dziecka/rodzic/)
 
 
 
