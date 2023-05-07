@@ -157,6 +157,23 @@ UWAGA
 
 
 
+#### Podsumowanie
+
+W praktyce życiowej kierujemy się wyborem:
+
++ mniejszego zła []
++ zasady pareto skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
+
+O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
+
+Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
+
+
+
+
+
+
+
 # 4. Zastosowanie - gdzie?
 
 
@@ -319,19 +336,6 @@ Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawow
 
 
 [Badanie](badanie.md)
-
-
-#### Podsumowanie
-
-W praktyce życiowej kierujemy się wyborem:
-
-+ mniejszego zła []
-+ zasady pareto skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
-
-O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
-
-Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
-
 
 
 
