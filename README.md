@@ -11,13 +11,14 @@ każdy etap ok. 3 minuty
 ##### 3. Problem - dlaczego?
 ##### 4. Zastosowanie - gdzie?
 ##### 4. Geneza 
-##### 6. Badanie - w jaki sposób?
-##### 7. Teoria
-##### 8. Galeria przykładów
-##### 9. Jak (hiper)modularyzować?
-##### 10. Technika
-##### 11. Przykład użycia
-##### 12. Dyskusja
+##### 6. Korzyści z hipermodularności
+##### 7. Badanie - w jaki sposób?
+##### 8. Teoria
+##### 9. Galeria przykładów
+##### 10. Jak (hiper)modularyzować?
+##### 11. Technika
+##### 12. Przykład użycia
+##### 13. Dyskusja
  
 każdy krok jest obliczony na ok. 5 minut
 
@@ -28,6 +29,9 @@ każdy krok jest obliczony na ok. 5 minut
 # 1. Prelegent
 
 + Kim jestem?
+
+![image](https://user-images.githubusercontent.com/5669657/236694792-17bb2ba3-0236-4bbf-a58f-43312847a33b.png)
+
 
 ### Role:
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
@@ -63,8 +67,15 @@ Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do
 
 To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
 
-Moga zaoszczędzić zasoby i tworzyć lepsze organizacje.
+Cele:
++ oszczędność zasobów
++ lepsze zarządzanie
++ szybsza reakcja na nowe wyzwania
++ lepsza adaptacja
 
+
+Wiele  z tych doświadczeń była o wiele trudniejsza i kosztowniejsza 20 lat temu, gdy dopiero starałem się adaptować świat do swoich potrzeb i możliwości.
+Dziś jest to możliwe znacznie szybciej.
 
 
 
@@ -96,6 +107,7 @@ Badałem specyfikę i naturę metod, które sprawdzają się w różnych branża
 ### Nagroda
 
 Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
+
 
 
 
@@ -171,6 +183,8 @@ W praktyce życiowej kierujemy się wyborem:
 O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
 
 Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
+
+
 
 
 
@@ -280,7 +294,21 @@ Hipermodularyzacja narzuza metodykę tworzenia nowych modułów
 
 
 
-### Korzyści z hipermodularności
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 6. Korzyści z hipermodularności
 
 Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
 Oferują znaczące korzyści w zakresie elastyczności, skalowalności, możliwości ponownego użycia, konserwacji, sprawności, odporności, dostosowywania i współpracy. 
@@ -332,7 +360,12 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 
 
-# 6. Badanie - w jaki sposób?
+
+
+
+
+
+# 7. Badanie - w jaki sposób?
 
 Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
 
@@ -359,7 +392,11 @@ Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawow
 
 
 
-# 7. Teoria
+
+
+
+
+# 8. Teoria
 
 Zadawanie właściwych pytań 
 
@@ -479,7 +516,9 @@ By following these steps, you can develop your hypermodular thinking skills and 
 
 
 
-# 8. Galeria przykładów
+
+
+# 9. Galeria przykładów
 
 Galeria Przykładów modularyzacji
 
@@ -550,7 +589,8 @@ systemy układania
 
 
 
-# 9. Jak (hiper)modularyzować?
+
+# 10. Jak (hiper)modularyzować?
 
 
 
@@ -603,7 +643,13 @@ Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modu
 
 
 
-# 10. Technika
+
+
+
+
+
+
+# 11. Technika
 
 
 Jak budować system w oparciu o hiper-modularne komponenty?
@@ -616,8 +662,6 @@ Wykonując te kroki, możesz projektować i przekształcać procesy w hipermodu�
 
 Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
 Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb procesu.
-
-
 
 
 
@@ -654,7 +698,6 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 
 
 
-
 ## Modularyzacja procesu
 
 + Identyfikuj -> Dziel -> Łącz
@@ -678,7 +721,6 @@ Każdy moduł powinien być wysoce wyspecjalizowany i skoncentrowany na jednym k
 Zdefiniuj interfejsy między różnymi modułami.
 Pomoże Ci to zrozumieć, w jaki sposób poszczególne moduły współdziałają ze sobą.
 **Na przykład** interfejsem pomiędzy modułem odbierania połączeń a modułem odpowiadania na e-maile może być baza danych klientów.
-
 
 
 
@@ -728,7 +770,7 @@ Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
 
 
 
-# 11. Przykład użycia
+# 12. Przykład użycia
 
 
 
@@ -812,7 +854,7 @@ klask, klask, klask
 
 
 
-# 12. Dyskusja [15 Minut]
+# 13. Dyskusja [15 Minut]
 
 Co na to jury?
 ![image](https://user-images.githubusercontent.com/5669657/236607373-38586979-bf9e-4dd3-997c-3379ca95cdb1.png)
