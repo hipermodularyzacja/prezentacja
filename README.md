@@ -68,7 +68,7 @@ Kim jestem?
 # 2. Cel prezentacji
 
 ![image](https://user-images.githubusercontent.com/5669657/236607475-39851935-19e4-4bf7-a1ac-9035587e0d4b.png)
-
+[żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
 
 
@@ -144,7 +144,6 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
-
 ### Forma i treść
 
 nie mogę być jednocześnie formą i tworzywem - Andrzej Dobosz (Filozof w "Rejsie"):
@@ -152,7 +151,7 @@ nie mogę być jednocześnie formą i tworzywem - Andrzej Dobosz (Filozof w "Rej
 
 Dotyczy to często każdego z nas na styku teorii i praktyki.
 ![image](https://user-images.githubusercontent.com/5669657/236606256-ec0d72e5-8c50-4b4e-ab91-45c629c41f50.png)
-żródło: https://www.youtube.com/watch?v=ylfdoWEyYXQ
+[żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
 
 
