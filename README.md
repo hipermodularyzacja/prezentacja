@@ -4,6 +4,8 @@
 
 ## Plan prezentacji:
 
+każdy etap ok. 3 minuty
+
 ##### 1. Prelegent
 ##### 2. Cel prezentacji
 ##### 3. Problem - dlaczego?
@@ -13,7 +15,9 @@
 ##### 7. Teoria
 ##### 8. Galeria przykładów
 ##### 9. Jak (hiper)modularyzować?
-##### 10. Dyskusja
+##### 10. Technika
+##### 11. Przykład użycia
+##### 12. Dyskusja
  
 każdy krok jest obliczony na ok. 5 minut
 
@@ -177,18 +181,29 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 # 4. Zastosowanie - gdzie?
 
 
+### W rozwoju oprogramowania
+
+W rozwoju oprogramowania modułowość jest często używana do tworzenia komponentów wielokrotnego użytku, które można łatwo zintegrować z różnymi aplikacjami. 
+Z drugiej strony, hipermodularność jest często używana do rozbijania złożonych aplikacji na mniejsze, wyspecjalizowane mikroserwisy, które mogą być rozwijane i wdrażane niezależnie.
 
 
-### Modularyzacja a zarządzanie
+### Projektowanie produktów
+
+W projektowaniu produktów modularność jest często wykorzystywana do tworzenia produktów z wymiennymi częściami, które można łatwo wymienić lub uaktualnić. 
+Z drugiej strony, hipermodularność jest często używana do tworzenia produktów z wysoce konfigurowalnymi funkcjami i opcjami.
+
+
+### zarządzanie projektami
+
+W zarządzaniu projektami modułowość jest często wykorzystywana do rozbijania projektu na mniejsze, łatwe do zarządzania zadania, które można przypisać różnym członkom zespołu. 
+Z drugiej strony, hipermodułowość jest często używana do tworzenia wysoce zwinnych i adaptowalnych przepływów pracy w projekcie, które mogą być łatwo dostosowane i skorygowane w oparciu o zmieniające się wymagania.
+
+
+### Porządkowanie
 
 Codzienne problemy są związane nie tylko z tworzeniem ale też zarządzaniem, które pozwala m.in. na zamianie dużego bałaganu w mniejsze lokalne bałagany
 Kontekst powstania tego małego bałaganu pozwala na specjalizacje procesu uporządkowania.
 
-
-
-
-
-###  Modularyzacja a magazynowanie
 
 Pokój dziecka:
 
@@ -402,26 +417,6 @@ Część tej prezentacji (teoretyczna) powstała w ostatnim tygodniu, przy pomoc
 
 
 
-## Examples of usage between modularity and hypermodularity
-
-#### In software development
-
-In software development, modularity is often used for creating reusable components that can be easily integrated into different applications. 
-Hypermodularity, on the other hand, is often used for breaking down complex applications into smaller, specialized microservices that can be developed and deployed independently.
-
-#### Product design
-
-In product design, modularity is often used for creating products with interchangeable parts that can be easily replaced or upgraded. 
-Hypermodularity, on the other hand, is often used for creating products with highly customizable features and options.
-
-#### project management
-
-In project management, modularity is often used for breaking down a project into smaller, manageable tasks that can be assigned to different team members. 
-Hypermodularity, on the other hand, is often used for creating highly agile and adaptable project workflows that can be easily customized and adjusted based on changing requirements.
-
-
-
-
 ## How to learn the Modular thinking approach?
 
 Modular thinking is a way of approaching problems by breaking them down into smaller, more manageable pieces. Here are some steps you can take to learn modular thinking:
@@ -553,6 +548,8 @@ systemy układania
 
 
 
+
+
 # 9. Jak (hiper)modularyzować?
 
 
@@ -602,7 +599,11 @@ Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modu
 
 
 
-## Technika
+
+
+
+
+# 10. Technika
 
 
 Jak budować system w oparciu o hiper-modularne komponenty?
@@ -616,53 +617,23 @@ Wykonując te kroki, możesz projektować i przekształcać procesy w hipermodu�
 Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
 Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb procesu.
 
-### Ogranicz
+
+
+
+
+
+
+## Zmodularyzowana Sieć
+
++ Ograniczaj -> Ulepszaj -> Powielaj
+
+#### Ograniczaj
 
 Określ kontekst w którym chcesz usprawnić system połączeń, lub chcesz dopiero go zaimplementować.
 W modularyzacji staramy się  ograniczać pole widzenia, analizy i działania, aby ograniczyć jej koszty.
 Prześledć gdzie jest największy ruch w sieci połączeń organizacji, gdzie korzyści z modularyzacji mogą przynieść najwięcej korzyści, gdzie specjalizacja czyli podniesienie jakości będzie docenione?
 **Na przykład** Przy obsłudze klienta są dwa przypadki dzwoniących, reklamacje i zapytania ofertowe, odbierającym może być być sekretarka, która krok po kroku poprowadzi dzwoniącego a następnie bot, ta sama implementacja może dotyczcyć chatbota na stronie www lub wiadomości email, ale najpierw trzeba ograniczyć ją do telefonujących.
 
-#### Identyfikuj:
-
-Zacznij od zidentyfikowania procesu, który chcesz przekształcić w komponenty hipermodułowe. 
-Może to być dowolny proces, taki jak proces produkcyjny, proces obsługi klienta lub proces zarządzania projektem.
-
-#### Dziel:
-
-Podziel proces na mniejsze komponenty lub moduły.
-Każdy moduł powinien być wysoce wyspecjalizowany i skoncentrowany na jednym konkretnym zadaniu.
-**Na przykład** proces obsługi klienta można podzielić na mniejsze moduły, takie jak odbieranie połączeń, odpowiadanie na e-maile i rozpatrywanie reklamacji.
-
-#### Łącz:
-
-Zdefiniuj interfejsy między różnymi modułami.
-Pomoże Ci to zrozumieć, w jaki sposób poszczególne moduły współdziałają ze sobą.
-**Na przykład** interfejsem pomiędzy modułem odbierania połączeń a modułem odpowiadania na e-maile może być baza danych klientów.
-
-#### Twórz:
-
-Zaprojektuj każdy moduł tak, aby był wysoce wyspecjalizowany i elastyczny.
-Umożliwi to ich łatwą wymianę lub aktualizację w miarę rozwoju procesu.
-**Na przykład** moduł odbierania połączeń może być zaprojektowany do obsługi różnych typów połączeń, takich jak połączenia sprzedażowe, połączenia wsparcia i połączenia rozliczeniowe.
-
-#### Buduj:
-
-Zbuduj komponenty, korzystając z hipermodułowych zasad projektowania.
-Oznacza to podzielenie komponentów na mniejsze, wyspecjalizowane komponenty, które można łatwo wymienić lub zaktualizować.
-**Na przykład** moduł odbierania połączeń można podzielić na mniejsze elementy, takie jak skrypty rozmów, często zadawane pytania i formularze informacyjne dla klientów.
-
-#### Testuj:
-
-Przetestuj komponenty, aby upewnić się, że działają efektywnie.
-Powtarzaj i udoskonalaj projekt, aż znajdziesz rozwiązanie, które działa.
-**Na przykład** przetestuj skrypty połączeń, aby upewnić się, że są skuteczne w obsłudze różnych typów połączeń.
-
-#### Integruj:
-
-Zintegruj komponenty z powrotem w cały proces.
-Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
-**Na przykład** upewnij się, że formularze z informacjami o klientach są prawidłowo przesyłane do modułu odpowiadania na wiadomości e-mail.
 
 #### Ulepszaj:
 
@@ -672,7 +643,8 @@ Stale ulepszaj proces, monitorując jego wydajność i dokonując niezbędnych k
 Postępując zgodnie z tymi krokami, osoba nietechniczna może budować komponenty przy użyciu zasad projektowania hipermodułowego, co może prowadzić do bardziej wydajnego i efektywnego procesu.
 
 
-#### Powiel i porównaj
+
+#### Powielaj
 
 Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, by poprzez porównanie edukować się
 + Tworzenie kilku na raz
@@ -681,7 +653,87 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 
 
 
+
+
+## Modularyzacja procesu
+
++ Identyfikuj -> Dziel -> Łącz
+
+
+#### Identyfikuj:
+
+Zacznij od zidentyfikowania procesu, który chcesz przekształcić w komponenty hipermodułowe. 
+Może to być dowolny proces, taki jak proces produkcyjny, proces obsługi klienta lub proces zarządzania projektem.
+
+
+#### Dziel:
+
+Podziel proces na mniejsze komponenty lub moduły.
+Każdy moduł powinien być wysoce wyspecjalizowany i skoncentrowany na jednym konkretnym zadaniu.
+**Na przykład** proces obsługi klienta można podzielić na mniejsze moduły, takie jak odbieranie połączeń, odpowiadanie na e-maile i rozpatrywanie reklamacji.
+
+
+#### Łącz:
+
+Zdefiniuj interfejsy między różnymi modułami.
+Pomoże Ci to zrozumieć, w jaki sposób poszczególne moduły współdziałają ze sobą.
+**Na przykład** interfejsem pomiędzy modułem odbierania połączeń a modułem odpowiadania na e-maile może być baza danych klientów.
+
+
+
+
+
+
+## Hipermodularyzacja
+
++ Projektuj -> Buduj -> Testuj -> Integruj
+
+
+#### Projektuj:
+
+Zaprojektuj moduł tak, aby był wysoce wyspecjalizowany i elastyczny.
+Umożliwi to łatwą wymianę lub aktualizację w miarę rozwoju procesu.
+**Na przykład** moduł odbierania połączeń może być zaprojektowany do obsługi różnych typów połączeń, takich jak połączenia sprzedażowe, połączenia wsparcia i połączenia rozliczeniowe.
+
+
+#### Buduj:
+
+Zbuduj komponenty, korzystając z hipermodułowych zasad projektowania.
+Oznacza to podzielenie komponentów na mniejsze, wyspecjalizowane komponenty, które można łatwo wymienić lub zaktualizować.
+**Na przykład** moduł odbierania połączeń można podzielić na mniejsze elementy, takie jak skrypty rozmów, często zadawane pytania i formularze informacyjne dla klientów.
+
+
+#### Testuj:
+
+Przetestuj komponenty, aby upewnić się, że działają efektywnie.
+Powtarzaj i udoskonalaj projekt, aż znajdziesz rozwiązanie, które działa.
+**Na przykład** przetestuj skrypty połączeń, aby upewnić się, że są skuteczne w obsłudze różnych typów połączeń.
+
+
+#### Integruj:
+
+Zintegruj komponenty z powrotem w cały proces.
+Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
+**Na przykład** upewnij się, że formularze z informacjami o klientach są prawidłowo przesyłane do modułu odpowiadania na wiadomości e-mail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 11. Przykład użycia
+
+
+
 ### Pokój dziecka:
+
 
 #### Etap 1
 
@@ -692,6 +744,7 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 
 [Jak utrzymać porządek w pokoju dziecka? - Mamy Gadżety](https://mamygadzety.pl/porzadek-pokoju-dziecka/)
 ![image](https://user-images.githubusercontent.com/5669657/236608428-2e022a4b-224d-4c66-9d33-25efb200f8df.png)
+
 
 
 #### Etap 2
@@ -715,7 +768,6 @@ różne pokoje
 
 ![image](https://user-images.githubusercontent.com/5669657/236608605-8405fca3-2ff3-4af9-b76b-3099f1f0817b.png)
 + źródło: [Jak zaprowadzić porządek w pokoju dziecka? » Brykacze.pl - blog. Wszystko o zabawkach.](http://blog.brykacze.pl/zaprowadzic-porzadek-pokoju-dziecka/rodzic/)
-
 
 
 #### Etap 3
@@ -755,7 +807,12 @@ klask, klask, klask
 
 
 
-# 10. Dyskusja [15 Minut]
+
+
+
+
+
+# 12. Dyskusja [15 Minut]
 
 Co na to jury?
 ![image](https://user-images.githubusercontent.com/5669657/236607373-38586979-bf9e-4dd3-997c-3379ca95cdb1.png)
