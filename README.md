@@ -53,11 +53,12 @@ każdy krok jest obliczony na ok. 5 minut
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
-Celem badania tematu hipermodularyzacji jest większenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
+Celem badania tematu hipermodularyzacji jest zwiększenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
 
 Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
 
 To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
+
 Moga zaoszczędzić zasoby i tworzyć lepsze organizacje.
 
 
@@ -67,7 +68,8 @@ Moga zaoszczędzić zasoby i tworzyć lepsze organizacje.
 
 W prezentacji będę posługiwał się przykładami z różnych dziedziń, gdyż modularyzacja jest interdyscyplinarna.
 
-Dla uproszczenia przekazu posługuję się przykładami, z życia wielu z nas.
+Dla uproszczenia przekazu posługuję się przykładami, z życia wielu z nas, abyśmy mogli na koniec w dyskusji rozmawiać na temat łatwych do wyjaśnienia przykładów.
+
 
 
 
