@@ -58,6 +58,8 @@ każdy krok jest obliczony na ok. 5 minut
 
 ![image](https://user-images.githubusercontent.com/5669657/236607475-39851935-19e4-4bf7-a1ac-9035587e0d4b.png)
 
++ [Żródło: github/tom-sapletta-com - Tom Sapletta](https://github.com/tom-sapletta-com)
+
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
