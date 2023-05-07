@@ -801,6 +801,7 @@ W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technolo
 + Oczywiście te zabawki będą sobie rotowały między pokojem dziecka a pokojem dziennym, ale rodzice będą musieli raz na jakiś czas zorganizować przegląd pudełka w salonie i poprosić dziecko o przeniesienie części zabawek z powrotem do salonu. 
 
 [Jak utrzymać porządek w pokoju dziecka? - Mamy Gadżety](https://mamygadzety.pl/porzadek-pokoju-dziecka/)
+
 ![image](https://user-images.githubusercontent.com/5669657/236608428-2e022a4b-224d-4c66-9d33-25efb200f8df.png)
 
 
@@ -825,6 +826,7 @@ różne pokoje
 
 
 ![image](https://user-images.githubusercontent.com/5669657/236608605-8405fca3-2ff3-4af9-b76b-3099f1f0817b.png)
+
 + źródło: [Jak zaprowadzić porządek w pokoju dziecka? » Brykacze.pl - blog. Wszystko o zabawkach.](http://blog.brykacze.pl/zaprowadzic-porzadek-pokoju-dziecka/rodzic/)
 
 
@@ -837,17 +839,19 @@ różne pokoje
 + Możliwość zarządzania zawartością na kolejnych etapach.
 + Duże obiekty i już zapakowane mogą być układane obok siebie, nie ma potrzeby pakowania wszystkiego do dedykowanych większych skrzyni, gdyż to utrudnia dostępność i zarządzanie
 
-Rozwiązanie:
-+ Wyłączenie szuflad, dużych kartonów i szafek
-+ otwarte, transparentne przestrzenie ułatwiają dotarcie i odłoznie przedmiotu
-
 
 Proza codzienności:
+
 ![image](https://user-images.githubusercontent.com/5669657/236609574-ebc44829-ff78-44f4-81e8-e988379276be.png)
 
 Transparentne pojemniki:
+
 ![image](https://user-images.githubusercontent.com/5669657/236608899-70078ba3-2ab5-4e73-81cd-2d2403df9d28.png)
 
+
+Wnioski:
++ Wyłączenie szuflad, dużych kartonów i szafek
++ otwarte, transparentne przestrzenie ułatwiają dotarcie i odłoznie przedmiotu
 
 
 ----
