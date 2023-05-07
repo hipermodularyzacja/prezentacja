@@ -34,7 +34,7 @@ Kim jestem?
 
 + [github](https://github.com/tom-sapletta-com)
 + [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)
-+ [makerslab][http://discord.makerslab.pl]
++ [makerslab](http://discord.makerslab.pl)
 
 ### Role:
 
