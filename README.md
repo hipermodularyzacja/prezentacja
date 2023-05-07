@@ -879,8 +879,9 @@ Transparentne pojemniki:
 
 
 Wnioski:
++ Zmniejszenie barier, ciężaru, dopasowanie do wzrostu i możliwości operatora
 + Wyłączenie szuflad, dużych kartonów i szafek
-+ otwarte, transparentne przestrzenie ułatwiają dotarcie i odłoznie przedmiotu
++ otwarte, transparentne przestrzenie ułatwiają dotarcie i odłożnie przedmiotu
 
 
 ----
