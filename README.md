@@ -102,7 +102,7 @@ Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnien
 
 ## Dla kogo
 
-+ Dla tych, którzy nie chodzą utartymi szlakami
++ dla tych, którzy nie chodzą utartymi szlakami
 + szukających długofalowych konstruktywnych rozwiązań 
 + dla tych, którzy biorą odpowiedzialność za skutki aktualnych działań
 + dla wiecznie poszukujących, głodnych lepszej jakości
