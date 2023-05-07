@@ -2,9 +2,9 @@
 # prezentacja.hipermodularyzacja.pl
 
 
-## Plan prezentacji:
+## Hipermodularyzacja w praktyce hardware & software development
 
-każdy etap ok. 3 minuty
+Plan prezentacji:
 
 ##### 1. Prelegent
 ##### 2. Cel prezentacji
@@ -20,8 +20,7 @@ każdy etap ok. 3 minuty
 ##### 12. Przykład użycia
 ##### 13. Dyskusja
  
-każdy krok jest obliczony na ok. 5 minut
-
+*Każdy punkt jest obliczony na ok. 3 minuty
 
 
 ---
