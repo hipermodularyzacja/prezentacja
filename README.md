@@ -1,8 +1,7 @@
 
 # prezentacja.hipermodularyzacja.pl
 
-### Temat:
-Hipermodularyzacja w praktyce hardware & software development
+### Prezentacja: Hipermodularyzacja w praktyce hardware & software development
 
 
 ### Czas: 
