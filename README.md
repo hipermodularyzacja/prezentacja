@@ -7,12 +7,13 @@
 ##### 1. Prelegent
 ##### 2. Cel prezentacji
 ##### 3. Problem - dlaczego?
+##### 4. Zastosowanie - gdzie?
 ##### 4. Geneza 
-##### 5. Badanie 
-##### 6. Teoria
-##### 7. Galeria przykładów
-##### 8. Jak (hiper)modularyzować?
-##### 9. Dyskusja
+##### 6. Badanie - w jaki sposób?
+##### 7. Teoria
+##### 8. Galeria przykładów
+##### 9. Jak (hiper)modularyzować?
+##### 10. Dyskusja
  
 każdy krok jest obliczony na ok. 5 minut
 
@@ -52,11 +53,22 @@ każdy krok jest obliczony na ok. 5 minut
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
-Moim celem badania tematu hipermodularyzacji jest większenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
+Celem badania tematu hipermodularyzacji jest większenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
 
 Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
 
 To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
+Moga zaoszczędzić zasoby i tworzyć lepsze organizacje.
+
+
+
+
+### Forma prezentacji
+
+W prezentacji będę posługiwał się przykładami z różnych dziedziń, gdyż modularyzacja jest interdyscyplinarna.
+
+Dla uproszczenia przekazu posługuję się przykładami, z życia wielu z nas.
+
 
 
 
@@ -67,10 +79,12 @@ Badałem specyfikę i naturę metod, które sprawdzają się w różnych branża
 
 
 
+
 ### Jakie książki polecam?
 
 + [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
 + [hipermodularyzacja -  w trakcie pisania]
+
 
 
 ### Nagroda
@@ -84,6 +98,21 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 # 3. Problem - dlaczego?
+
+
+### Bałagan
+
++ pojęciowy, definicje, sposób rozumienia przez otoczenie
++ danych, bazy danych, formaty, sposoby transmisji, udostępniania, autoryzacji
++ przedmiotów, magazyn, formy, sposób przenoszenia, 
++ narzędzi, sposób użycia, 
+
+
+### Re-użycie
+
++ ile z zasobów, które mamy, możemy ponownie użyć?
++ CO w przypadku potrzeby naprawy, czy musimy wymieniać całość?
+
 
 
 
@@ -126,8 +155,23 @@ UWAGA
 
 
 
+# 4. Zastosowanie - gdzie?
 
-### Pokój dziecka:
+
+
+
+### Modularyzacja a zarządzanie
+
+Codzienne problemy są związane nie tylko z tworzeniem ale też zarządzaniem, które pozwala m.in. na zamianie dużego bałaganu w mniejsze lokalne bałagany
+Kontekst powstania tego małego bałaganu pozwala na specjalizacje procesu uporządkowania.
+
+
+
+
+
+###  Modularyzacja a magazynowanie
+
+Pokój dziecka:
 
 + ograniczona ilość miejsca
 + nieporządek
@@ -150,7 +194,7 @@ Jak tego dokonać, odpowiedź na koniec przentacji!
 
 
 
-# 4. Geneza
+# 5. Geneza
 
 Wprowadzenie do hipermodularyzacji 
 
@@ -244,7 +288,7 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 
 
-# 5. Badanie
+# 6. Badanie - w jaki sposób?
 
 Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
 
@@ -466,7 +510,8 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 
 
-# 6. Teoria
+
+# 7. Teoria
 
 Zadawanie właściwych pytań 
 
@@ -606,7 +651,7 @@ By following these steps, you can develop your hypermodular thinking skills and 
 
 
 
-# 7. Galeria przykładów
+# 8. Galeria przykładów
 
 Galeria Przykładów modularyzacji
 
@@ -675,7 +720,7 @@ systemy układania
 
 
 
-# 8. Jak (hiper)modularyzować?
+# 9. Jak (hiper)modularyzować?
 
 
 
@@ -801,6 +846,8 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 + Porównanie modułów
 
 
+
+
 ### Pokój dziecka:
 
 #### Etap 1
@@ -865,7 +912,11 @@ klask, klask, klask
 
 
 
-# 9. Dyskusja [15 Minut]
+
+
+
+
+# 10. Dyskusja [15 Minut]
 
 Co na to jury?
 ![image](https://user-images.githubusercontent.com/5669657/236607373-38586979-bf9e-4dd3-997c-3379ca95cdb1.png)
