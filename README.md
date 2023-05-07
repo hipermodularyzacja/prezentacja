@@ -39,7 +39,7 @@ Kim jestem?
 
 ### Co robię?
 
-+ [github](https://github.com/tom-sapletta-com)
++ [github](https://github.com/tom-sapletta-com), ponad 200 projektów, kilka tysięcy repozytoriów z otwartymi źródłami
 + [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)
 
 ### Organizacje
