@@ -72,6 +72,8 @@ Kim jestem?
 
 
 
+
+
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
 
 Celem badania tematu hipermodularyzacji jest zwiększenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
@@ -80,6 +82,7 @@ Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do
 
 To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
 
+
 Cele hipermodularyzacji:
 
 + ponowne użycie zasobów  ->  oszczędność zasobów  ->  lepsze zarządzanie
@@ -87,9 +90,13 @@ Cele hipermodularyzacji:
  
 
 
-Wiele  z tych doświadczeń była o wiele trudniejsza i kosztowniejsza 20 lat temu, gdy dopiero starałem się adaptować świat do swoich potrzeb i możliwości.
-Dziś jest to możliwe znacznie szybciej.
+## Dla kogo
 
++ Dla tych, którzy nie chodzą utartymi szlakami
++ szukających długofalowych konstruktywnych rozwiązań 
++ dla tych, którzy biorą odpowiedzialność za skutki aktualnych działań
++ dla wiecznie poszukujących, głodnych lepszej jakości
++ budujących organicznie
 
 
 ### Forma prezentacji
@@ -100,13 +107,13 @@ Dla uproszczenia przekazu posługuję się przykładami, z życia wielu z nas, a
 
 
 
-
-
 ### Jak powstała ta prezentacja?
 
 Ta prezentacja jest podsumowaniem wieloletnich prac badawaczych nad drogą dotarcia do automatyzacji.
 Badałem specyfikę i naturę metod, które sprawdzają się w różnych branżach i zastosowaniach.
 
+Wiele  z tych doświadczeń była o wiele trudniejsza i kosztowniejsza 20 lat temu, gdy dopiero starałem się adaptować świat do swoich potrzeb i możliwości.
+Dziś jest to możliwe znacznie szybciej.
 
 
 
