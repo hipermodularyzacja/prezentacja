@@ -33,7 +33,12 @@ Kim jestem?
 
 + [github](https://github.com/tom-sapletta-com)
 + [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)
+
+### Organizacje
+
 + [makerslab](http://discord.makerslab.pl)
++ [softreck](http://www.softreck.pl)
++ ...
 
 ### Role:
 
