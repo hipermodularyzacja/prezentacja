@@ -559,28 +559,12 @@ duże -> małe
 + regały, skrzynki, pudełka
 
 
-### Programowanie
-
-
-+ Enterprise Integration Patterns
-+ Camel
-+ Wzorce
-+ Biblioteki
-+ Digital Twin
-
-
-### Infrastruktura
-+ plesk
-+ proxmox
-+ openstack
-
 
 ### Modularny hardware
+
 + minipc
 + systemowe skrzynki
-
-
-5. ...
++ mobilna infrastruktura
 
 
 ### architektura modularna i monolityczna
@@ -782,6 +766,26 @@ Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
 
 
 # 12. Przykład użycia
+
+W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technologia + marketplace
+
+
+### Programowanie
+
++ Wzorce: Enterprise Integration Patterns
++ DSL: Jenkins, Camel, APIDSL 
++ Systemy, frameworki, biblioteki, klasy, funkcje
++ API, SDK, SCHEMA
+
+
+### Infrastruktura
+
++ hosting: cPanel, direct admin, plesk
++ docker, swarm, kubernetes
++ proxmox, openstack, 
++ SDR, O-RAN, 
++ Automaty, Roboty, Cyfrowe Bliźniaki, Digital Twin
+
 
 
 
