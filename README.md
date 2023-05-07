@@ -10,7 +10,7 @@ każdy etap ok. 3 minuty
 ##### 2. Cel prezentacji
 ##### 3. Problem - dlaczego?
 ##### 4. Zastosowanie - gdzie?
-##### 4. Geneza 
+##### 5. Geneza 
 ##### 6. Korzyści z hipermodularności
 ##### 7. Badanie - w jaki sposób?
 ##### 8. Co wie chatGPT?
@@ -795,6 +795,12 @@ W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technolo
 + Automaty, Roboty, Cyfrowe Bliźniaki, Digital Twin
 
 
+### Moje projekty:
+
++ Dialogware: text2software - zmodularyzowane budowanie aplikacji
++ Metamoduły bazujące na tym:  [docs.metamodule.org](https://docs.metamodule.org/)
+
+
 
 
 ### Pokój dziecka:
@@ -865,6 +871,7 @@ Wnioski:
 
 
 
+
 ### koniec:
 klask, klask, klask
 ![image](https://user-images.githubusercontent.com/5669657/236607603-e6a4a61c-8381-4bca-bb6f-bf5c066b6667.png)
@@ -918,7 +925,6 @@ Co na to jury?
 + [muzyka: Hiper Modularyzacja](https://www.hipermodularyzacja.pl/tekst.html)
 
 + Metamoduły bazujące na tym:  [docs.metamodule.org](https://docs.metamodule.org/)
-
 
 + [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
 
