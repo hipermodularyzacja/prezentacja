@@ -725,6 +725,12 @@ różne pokoje
 + Duży niekontrolowany bałagan przeniesiony do małego kontrolowanego pudełka,
 + Bezpieczny i łatwy transport przez dziecko
 + Możliwość zarządzania zawartością na kolejnych etapach.
++ Duże obiekty i już zapakowane mogą być układane obok siebie, nie ma potrzeby pakowania wszystkiego do dedykowanych większych skrzyni, gdyż to utrudnia dostępność i zarządzanie
+
+Rozwiązanie:
++ Wyłączenie szuflad, dużych kartonów i szafek
++ otwarte, transparentne przestrzenie ułatwiają dotarcie i odłoznie przedmiotu
+
 
 Proza codzienności:
 ![image](https://user-images.githubusercontent.com/5669657/236609574-ebc44829-ff78-44f4-81e8-e988379276be.png)
