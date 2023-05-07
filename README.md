@@ -191,8 +191,10 @@ UWAGA
 
 W praktyce życiowej kierujemy się wyborem:
 
-+ mniejszego zła []
-+ zasady pareto skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
++ mniejszego zła 
++ zasady pareto 
+
+skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
 
 O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
 
@@ -207,6 +209,10 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 
 # 4. Zastosowanie - gdzie?
+
+
+![image](https://user-images.githubusercontent.com/5669657/236698180-57d81a58-cc26-44ce-99bd-a9d0acd002be.png)
+
 
 
 ### W rozwoju oprogramowania
