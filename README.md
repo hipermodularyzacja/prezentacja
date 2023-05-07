@@ -13,7 +13,7 @@ każdy etap ok. 3 minuty
 ##### 4. Geneza 
 ##### 6. Korzyści z hipermodularności
 ##### 7. Badanie - w jaki sposób?
-##### 8. Teoria
+##### 8. Co wie chatGPT?
 ##### 9. Galeria przykładów
 ##### 10. Jak (hiper)modularyzować?
 ##### 11. Technika
@@ -280,17 +280,17 @@ Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy
 
 Modularyzacja to budowanie systemu poprzez wykorzystanie gotowych modułów.
 
-Hipermodularyzacja to rozbijanie istniejących modułów na mniejsze by stworzyć więcej prostych, reużywalnych modułów.
+Hipermodularyzacja to rozbijanie istniejących modułów na mniejsze, by stworzyć więcej prostych, re-używalnych modułów.
 
 
-#### Modualryzacja w budowaniu systemów
+
+#### Modularyzacja w budowaniu systemów
 
 **Modularyzacja** zajmuje się tworzeniem sieci modułów, **Hiermodularyzacja** wchodzi istotę samych modułów, determinuje ich powstawanie, narzuca standardy.
 
 Modularyzacja to tworzenie sieci modułów. (Ilościowe)
 
 Hipermodularyzacja to tworzenie ustandaryzowanych i wyspecjalizowanych modułów. (Jakościowe)
-
 
 
 
@@ -406,7 +406,9 @@ Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawow
 
 
 
-# 8. Teoria
+
+
+# 8. Co wie chatGPT?
 
 Zadawanie właściwych pytań 
 
