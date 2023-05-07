@@ -1,10 +1,19 @@
 
 # prezentacja.hipermodularyzacja.pl
 
+### Temat:
+Hipermodularyzacja w praktyce hardware & software development
 
-## Hipermodularyzacja w praktyce hardware & software development
 
-Plan prezentacji:
+### Czas: 
+Czwartek, 11 maja 2023 17:00
+
+
+### Miejsce:
+Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://www.meetup.com/pl-PL/devops-institute-skilup-poland/events/293100939/)
+
+
+### Plan prezentacji:
 
 ##### 1. Prelegent
 ##### 2. Cel prezentacji
