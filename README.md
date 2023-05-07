@@ -71,19 +71,17 @@ Kim jestem?
 [żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
 
-
-
-
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
-
-Celem badania tematu hipermodularyzacji jest zwiększenie jakości wiązań modułów, co wpływa w sferach informacyjnych i fizycznych wzmacnia strukturę umożliwiając zwiększenie jej możliwości.
 
 Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
 
-To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
+To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się setkami projektów w ciągu roku i tysiącami w ciągu kilku lat.
 
 
-Cele hipermodularyzacji:
+
+## Cele badania hipermodularyzacji:
+
+Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu -> ekspansja.
 
 + ponowne użycie zasobów  ->  oszczędność zasobów  ->  lepsze zarządzanie
 + więcej wyspecjalizowanych modułów  -> szybsza reakcja na wyzwania ->  lepsza adaptacja i jakość
