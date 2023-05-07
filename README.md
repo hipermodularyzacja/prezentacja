@@ -28,25 +28,36 @@ każdy krok jest obliczony na ok. 5 minut
 
 # 1. Prelegent
 
-+ Kim jestem?
+Kim jestem?
 
-![image](https://user-images.githubusercontent.com/5669657/236694792-17bb2ba3-0236-4bbf-a58f-43312847a33b.png)
+### Co robię?
 
++ [github](https://github.com/tom-sapletta-com)
++ [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)
++ [makerslab][http://discord.makerslab.pl]
 
 ### Role:
+
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
 + badacz, [researcher](http://www.researcher.pl)
 + programista, administrator, DevOps, [platform engineer](http://www.platformengineer.pl)
 
 ### Tematy:
+
 + [modularyzacja](http://www.entuzjasta.pl)
 + [automatyzacja](http://www..pl)
 + [bezpieczeństwo](http://www..pl)
 
 ### Ślad węglowy:
+
 + do 2013 Polska
 + do 2023 Niemcy
 + ...
+
+
+![image](https://user-images.githubusercontent.com/5669657/236694792-17bb2ba3-0236-4bbf-a58f-43312847a33b.png)
++ [Żródło: github/tom-sapletta-com - Tom Sapletta](https://github.com/tom-sapletta-com)
+
 
 
 
@@ -58,7 +69,7 @@ każdy krok jest obliczony na ok. 5 minut
 
 ![image](https://user-images.githubusercontent.com/5669657/236607475-39851935-19e4-4bf7-a1ac-9035587e0d4b.png)
 
-+ [Żródło: github/tom-sapletta-com - Tom Sapletta](https://github.com/tom-sapletta-com)
+
 
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
@@ -69,11 +80,11 @@ Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do
 
 To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się tysiącami projektów w ciągu roku.
 
-Cele:
-+ oszczędność zasobów
-+ lepsze zarządzanie
-+ szybsza reakcja na nowe wyzwania
-+ lepsza adaptacja
+Cele hipermodularyzacji:
+
++ ponowne użycie zasobów  ->  oszczędność zasobów  ->  lepsze zarządzanie
++ więcej wyspecjalizowanych modułów  -> szybsza reakcja na wyzwania ->  lepsza adaptacja i jakość
+ 
 
 
 Wiele  z tych doświadczeń była o wiele trudniejsza i kosztowniejsza 20 lat temu, gdy dopiero starałem się adaptować świat do swoich potrzeb i możliwości.
@@ -102,15 +113,13 @@ Badałem specyfikę i naturę metod, które sprawdzają się w różnych branża
 ### Jakie książki polecam?
 
 + [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
-+ [hipermodularyzacja -  w trakcie pisania]
++ [hipermodularyzacja -  w trakcie pisania](http://hipermodularyzacja.pl)
 
 
 
 ### Nagroda
 
 Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
-
-
 
 
 
@@ -131,7 +140,7 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 ### Re-użycie
 
 + ile z zasobów, które mamy, możemy ponownie użyć?
-+ CO w przypadku potrzeby naprawy, czy musimy wymieniać całość?
++ Cp w przypadku potrzeby naprawy, czy musimy wymieniać całość?
 
 
 
