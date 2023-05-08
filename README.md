@@ -143,6 +143,8 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
+
+
 # 3. Problem - dlaczego?
 
 
@@ -157,8 +159,19 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 ### Re-użycie
 
 + ile z zasobów, które mamy, możemy ponownie użyć?
-+ Cp w przypadku potrzeby naprawy, czy musimy wymieniać całość?
++ Co w przypadku potrzeby naprawy, czy musimy wymieniać całość?
 
+
+### Decentralizacja
+
+Decentralizacja zwiększa modułowość aplikacji, co oznacza, że można je łatwiej dostosować do potrzeb i zadań. 
+Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są oddzielone i izolowane, dzięki czemu zagrożenia są ograniczone do jednostkowych modułów.
+
+
+### Kooperacja
+
+Moduły mogą być tworzone i wdrażane osobno, a następnie łatwo wprowadzane do głównego systemu. 
+Moduły można łatwo rozpowszechniać i udostępniać innym użytkownikom, co pozwala na bezproblemową współpracę, wymianę i wspólną pracę nad aplikacją. 
 
 
 ### Forma i treść
@@ -390,7 +403,33 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 
 
+Decentralizacja może przynieść wiele korzyści w kontekście modularyzacji, w tym:
 
+### Elastyczność: 
+Decentralizacja umożliwia łatwe dodawanie lub usuwanie modułów bez wpływu na cały system. Każdy moduł może działać niezależnie, co daje większą elastyczność w zarządzaniu projektem.
+
+
+### Skalowalność: 
+Modułowa architektura ułatwia skalowanie systemu. Dzięki temu możemy łatwo rozbudować system o dodatkowe moduły, gdy jest to potrzebne.
+
+
+### Łatwość w utrzymaniu: 
+W przypadku awarii lub problemów z jednym modułem, łatwo można go wyłączyć i naprawić. Nie ma potrzeby zatrzymywania całego systemu.
+
+
+### Bezpieczeństwo: 
+Decentralizacja może zwiększyć bezpieczeństwo systemu, ponieważ każdy moduł jest odpowiedzialny tylko za swoją własną funkcjonalność. W przypadku ataku lub naruszenia bezpieczeństwa jednego modułu, reszta systemu będzie nadal działać.
+
+
+### Łatwość w rozwijaniu: 
+Decentralizacja ułatwia rozwijanie systemu poprzez dodawanie nowych modułów. Każdy moduł może być rozwijany przez różnych programistów, co przyspiesza proces rozwoju.
+
+
+### Dostępność: 
+Decentralizacja umożliwia lepszą dostępność systemu. Jeśli jeden moduł przestanie działać, pozostałe moduły będą nadal dostępne dla użytkowników.
+
+
+W sumie, decentralizacja w kontekście modularyzacji przynosi wiele korzyści, w tym większą elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
 
 
 
