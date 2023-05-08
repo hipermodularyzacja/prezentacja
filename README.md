@@ -26,7 +26,7 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 ##### 10. Jak (hiper)modularyzować?
 ##### 11. Technika
 ##### 12. Przykład użycia
-##### 13. Dyskusja
+##### Dyskusja
  
 *Każdy punkt jest obliczony na ok. 3 minuty
 
@@ -245,6 +245,26 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 W rozwoju oprogramowania modułowość jest często używana do tworzenia komponentów wielokrotnego użytku, które można łatwo zintegrować z różnymi aplikacjami. 
 Z drugiej strony, hipermodularność jest często używana do rozbijania złożonych aplikacji na mniejsze, wyspecjalizowane mikroserwisy, które mogą być rozwijane i wdrażane niezależnie.
+
+
+W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technologia + marketplace
+
+
+#### Programowanie
+
++ Wzorce: Enterprise Integration Patterns
++ DSL: Jenkins, Camel, APIDSL 
++ Systemy, frameworki, biblioteki, klasy, funkcje
++ API, SDK, SCHEMA
+
+
+#### Infrastruktura
+
++ hosting: cPanel, direct admin, plesk
++ docker, swarm, kubernetes
++ proxmox, openstack, 
++ SDR, O-RAN, 
++ Automaty, Roboty, Cyfrowe Bliźniaki, Digital Twin
 
 
 ### Projektowanie produktów
@@ -597,6 +617,12 @@ By following these steps, you can develop your hypermodular thinking skills and 
 Galeria Przykładów modularyzacji
 
 
+#### Moje projekty:
+
++ Dialogware: text2software - zmodularyzowane budowanie aplikacji
++ Metamoduły bazujące na tym:  [docs.metamodule.org](https://docs.metamodule.org/)
+
+
 
 
 ### Przeprowadzka:
@@ -637,6 +663,7 @@ duże -> małe
 
 systemy do pakowania przedmiotów
 systemy układania 
+
 
 
 
@@ -830,31 +857,14 @@ Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
 
 # 12. Przykład użycia
 
-W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technologia + marketplace
 
 
-### Programowanie
+### Edycja tekstu
 
-+ Wzorce: Enterprise Integration Patterns
-+ DSL: Jenkins, Camel, APIDSL 
-+ Systemy, frameworki, biblioteki, klasy, funkcje
-+ API, SDK, SCHEMA
++ zamiast kasowania przenoszenie do innego folderu/projektu
++ zamiast tworzeni długich tekstów, krótkie notki w plikach z załączeniem do innych projektów
 
-
-### Infrastruktura
-
-+ hosting: cPanel, direct admin, plesk
-+ docker, swarm, kubernetes
-+ proxmox, openstack, 
-+ SDR, O-RAN, 
-+ Automaty, Roboty, Cyfrowe Bliźniaki, Digital Twin
-
-
-### Moje projekty:
-
-+ Dialogware: text2software - zmodularyzowane budowanie aplikacji
-+ Metamoduły bazujące na tym:  [docs.metamodule.org](https://docs.metamodule.org/)
-
+[flatedit.com](https://www.flatedit.com/)
 
 
 
@@ -944,7 +954,10 @@ klask, klask, klask
 
 
 
-# 13. Dyskusja [15 Minut]
+
+
+
+# Dyskusja [15 Minut]
 
 Co na to jury?
 ![image](https://user-images.githubusercontent.com/5669657/236607373-38586979-bf9e-4dd3-997c-3379ca95cdb1.png)
