@@ -139,14 +139,17 @@ To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować si�
 Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu -> ekspansja.
 
 ponowne użycie zasobów  ->  oszczędność zasobów  ->  lepsze zarządzanie
-```mermaind
+
+```mermaid
 flowchart LR
   B[ponowne użycie zasobów] --> C[oszczędność zasobów] --> D[lepsze zarządzanie]  
 ```
 
+
 więcej wyspecjalizowanych modułów  -> szybsza reakcja na wyzwania ->  lepsza adaptacja i jakość
-```mermaind
-flowchart LR  
+
+```mermaid
+flowchart LR
   E[więcej wyspecjalizowanych modułów] --> F[szybsza reakcja na wyzwania] --> G[lepsza adaptacja i jakość]
 ```
 
