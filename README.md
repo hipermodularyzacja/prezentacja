@@ -82,20 +82,17 @@ Kim jestem?
 
 ### Co robię?
 
-+ [github](https://github.com/tom-sapletta-com), ponad 200 projektów, kilka tysięcy repozytoriów z otwartymi źródłami
-+ [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)
-
-### Organizacje
-
-+ [makerslab](http://discord.makerslab.pl)
-+ [softreck](http://www.softreck.pl)
-+ ...
++ [github](https://github.com/tom-sapletta-com)/tom-sapletta-com
+  + ponad 200 projektów, kilka tysięcy repozytoriów z otwartymi źródłami
++ [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)/tom-sapletta-com 
+ + [makerslab](http://discord.makerslab.pl) - społeczność, kooperacja
+ + [softreck](http://www.softreck.pl) - opensource: dialogware 
 
 ### Role:
 
 + [entuzjasta](http://www.entuzjasta.pl) technologii, metodologii, socjologii, cybernetyki
-+ badacz, [researcher](http://www.researcher.pl)
-+ programista, administrator, DevOps, [platform engineer](http://www.platformengineer.pl)
++ Badacz, [researcher](http://www.researcher.pl)
++ Programista, DevOps, [platform engineer](http://www.platformengineer.pl)
 
 ### Tematy:
 
@@ -138,7 +135,7 @@ To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować si�
 
 Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu -> ekspansja.
 
-ponowne użycie zasobów  ->  oszczędność zasobów  ->  lepsze zarządzanie
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/a03e04d9-58b4-4c10-9386-3cec61dfc52d)
 
 ```mermaid
 flowchart LR
@@ -146,7 +143,8 @@ flowchart LR
 ```
 
 
-więcej wyspecjalizowanych modułów  -> szybsza reakcja na wyzwania ->  lepsza adaptacja i jakość
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/83eee3ae-d6ef-42c1-8121-7012293dca67)
+
 
 ```mermaid
 flowchart LR
@@ -191,7 +189,7 @@ Dziś jest to możliwe znacznie szybciej.
 ### Nagroda
 
 Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostępna za 6 miesięcy w Listopadzie 2023.
-
++ prosze o kontakt na linkedin
 
 
 
