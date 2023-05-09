@@ -124,7 +124,11 @@ Kim jestem?
 [żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
 
+Temat Hipermodularyzacji jest niezależny od branży, mimo wszystko jest tak niszowy, że w Polsce tylko jedna osoba oprócz mnie, podniosła ten temat,
+
+
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
+
 
 Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
 
@@ -1394,6 +1398,8 @@ Co na to jury?
 
 + [muzyka: Hiper Modularyzacja](https://www.hipermodularyzacja.pl/tekst.html)
 
++ Artykuł [Hipermodularyzacja, czyli Rzym płonie](https://blog.comandeer.pl/hipermodularyzacja-czyli-rzym-plonie.html)
+
 + Metamoduły bazujące na tym:  [docs.metamodule.org](https://docs.metamodule.org/)
 
 + [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
@@ -1408,17 +1414,17 @@ Co na to jury?
 
 + [IMMUSEC Metodologia, metodyka, metoda, sposób, procedura – wyjaśnienie zawiłości językowych](https://www.immusec.com/metodologia-metodyka-metoda-sposob-procedura-wyjasnienie-zawilosci-jezykowych/)
 
-+ Metodologia – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567697/metodologia
++ [Metodologia – Słownik języka polskiego](http://sjp.pwn.pl/slownik/2567697/metodologia)
 
-+ Metodyka – Słownik języka polskiego, http://sjp.pwn.pl/slownik/2567700/metodyka
++ [Metodyka – Słownik języka polskiego](http://sjp.pwn.pl/slownik/2567700/metodyka)
 
-+ Metoda – Słownik języka polskiego http://sjp.pwn.pl/slownik/2482575/metoda
++ [Metoda – Słownik języka polskiego](http://sjp.pwn.pl/slownik/2482575/metoda)
 
-+ Sposób – Słownik SJP, http://sjp.pl/spos%F3b
++ [Sposób – Słownik SJP](http://sjp.pl/spos%F3b)
 
-+ What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
++ [What is the difference between a method and a procedure?](http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure)
 
-+ What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
+
 
 
 ---
