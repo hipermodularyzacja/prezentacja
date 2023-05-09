@@ -1,7 +1,7 @@
 
 # prezentacja [prezentacja.hipermodularyzacja.pl](https://prezentacja.hipermodularyzacja.pl/)
 
-### Prezentacja: Hipermodularyzacja w praktyce hardware & software development
+### Prezentacja: **Hipermodularyzacja** w praktyce hardware & software development
 
 
 ### Czas: 
@@ -138,9 +138,17 @@ To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować si�
 
 Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu -> ekspansja.
 
-+ ponowne użycie zasobów  ->  oszczędność zasobów  ->  lepsze zarządzanie
-+ więcej wyspecjalizowanych modułów  -> szybsza reakcja na wyzwania ->  lepsza adaptacja i jakość
- 
+ponowne użycie zasobów  ->  oszczędność zasobów  ->  lepsze zarządzanie
+```mermaind
+flowchart LR
+  B[ponowne użycie zasobów] --> C[oszczędność zasobów] --> D[lepsze zarządzanie]  
+```
+
+więcej wyspecjalizowanych modułów  -> szybsza reakcja na wyzwania ->  lepsza adaptacja i jakość
+```mermaind
+flowchart LR  
+  E[więcej wyspecjalizowanych modułów] --> F[szybsza reakcja na wyzwania] --> G[lepsza adaptacja i jakość]
+```
 
 
 ## Dla kogo
@@ -192,33 +200,38 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 # 3. Problem - dlaczego?
 
+### Bałagan
++ Bytu: polityka, środowisko, kultura
++ Pojęć: definicje, semantyka, 
++ Danych: format, interfejs, dostęp
++ Rzeczy: magazyn, forma, transport, wymiana
++ Narzędzi: sposób użycia, doświadczenie, re-użycie
+
 ```mermaid
 mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+  root((Bałagan))
+    Bytu
+        polityka
+        środowisko
+        kultura
+    Pojęć
+        definicje
+        semantyka
+    Danych
+        format
+        interfejs
+        dostęp
+    Rzeczy
+        magazyn
+        forma
+        transport
+        wymiana
+    Narzędzi
+        sposób użycia
+        doświadczenie
+        re użycie      
 ```
 
-
-### Bałagan
-
-+ pojęciowy, definicje, sposób rozumienia przez otoczenie
-+ danych, bazy danych, formaty, sposoby transmisji, udostępniania, autoryzacji
-+ przedmiotów, magazyn, formy, sposób przenoszenia, 
-+ narzędzi, sposób użycia, 
 
 
 ### Re-użycie
@@ -302,16 +315,6 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 # 4. Zastosowanie - gdzie?
 
 
-```mermaid
-stateDiagram
-    [*] --> Still
-    Still --> [*]
-
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-```
 + Rozwój oprogramowania
 + Architektura
 + Infrastruktura
@@ -392,6 +395,11 @@ Jak tego dokonać, odpowiedź na koniec przentacji!
 
 # 5. Geneza
 
++ Automatyzacja
++ **Hipermodularyzacja**
++ Modularyzacja i **Hipermodularyzacja**
++ 
+
 
 ```mermaid
 stateDiagram
@@ -418,19 +426,18 @@ Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy
 
 ### Hipermodularyzacja
 
-+ Hipermodularyzacja przenosi architekturę modułową na wyższy poziom.
++ **Hipermodularyzacja** przenosi architekturę modułową na wyższy poziom.
 + Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
-+ Hipermodularyzacja zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
++ **Hipermodularyzacja** zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
 
 
 ### Modularyzacja i Hipermodularyzacja
 
 
-#### W prostych słowach:
+W prostych słowach:
 
-Modularyzacja to budowanie systemu poprzez wykorzystanie gotowych modułów.
-
-Hipermodularyzacja to rozbijanie istniejących modułów na mniejsze, by stworzyć więcej prostych, re-używalnych modułów.
++ **Modularyzacja** to budowanie systemu poprzez wykorzystanie gotowych modułów.
++ **Hipermodularyzacja** to rozbijanie istniejących modułów na mniejsze, by stworzyć więcej prostych, re-używalnych modułów.
 
 
 
@@ -440,7 +447,7 @@ Hipermodularyzacja to rozbijanie istniejących modułów na mniejsze, by stworzy
 
 Modularyzacja to tworzenie sieci modułów. (Ilościowe)
 
-Hipermodularyzacja to tworzenie ustandaryzowanych i wyspecjalizowanych modułów. (Jakościowe)
+**Hipermodularyzacja** to tworzenie ustandaryzowanych i wyspecjalizowanych modułów. (Jakościowe)
 
 
 
@@ -450,7 +457,7 @@ architektura modułowa odnosi się do projektowania systemu składającego się 
 Te niezależne jednostki nazywane są modułami i można je łatwo wymieniać lub modyfikować bez wpływu na cały system.
 
 Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
-Hipermodularyzacja narzuza metodykę tworzenia nowych modułów
+**Hipermodularyzacja** narzuza metodykę tworzenia nowych modułów
 
 
 
@@ -536,28 +543,30 @@ Modularyzacja to droga do solidnych, elastycznych i wydajnych systemy.
 
 Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
 
-```mermaid
-mindmap
-  root((Badanie))
-    Problem
-    Rozwiązanie
-    Hipoteza
-    Procedura
-    Proces
-    Technika
-    Dyrektywa
-    Metoda
-    Metodyka
-    Metodologia
-```
 
-+ Elastyczność, Flexibility
-+ Reużywalność, Reusability
-+ Skalowalność, Scalability
 + Zwinność, Agility
 + Odporność, Resilience
 + Dostosowalność, Customization
++ Współpraca
++ Elastyczność, Flexibility
++ Reużywalność, Reusability
++ Skalowalność, Scalability
 
+
+
+
+```mermaid
+mindmap
+  root((Badanie))
+    Zwinność
+    Odporność
+    Dostosowywanie
+    Współpraca
+    Elastyczność    
+    Skalowalność
+    Reużywalność
+    Konserwacja
+```
 
 
 
@@ -581,8 +590,8 @@ Modułowa architektura pozwala na łatwą modyfikację i dostosowanie systemu. D
 Modułowa architektura wspiera skalowalność.
 Pozwala na dodawanie nowych modułów do systemu, czyniąc go zdolnym do obsługi zwiększonego obciążenia.
 
-#### Możliwość ponownego użycia:
-Moduły mogą być używane w różnych systemach lub aplikacjach, oszczędzając czas i zasoby w procesie rozwoju.
+#### Reużywalność
+Możliwość ponownego użycia, Moduły mogą być używane w różnych systemach lub aplikacjach, oszczędzając czas i zasoby w procesie rozwoju.
 
 #### Konserwacja:
 Modułowa architektura upraszcza konserwację.
@@ -590,6 +599,22 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 
 
+
+
+## Decentralizacja a Modularyzacja
+
+
+
+```mermaid
+mindmap
+  root((Decentralizacja))    
+    Elastyczność
+    Skalowalność
+    Łatwość w utrzymaniu
+    Bezpieczeństwo
+    Łatwość w rozwijaniu
+    Dostępność
+```
 
 Decentralizacja może przynieść wiele korzyści w kontekście modularyzacji, w tym:
 
