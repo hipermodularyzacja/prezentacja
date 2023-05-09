@@ -250,13 +250,11 @@ mindmap
 
 ### Forma i treść
 
-nie mogę być jednocześnie formą i tworzywem - Andrzej Dobosz (Filozof w "Rejsie"):
-„Nie mogę być jednocześnie twórcą i tworzywem” – mówił filozof w klasyku polskiego kina, w filmie „Rejs”.
-
-Dotyczy to często każdego z nas na styku teorii i praktyki.
 ![image](https://user-images.githubusercontent.com/5669657/236606256-ec0d72e5-8c50-4b4e-ab91-45c629c41f50.png)
 [żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
+„Nie mogę być jednocześnie twórcą i tworzywem” – mówił filozof (Andrzej Dobosz) w klasyku polskiego kina, w filmie „Rejs”.
+Dotyczy to często każdego z nas na styku teorii i praktyki...
 
 W praktyce życiowej kierujemy się wyborem:
 
