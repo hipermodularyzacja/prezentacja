@@ -16,8 +16,8 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 
 
 #### Prezentacja
-##### 1. Prelegent
-##### 2. Cel prezentacji
+###### 1. Prelegent
+###### 2. Cel prezentacji
 ###### 3. Problem - dlaczego?
 ###### 4. Zastosowanie - gdzie?
 
