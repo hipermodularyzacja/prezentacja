@@ -21,42 +21,40 @@ mindmap
     Prezentacja
       Prelegent      
       Cel prezentacji
-    Cel prezentacji
-      
-    Problem
-      Pen and paper
-      
-    Zastosowanie
-      Pen and paper
-      
-    Geneza
-      Pen and paper
-      
-    Problem
-      Pen and paper
-      
-    Problem
-      Pen and paper
+        Problem - dlaczego?
+        Zastosowanie - gdzie?      
+    Modularyzacja
+      Geneza
+      Korzyści z hipermodularności
+      Badanie - w jaki sposób?      
+    Praktyka
+      Co wie chatGPT?
+      Galeria przykładów                
+    Technika
+      Jak (hiper)modularyzować?
+      Przykład użycia
       Mermaid      
 ```
 
-
+#### Prezentacja
 ##### 1. Prelegent
 ##### 2. Cel prezentacji
+###### 3. Problem - dlaczego?
+###### 4. Zastosowanie - gdzie?
 
-##### 3. Problem - dlaczego?
-##### 4. Zastosowanie - gdzie?
-
+#### Modularyzacja
 ##### 5. Geneza 
-##### 6. Korzyści z hipermodularności
-##### 7. Badanie - w jaki sposób?
+###### 6. Korzyści z hipermodularności
+###### 7. Badanie - w jaki sposób?
 
-##### 8. Co wie chatGPT?
-##### 9. Galeria przykładów
+####  Praktyka
+###### 8. Co wie chatGPT?
+###### 9. Galeria przykładów
 
-##### 10. Jak (hiper)modularyzować?
-##### 11. Technika
-##### 12. Przykład użycia
+##### 10. Technika
+###### 11. Jak (hiper)modularyzować?
+###### 12. Przykład użycia
+
 ##### Dyskusja
  
 *Każdy punkt jest obliczony na ok. 3 minuty
@@ -731,76 +729,7 @@ systemy układania
 
 
 
-
-
-
-# 10. Jak (hiper)modularyzować?
-
-
-
-## Metodyka w IT
-
-Życie w hiper-modułowym świecie oznacza, że nieustannie otacza nas coraz większa liczba wyspecjalizowanych modułów, które są ze sobą połączone, tworząc złożone systemy. 
-Oto kilka sposobów zarządzania wszystkimi modułowymi elementami w hipermodułowym świecie:
-
-
-#### Rozwijaj modułowy sposób myślenia
-
-Rozbijaj złożone problemy na mniejsze, łatwiejsze i bardziej ekonomiczne w zarządzaniu elementy.
-Pomoże Ci to zrozumieć i zarządzać połączonymi ze sobą modułami systemu.
-
-#### Zapoznaj się z interfejsami
-
-W hiper-modułowym świecie ważne jest, aby zrozumieć, w jaki sposób różne moduły wchodzą ze sobą w interakcję.
-Dowiedz się o różnych typach interfejsów, takich jak interfejsy API lub protokoły, oraz o tym, jak działają.
-
-
-#### Korzystaj z narzędzi modułowych
-
-Używaj narzędzi modułowych do zarządzania różnymi modułami systemu.
-Obejmuje to narzędzia do kontroli wersji, testowania i wdrażania.
-
-
-#### Ćwicz projektowanie modułowe
-
-Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
-Oznacza to podzielenie systemów na mniejsze, wyspecjalizowane moduły, które można łatwo wymienić lub zaktualizować.
-
-
-#### Współpracuj z innymi
-
-Współpraca jest kluczem w hiper-modułowym świecie.
-Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
-
-
-#### Nieustannie się ucz
-
-Hipermodułowy świat nieustannie ewoluuje.
-Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
-
-
-#### Różnicowanie
-
-porównuj i wyciągaj wnioski z różnic
-działa w dwóch obszarach na tych samych narzędziach i formach
-testuj stale monitorując sposób oddziaływania 
-
-
-Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modułowych narzędzi, ćwicząc modułowe projektowanie, współpracując z innymi i stale się ucząc, możesz skutecznie zarządzać wszystkimi modułowymi elementami w hipermodułowym świecie.
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 11. Technika
+# 10. Technika
 
 
 Jak budować system w oparciu o hiper-modularne komponenty?
@@ -909,6 +838,77 @@ Powtarzaj i udoskonalaj projekt, aż znajdziesz rozwiązanie, które działa.
 Zintegruj komponenty z powrotem w cały proces.
 Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
 **Na przykład** upewnij się, że formularze z informacjami o klientach są prawidłowo przesyłane do modułu odpowiadania na wiadomości e-mail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 11. Jak (hiper)modularyzować?
+
+
+
+## Metodyka w IT
+
+Życie w hiper-modułowym świecie oznacza, że nieustannie otacza nas coraz większa liczba wyspecjalizowanych modułów, które są ze sobą połączone, tworząc złożone systemy. 
+Oto kilka sposobów zarządzania wszystkimi modułowymi elementami w hipermodułowym świecie:
+
+
+#### Rozwijaj modułowy sposób myślenia
+
+Rozbijaj złożone problemy na mniejsze, łatwiejsze i bardziej ekonomiczne w zarządzaniu elementy.
+Pomoże Ci to zrozumieć i zarządzać połączonymi ze sobą modułami systemu.
+
+#### Zapoznaj się z interfejsami
+
+W hiper-modułowym świecie ważne jest, aby zrozumieć, w jaki sposób różne moduły wchodzą ze sobą w interakcję.
+Dowiedz się o różnych typach interfejsów, takich jak interfejsy API lub protokoły, oraz o tym, jak działają.
+
+
+#### Korzystaj z narzędzi modułowych
+
+Używaj narzędzi modułowych do zarządzania różnymi modułami systemu.
+Obejmuje to narzędzia do kontroli wersji, testowania i wdrażania.
+
+
+#### Ćwicz projektowanie modułowe
+
+Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
+Oznacza to podzielenie systemów na mniejsze, wyspecjalizowane moduły, które można łatwo wymienić lub zaktualizować.
+
+
+#### Współpracuj z innymi
+
+Współpraca jest kluczem w hiper-modułowym świecie.
+Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
+
+
+#### Nieustannie się ucz
+
+Hipermodułowy świat nieustannie ewoluuje.
+Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
+
+
+#### Różnicowanie
+
+porównuj i wyciągaj wnioski z różnic
+działa w dwóch obszarach na tych samych narzędziach i formach
+testuj stale monitorując sposób oddziaływania 
+
+
+Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modułowych narzędzi, ćwicząc modułowe projektowanie, współpracując z innymi i stale się ucząc, możesz skutecznie zarządzać wszystkimi modułowymi elementami w hipermodułowym świecie.
+
+
+
+
+
 
 
 
