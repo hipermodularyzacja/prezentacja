@@ -210,9 +210,77 @@ stateDiagram
         [*] --> Rozwiązanie
         Rozwiązanie --> [*]
     }
+     
 ```    
+
+```  
+state Metodyka {
+    [*] --> Problem
+    Problem --> Rozwiązanie
+    Rozwiązanie --> Cel
+    Cel --> [*]
+}   
+```
+
+
+EEE
+
+
+```mermaid
+stateDiagram
+
+    [*] --> Problem
+    Problem --> Rozwiazanie
+    Rozwiazanie --> Cel
+    Cel --> [*]
+ 
+    state Hipoteza {
+        [*] --> Stawianie
+        Stawianie --> Testowanie        
+        Testowanie --> [*]
+    }
+
+    state Problem {
+        [*] --> Hipoteza        
+        Hipoteza --> [*]
+    }
     
-    
+    state Technika {
+        [*] --> Metoda
+        Metoda --> Środowisko
+        Środowisko --> [*]
+    }
+
+
+    state Proces {
+        [*] --> Procedura        
+        Procedura --> [*]
+    }
+
+    state Dyrektywa {
+        [*] --> norma
+        norma --> zakaz
+        zakaz --> [*]
+    }
+
+
+    state Procedura {
+        [*] --> Zadanie
+        Zadanie --> Czynność        
+        Czynność --> [*]
+    }
+
+
+    state Środowisko {
+        [*] --> Dyrektywa
+        Dyrektywa --> [*]
+    }
+
+    state Rozwiazanie {
+        [*] --> Technika
+        Technika --> [*]
+    }
+```
 
 
 #### [Badania naukowe](https://pl.wikipedia.org/wiki/Badania_naukowe)
