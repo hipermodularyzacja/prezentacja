@@ -923,16 +923,16 @@ duże -> małe
 # 10. Technika
 
 
-Jak budować system w oparciu o hiper-modularne komponenty?
++ Jak budować system w oparciu o hiper-modularne komponenty?
++ Jakie są zasady projektowania hiper-modularnego?
 
-Jakie są zasady projektowania hipermodułowego?
-
-Budowanie komponentów przy użyciu hipermodułowych zasad projektowania oznacza rozbijanie komponentów na mniejsze, wyspecjalizowane komponenty, które można łatwo wymienić lub zaktualizować.
+Budowanie komponentów przy użyciu hipermodularnych zasad projektowania oznacza rozbijanie komponentów na mniejsze, wyspecjalizowane komponenty, które można łatwo wymienić lub zaktualizować.
  
-Wykonując te kroki, możesz projektować i przekształcać procesy w hipermodułowe komponenty.
+Jak przekształcać procesy w hiper-modularne komponenty?
 
 Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
-Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb procesu.
+Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb.
+
 
 ```
 Sieć
@@ -1005,6 +1005,7 @@ stateDiagram
 
 
 ## Sieć
+
 + Optymalizacja
 + Monitorowanie
 
