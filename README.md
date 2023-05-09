@@ -21,7 +21,7 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 ###### 3. Problem - dlaczego?
 ###### 4. Zastosowanie - gdzie?
 
-#### Modularyzacja
+#### Hipermodularyzacja
 ###### 5. Geneza 
 ###### 6. Badanie - w jaki sposób?
 ###### 7. Korzyści z hipermodularności
