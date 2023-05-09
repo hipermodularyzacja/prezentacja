@@ -15,30 +15,6 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 ### Plan prezentacji:
 
 
-```mermaid
-mindmap
-  root((hiper modularyzacja))
-    Prezentacja
-      Prelegent, kto?      
-      Cel prezentacji
-        Problem, dlaczego?
-        Zastosowanie, gdzie?      
-        
-    Modularyzacja
-      Geneza
-      Korzyści z hipermodularności
-      Badanie, w jaki sposób?      
-      
-    Praktyka
-      Co wie chatGPT?
-      Galeria przykładów                
-      
-    Technika
-      Jak hiper modularyzować?
-      Przykład użycia             
-    
-```
-
 #### Prezentacja
 ##### 1. Prelegent
 ##### 2. Cel prezentacji
@@ -47,8 +23,8 @@ mindmap
 
 #### Modularyzacja
 ##### 5. Geneza 
-###### 6. Korzyści z hipermodularności
-###### 7. Badanie - w jaki sposób?
+###### 6. Badanie - w jaki sposób?
+###### 7. Korzyści z hipermodularności
 
 ####  Praktyka
 ###### 8. Co wie chatGPT?
@@ -61,6 +37,38 @@ mindmap
 ##### Dyskusja
  
 *Każdy punkt jest obliczony na ok. 3 minuty
+
+
+### Prezentacja w formie mapy myśli
+
+![image](https://user-images.githubusercontent.com/5669657/237023092-3bd11fd0-1864-4206-b365-686ba4bb35f8.png)
+
+```mermaid
+mindmap
+  root((hiper modularyzacja))
+    Prezentacja
+      Prelegent<br>kto?      
+      Cel prezentacji
+        Problem<br>dlaczego?
+        Zastosowanie<br>gdzie?      
+        
+    Modularyzacja
+      Geneza      
+      Badanie<br>w jaki sposób?      
+      Korzyści z hipermodularności
+      
+    Praktyka
+      Co wie chatGPT?
+      Galeria przykładów                
+      
+    Technika
+      Jak hiper modularyzować?
+      Przykład użycia               
+    
+```
+
++ [Online FlowChart & Diagrams Editor]([https://mermaid.live/edit#pako:eNpdUcFqwzAM_RXh0wr5glwK66CwMSisp5KLamuJm8QKjkOISy-77CP2Gb3u1vW_5rRNukUn-Ul6z0_aC8mKRCxKbVSJVWIALLN7eMh0RRZKVk2BtvModzib9WWAlSVPxvXQFbhABaUBjCB3PL-CQ3FBBVTjjB7gfoq3BZURqAKlp5Tn99oGa8c1t2g0RZAqr2lCO2Svf_84FJdkyI-vF7a-O39JDR4uxm6-DPfg0PWI6qrWwg5zDXXF9em4ncgOO8DcdfmosGBoNYHM0C1X69HHEguyGoN93-XnD1SnYwuT-E-8JpkZfSd-xhwmtwhL-fmc31d_o4bm_N3JIHYJEYky-EStwnX3fXMiXEYlJSIOqUKbJyIxh9CHjeO3zkgRO9tQJJpKoaMnjanFUsTvWNQBrdBsmIf34RfSqLQ-](https://mermaid.live/edit#pako:eNpdUUFuwjAQ_IrlE0i8IKqKVCohtaqEVE4ol8XeJiaxN3IcRTHi0ksf0Wdw7Y3yrzqAocSn9czs2Du75YIk8oRrZaSGKjWMWSI3GuWqQss0yaYE23kQGxiPe5qxhUWPxvXQGThBJWYBfFjbx8LR9AxHeoYlq65dKsJ9H61L1H2XLEF4zGh6Y1dQO6qpBaOwl2TSKxxYx-rt_08jOUeDHu4bnkBGv5ZtoFCsrqg-7NcD41eyvjt-C8U8O4VxycJQD0ZVTAQK1xXXd2fEWoVM5ODmi-V1ojmUaBWEKHxXHD9BHvYtG5x74yWK3Kib8QsUbLCZEM_v1_S2iIs1a44_nVCX4fmE6zABKBl2ve3FKXc5akx5EkoJtkh5anZBB42j984Injjb4IQ3lQSHzwoyC5onH1DWAa3ArIjiffcHL-e5Bg))
+
 
 
 ---
@@ -434,7 +442,42 @@ Hipermodularyzacja narzuza metodykę tworzenia nowych modułów
 
 
 
-# 6. Korzyści z hipermodularności
+
+
+# 6. Badanie - w jaki sposób?
+
+Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
+
+## Słownictwo 
+
++ Problem
++ Rozwiązanie
++ Hipoteza
++ Procedura
++ Proces
++ Technika
++ Dyrektywa
++ Metoda
++ Metodyka
++ Metodologia
+
+
+[Badanie](badanie.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 7. Korzyści z hipermodularności
 
 Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
 Oferują znaczące korzyści w zakresie elastyczności, skalowalności, możliwości ponownego użycia, konserwacji, sprawności, odporności, dostosowywania i współpracy. 
@@ -510,38 +553,6 @@ Decentralizacja umożliwia lepszą dostępność systemu. Jeśli jeden moduł pr
 
 
 W sumie, decentralizacja w kontekście modularyzacji przynosi wiele korzyści, w tym większą elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
-
-
-
-
-
-
-
-# 7. Badanie - w jaki sposób?
-
-Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
-
-## Słownictwo 
-
-+ Problem
-+ Rozwiązanie
-+ Hipoteza
-+ Procedura
-+ Proces
-+ Technika
-+ Dyrektywa
-+ Metoda
-+ Metodyka
-+ Metodologia
-
-
-[Badanie](badanie.md)
-
-
-
-
-
-
 
 
 
@@ -687,6 +698,8 @@ Galeria Przykładów modularyzacji
 
 ### Przeprowadzka:
 
++ oddziaływanie forma <-> treść
+
 przenosimy w kartonach wszystkie rzeczy i nie mając starych mebli albo tylko część dodajemy nowe.
 Mamy możliwość poukładania wszystkich rzeczy w zależnośći od przeznaczenia lub/oraz właściciela:
 
@@ -755,12 +768,14 @@ Dzięki temu całą sieć hipermodułów można dostosować do zmieniających si
 
 + Ograniczaj -> Ulepszaj -> Powielaj
 
+
 #### Ograniczaj
 
 Określ kontekst w którym chcesz usprawnić system połączeń, lub chcesz dopiero go zaimplementować.
 W modularyzacji staramy się  ograniczać pole widzenia, analizy i działania, aby ograniczyć jej koszty.
 Prześledć gdzie jest największy ruch w sieci połączeń organizacji, gdzie korzyści z modularyzacji mogą przynieść najwięcej korzyści, gdzie specjalizacja czyli podniesienie jakości będzie docenione?
 **Na przykład** Przy obsłudze klienta są dwa przypadki dzwoniących, reklamacje i zapytania ofertowe, odbierającym może być być sekretarka, która krok po kroku poprowadzi dzwoniącego a następnie bot, ta sama implementacja może dotyczcyć chatbota na stronie www lub wiadomości email, ale najpierw trzeba ograniczyć ją do telefonujących.
+
 
 
 #### Ulepszaj:
@@ -899,11 +914,23 @@ Hipermodułowy świat nieustannie ewoluuje.
 Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
 
 
+
 #### Różnicowanie
 
 porównuj i wyciągaj wnioski z różnic
 działa w dwóch obszarach na tych samych narzędziach i formach
 testuj stale monitorując sposób oddziaływania 
+
+
+
+#### Przechodzenie pomiędzy poziomami
+
+Wchdozeniz  poziomu treści na formę a nie pozostanie w jednym obszarze
+1. zmiana treści
+2. zmiana formy
+3. zmiana treści
+4. ...
+
 
 
 Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modułowych narzędzi, ćwicząc modułowe projektowanie, współpracując z innymi i stale się ucząc, możesz skutecznie zarządzać wszystkimi modułowymi elementami w hipermodułowym świecie.
