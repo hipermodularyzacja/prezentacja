@@ -26,8 +26,7 @@ mindmap
         
     Modularyzacja
       Geneza
-      
-    Korzyści z hipermodularności
+      Korzyści z hipermodularności
       Badanie, w jaki sposób?      
       
     Praktyka
@@ -36,7 +35,7 @@ mindmap
       
     Technika
       Jak (hiper)modularyzować?
-      Przykład użycia               
+      Przykład użycia             
     
 ```
 
