@@ -1,25 +1,19 @@
 
 # prezentacja [prezentacja.hipermodularyzacja.pl](https://prezentacja.hipermodularyzacja.pl/)
 
-#### Temat:
-**Hipermodularyzacja** w praktyce hardware & software development
++ Temat: **Hipermodularyzacja** w praktyce hardware & software development
 
-#### Opis:
-Na dzisiejszym spotkaniu omówimy, jak modułowa architektura i hipermodularność stanowią ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
++ Opis: Na dzisiejszym spotkaniu omówimy, jak modułowa architektura i hipermodularność stanowią ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
 Omówimy korzyści związane z decentralizacją, w tym elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu. 
 Podyskutujemy o wpływie decentralizacji, modularyzacji i hipermodularyzacji na procesy doskonalenia sieci.
 
-#### Keywords:
-Modularyzacja, hipermodularność, decentralizacja, elastyczność, skalowalność, reużywalność, konserwacja, odporność, dostosowywanie, kooperacja, zwinność, odporność, dostępność.
++ Keywords: Modularyzacja, hipermodularność, decentralizacja, elastyczność, skalowalność, reużywalność, konserwacja, odporność, dostosowywanie, kooperacja, zwinność, odporność, dostępność.
 
-#### Czas: 
-Czwartek, 11 maja 2023 17:00
++ Czas: Czwartek, 11 maja 2023 17:00
 
-#### Miejsce:
-Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://www.meetup.com/pl-PL/devops-institute-skilup-poland/events/293100939/)
++ Miejsce: Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://www.meetup.com/pl-PL/devops-institute-skilup-poland/events/293100939/)
 
-#### Prelegent:
-Tom Sapletta
++ Prelegent: Tom Sapletta
 
 
 
