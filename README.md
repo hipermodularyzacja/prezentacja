@@ -656,7 +656,9 @@ Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są
 
 
 ## Decentralizacja a Modularyzacja
-
++ Czy decentralizacja jest zawsze modularna?
++ Co jeśli decentrazliacja nie jest przeprowadzona w modularny sposób?
++ Jak przebiega doskonalenie sieci zdecentralizowanej?
 Decentralizacja w kontekście modularyzacji przynosi wiele korzyści, w tym większą elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
 
 + Elastyczność
