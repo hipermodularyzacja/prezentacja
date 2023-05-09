@@ -1,5 +1,219 @@
 
 
+```mermaid
+stateDiagram
+
+    
+    [*] --> Proces
+    Proces --> Procedura
+    Procedura --> [*]
+
+    state Hipoteza {
+        [*] --> Stawianie
+        Stawianie --> Testowanie        
+        Testowanie --> [*]
+    }
+
+    state Problem {
+        [*] --> Hipoteza        
+        Hipoteza --> Rozwiązanie     
+        Rozwiązanie --> [*]
+    }
+    
+    state Technika {
+        [*] --> Metoda        
+        Metoda --> Środowisko
+        Środowisko --> Dyrektywa
+        Dyrektywa --> [*]
+    }
+
+    state Metoda {
+        [*] --> Problem
+        Problem --> Cel        
+        Cel --> [*]
+    }
+
+
+    state Proces {
+        [*] --> Zadanie
+        Zadanie --> Czynność        
+        Czynność --> [*]
+    }
+
+    state Dyrektywa {
+        [*] --> norma
+        norma --> zakaz
+        zakaz --> [*]
+    }
+
+
+    state Procedura {
+        [*] --> Metoda
+        Metoda --> Organizacja
+        Organizacja --> [*]
+    }
+
+    
+    state Metodyka {
+        [*] --> Metoda
+        Metoda --> Technika
+        Technika --> [*]
+    }
+         
+    state Rozwiazanie {
+        [*] --> Proces
+        Proces --> [*]
+    }
+
+```
+
+
+B
+```mermaid
+stateDiagram
+    [*] --> Metodyka
+
+    Metodyka --> Metoda
+    Metoda --> Rozwiązanie
+    
+    Metodyka --> Technika
+    Technika --> Rozwiązanie
+
+    Rozwiązanie --> Cel
+    Cel --> [*]
+
+        
+    state Hipoteza {
+        [*] --> Stawianie
+        Stawianie --> Testowanie        
+        Testowanie --> [*]
+    }
+
+    state Problem {
+        [*] --> Hipoteza        
+        Hipoteza --> [*]
+    }
+    
+    state Technika {
+        [*] --> Metoda        
+        Metoda --> Środowisko
+        Środowisko --> [*]
+    }
+
+
+
+    state Proces {
+        [*] --> Procedura        
+        Procedura --> [*]
+    }
+
+    state Dyrektywa {
+        [*] --> norma
+        norma --> zakaz
+        zakaz --> [*]
+    }
+
+
+    state Procedura {
+        [*] --> Zadanie
+        Zadanie --> Czynność        
+        Czynność --> [*]
+    }
+
+
+    state Środowisko {
+        [*] --> Organizacja
+        Organizacja --> Dyrektywa
+        Dyrektywa --> [*]
+    }
+
+    state Rozwiązanie {
+        [*] --> Proces
+        Proces --> [*]
+    }
+   state Metodyka {
+        [*] --> Technika
+        Technika --> [*]
+    }
+    
+        state Metodyka {
+        [*] --> Metoda
+        Metoda --> Technika
+        Technika --> [*]
+    }
+        
+```
+
+C
+```
+stateDiagram
+    [*] --> Problem    
+    Problem --> Metodyka
+
+    Metodyka --> Metoda
+    Metoda --> Cel
+
+    Metodyka --> Technika
+    Technika --> Cel
+    
+    Cel --> [*]
+
+ 
+    state Hipoteza {
+        [*] --> Stawianie
+        Stawianie --> Testowanie        
+        Testowanie --> [*]
+    }
+
+    state Problem {
+        [*] --> Hipoteza        
+        Hipoteza --> [*]
+    }
+    
+    state Technika {
+        [*] --> Metoda
+        Metoda --> Środowisko
+        Środowisko --> [*]
+    }
+
+
+    state Proces {
+        [*] --> Procedura        
+        Procedura --> [*]
+    }
+
+    state Dyrektywa {
+        [*] --> norma
+        norma --> zakaz
+        zakaz --> [*]
+    }
+
+
+    state Procedura {
+        [*] --> Zadanie
+        Zadanie --> Czynność        
+        Czynność --> [*]
+    }
+
+
+    state Środowisko {
+        [*] --> Dyrektywa
+        Dyrektywa --> [*]
+    }
+
+    state Rozwiązanie {
+        [*] --> Proces
+        Proces --> [*]
+    }
+
+    state Metoda {
+        [*] --> Rozwiązanie
+        Rozwiązanie --> [*]
+    }
+```    
+    
+    
+
 
 #### [Badania naukowe](https://pl.wikipedia.org/wiki/Badania_naukowe)
 
@@ -37,7 +251,7 @@ rozkaz, instrukcja lub norma postępowania nakazująca określone zasady działa
 
 #### [Metoda](https://pl.wikipedia.org/wiki/Metoda), forma rozwiązania [problemu]() 
 
-+ To [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego celu. 
++ To [sposób]() postępowania mający prowadzić do osiągnięcia zamierzonego [cel]()u. 
 + To powtarzalny [sposób]() rozwiązywania [problemu]().
 
 
@@ -57,15 +271,25 @@ Proces to seria zadań i czynności, które prowadzą do [celu]().
 + pytanie: **Jakie procedury?**
 + Proces badawczy to świadoma, celowa zmierzona czynność
 + powinna kierować się określonymi regułami i wskazaniami
++ proces to [zbiór]() [procedur]()
+
+```mermaid
+stateDiagram
+    state Proces {
+        [*] --> Procedura        
+        Procedura --> [*]
+    }
+```
+
 
 ##### Przykład:
-
+...
 
 
 #### [Procedura](https://pl.wikipedia.org/wiki/Procedura)
 
 + pytanie: **Jakie czynności?**
-+ Procedura to metod w organizacji
++ Procedura to metoda w organizacji
 + proces to [zbiór]() [procedur]()
 + Procedura to zbiór instrukcji dotyczących wykonania pojedynczego zadania lub czynności w ramach procesu.
 
@@ -74,7 +298,28 @@ Procedura natomiast jest bardziej szczegółowa, pokazuje sposób użycia danej 
 Pokazuje sekwencję czynności, jakie należy wykonać w odpowiedniej kolejności, by osiągnąć zamierzony rezultat, a także określa kto i co wykonuje.
 
 
+
+```mermaid
+stateDiagram
+    state Procedura {
+        [*] --> Zadanie
+        Zadanie --> Czynność        
+        Czynność --> [*]
+    }
+```
+
 Procedura może być [metodą]() rozwiązania [problemu]().
+
+
+```mermaid
+stateDiagram
+    state Procedura {
+        [*] --> Metoda
+        Metoda --> Problem
+        Problem --> [*]
+    }
+```
+
 
 ##### Przykład:
 
@@ -132,6 +377,15 @@ Przykłady:
 + Agile - metodologia prowadzenia projektów zwinnych.
 
 
+```mermaid
+stateDiagram
+    state Metodologia {
+        [*] --> Problem
+        Problem --> Paradygmat
+        Paradygmat --> Problem
+        Problem --> [*]
+    }
+```
 
 ### Paradygmaty programowania
 
