@@ -22,15 +22,17 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 ###### 4. Zastosowanie - gdzie?
 
 #### Modularyzacja
-##### 5. Geneza 
+###### 5. Geneza 
 ###### 6. Badanie - w jaki sposób?
 ###### 7. Korzyści z hipermodularności
 
-####  Praktyka
+####  Przykłady
 ###### 8. Co wie chatGPT?
 ###### 9. Galeria przykładów
 
-##### 10. Technika
+
+####  Praktyka
+###### 10. Technika
 ###### 11. Jak (hiper)modularyzować?
 ###### 12. Przykład użycia
 
@@ -41,7 +43,7 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 
 ### Prezentacja w formie mapy myśli
 
-![image](https://user-images.githubusercontent.com/5669657/237023092-3bd11fd0-1864-4206-b365-686ba4bb35f8.png)
+![image](https://user-images.githubusercontent.com/5669657/237024226-bcafa77e-7cbc-4504-a781-a18893b0fd10.png)
 
 ```mermaid
 mindmap
@@ -57,18 +59,18 @@ mindmap
       Badanie<br>w jaki sposób?      
       Korzyści z hipermodularności
       
-    Praktyka
+    Przykłady
       Co wie chatGPT?
       Galeria przykładów                
       
-    Technika
+    Praktyka
+      Technika
       Jak hiper modularyzować?
-      Przykład użycia               
+      Przykład użycia                
     
 ```
 
-+ [Online FlowChart & Diagrams Editor](https://mermaid.live/edit#pako:eNpdUUFuwjAQ_IrlE0i8IKqKVCohtaqEVE4ol8XeJiaxN3IcRTHi0ksf0Wdw7Y3yrzqAocSn9czs2Du75YIk8oRrZaSGKjWMWSI3GuWqQss0yaYE23kQGxiPe5qxhUWPxvXQGThBJWYBfFjbx8LR9AxHeoYlq65dKsJ9H61L1H2XLEF4zGh6Y1dQO6qpBaOwl2TSKxxYx-rt_08jOUeDHu4bnkBGv5ZtoFCsrqg-7NcD41eyvjt-C8U8O4VxycJQD0ZVTAQK1xXXd2fEWoVM5ODmi-V1ojmUaBWEKHxXHD9BHvYtG5x74yWK3Kib8QsUbLCZEM_v1_S2iIs1a44_nVCX4fmE6zABKBl2ve3FKXc5akx5EkoJtkh5anZBB42j984Injjb4IQ3lQSHzwoyC5onH1DWAa3ArIjiffcHL-e5Bg)
-
++ [Online FlowChart & Diagrams Editor](https://mermaid.live/edit#pako:eNpdUkFqwzAQ_IrQKYG8wJQG2kKgpRBoTsGXjbS1FVtaI8sYK-TSSx_RZ-TaW5p_VU4ip7VOq9mdWe2sdlyQRJ5wrYzUUKWGMUvkJpNcVWiZJtmUYDsPYgvTaZ9mbGnRo3E9dAHOUIlZAO829r5wNL_AMf2IJasGlopwz6NNibpnyRKEx4zmt-waakc1tWAU9iWZ9ApH0jF6_fvSmFygQQ__CQ8go17LtlAoVldUHw-bkfALWd-dvoRinp3NuHphqAdjVXTEd8XpA2Q3TEysVchEDm6xXA0zLaBEqyCYcSUcDy0bnbE0FK4rhpFWKHKjbvdnKNhoV8Gwn8_5bTXXVqw5fXdCwbgfn3EdpgMlwz_Y9bSUuxw1pjwJoQRbpDw1-1AHjaO3zgieONvgjDeVBIdPCjILmifvUNYBrcCsieJ9_wt1_8B1)
 
 
 ---
