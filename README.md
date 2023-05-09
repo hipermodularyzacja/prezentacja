@@ -124,7 +124,9 @@ Kim jestem?
 [żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
 
-Temat Hipermodularyzacji jest niezależny od branży, mimo wszystko jest tak niszowy, że w Polsce tylko jedna osoba oprócz mnie, podniosła ten temat,
+Temat Hipermodularyzacji jest niezależny od branży, interdyscyplinarny, mimo wszystko jest tak niszowy, że w Polsce tylko dwie osoby o tym napisały w ciągu ostatnich lat.
+Wg Google w Polsce tylko dwie osoby poruszają temat: #hipermodularyzacja Tomasz Jakut i ja. Czy wobec tego pisanie książki i tworzenie prezentacji o hipermodularyzacji jest pozbawione sensu? 
+
 
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
