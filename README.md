@@ -144,7 +144,9 @@ flowchart LR
 ```
 
 
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/83eee3ae-d6ef-42c1-8121-7012293dca67)
+
+
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/d36f1871-72b2-4807-822e-a11330a0f302)
 
 
 ```mermaid
