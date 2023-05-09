@@ -1,6 +1,8 @@
 
 # prezentacja [prezentacja.hipermodularyzacja.pl](https://prezentacja.hipermodularyzacja.pl/)
 
+### Informacje:
+
 + Temat: **Hipermodularyzacja** w praktyce hardware & software development
 
 + Opis: Na dzisiejszym spotkaniu omówimy, jak modułowa architektura i hipermodularność stanowią ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
@@ -17,7 +19,7 @@ Podyskutujemy o wpływie decentralizacji, modularyzacji i hipermodularyzacji na 
 
 
 
-### Plan prezentacji:
+### Plan:
 
 
 #### Prezentacja
