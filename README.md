@@ -496,15 +496,42 @@ mindmap
     Metodologia
 ```
 
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/c01f2f38-0254-474d-9613-057baadfb783)
+
+
 ```mermaid
 stateDiagram
-    [*] --> Still
-    Still --> [*]
-
-    Problem --> Rozwiązanie
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
+     state Cel {        
+        Problem --> Rozwiazanie        
+    }
+    state Hipoteza {        
+        Stawianie --> Testowanie        
+    }
+    state Problem {        
+        Hipoteza
+    }    
+    state Technika {        
+        Metoda --> Środowisko        
+    }
+    state Proces {
+        Procedura        
+    }
+    state Dyrektywa {
+        norma        
+        zakaz
+    }
+    state Procedura {        
+        Zadanie --> Czynność        
+    }
+    state Środowisko {
+        Dyrektywa        
+    }
+    state Rozwiazanie {        
+        Technika
+    }
+    state Metoda {
+        Proces
+    }
 ```
 
 
