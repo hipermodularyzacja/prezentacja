@@ -496,20 +496,20 @@ mindmap
     Metodologia
 ```
 
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/c01f2f38-0254-474d-9613-057baadfb783)
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/a9e20f0a-c478-473f-8825-34780278a9a1)
 
 
 ```mermaid
 stateDiagram
      state Cel {        
-        Problem --> Rozwiazanie        
+        Problem --> Rozwiązanie        
     }
     state Hipoteza {        
         Stawianie --> Testowanie        
     }
     state Problem {        
         Hipoteza
-    }    
+    }
     state Technika {        
         Metoda --> Środowisko        
     }
@@ -526,7 +526,7 @@ stateDiagram
     state Środowisko {
         Dyrektywa        
     }
-    state Rozwiazanie {        
+    state Rozwiązanie {        
         Technika
     }
     state Metoda {
@@ -1376,7 +1376,7 @@ Co na to jury?
 + [GitHub](https://github.com/)
 + [Include diagrams in your Markdown files with Mermaid - The GitHub Blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 + [WebStorm: The Smartest JavaScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
-+ 
+
 
 ## Źródła
 
