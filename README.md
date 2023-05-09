@@ -21,12 +21,12 @@ mindmap
     Prezentacja
       Prelegent      
       Cel prezentacji
-        Problem - dlaczego?
-        Zastosowanie - gdzie?      
+        Problem, dlaczego?
+        Zastosowanie, gdzie?      
     Modularyzacja
       Geneza
       Korzyści z hipermodularności
-      Badanie - w jaki sposób?      
+      Badanie, w jaki sposób?      
     Praktyka
       Co wie chatGPT?
       Galeria przykładów                
