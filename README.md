@@ -25,7 +25,7 @@ mindmap
         Zastosowanie, gdzie?      
         
     Modularyzacja
-      Geneza
+      Genezaś
     
 ```
 
