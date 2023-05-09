@@ -228,57 +228,36 @@ EEE
 
 ```mermaid
 stateDiagram
-
-    [*] --> Problem
-    Problem --> Rozwiazanie
-    Rozwiazanie --> Cel
-    Cel --> [*]
- 
-    state Hipoteza {
-        [*] --> Stawianie
+     state Cel {        
+        Problem --> Rozwiązanie        
+    }
+    state Hipoteza {        
         Stawianie --> Testowanie        
-        Testowanie --> [*]
     }
-
-    state Problem {
-        [*] --> Hipoteza        
-        Hipoteza --> [*]
+    state Problem {        
+        Hipoteza
     }
-    
-    state Technika {
-        [*] --> Metoda
-        Metoda --> Środowisko
-        Środowisko --> [*]
+    state Technika {        
+        Metoda --> Środowisko        
     }
-
-
     state Proces {
-        [*] --> Procedura        
-        Procedura --> [*]
+        Procedura        
     }
-
     state Dyrektywa {
-        [*] --> norma
-        norma --> zakaz
-        zakaz --> [*]
+        norma        
+        zakaz
     }
-
-
-    state Procedura {
-        [*] --> Zadanie
+    state Procedura {        
         Zadanie --> Czynność        
-        Czynność --> [*]
     }
-
-
     state Środowisko {
-        [*] --> Dyrektywa
-        Dyrektywa --> [*]
+        Dyrektywa        
     }
-
-    state Rozwiazanie {
-        [*] --> Technika
-        Technika --> [*]
+    state Rozwiązanie {        
+        Technika
+    }
+    state Metoda {
+        Proces
     }
 ```
 
