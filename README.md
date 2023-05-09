@@ -878,7 +878,7 @@ stateDiagram
 ```
 
 
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/1b9f6483-ac50-4316-b698-db480e9408a9)
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/fa537680-61db-46fd-881e-d42af998bbf6)
 
 ```mermaid
 stateDiagram    
@@ -918,17 +918,19 @@ stateDiagram
     state Moduł {
         [*] --> Standaryzowanie
         Standaryzowanie --> Specjalizowanie
-        Specjalizowanie --> Testowanie
-        Testowanie --> [*]        
+        Specjalizowanie --> [*]        
     }
 
     state Dane {
         [*] --> [*]
-    }    
+    }     
 ```
 
 
+
 ## Sieć
++ Optymalizacja
++ Monitorowanie
 
 + Ograniczaj -> Ulepszaj -> Powielaj
 
@@ -946,6 +948,7 @@ stateDiagram
     Ulepsz --> Powiel    
     Powiel --> [*]
 ```
+
 
 #### Ograniczaj
 
@@ -976,6 +979,10 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 
 
 ## Galąź (Proces)
+
+
++ Identyfikacja
++ Rekonfiguracja
 
 + Identyfikuj -> Dziel -> Łącz
 
@@ -1139,7 +1146,7 @@ testuj stale monitorując sposób oddziaływania
 
 #### Przechodzenie pomiędzy poziomami
 
-Wchdozeniz  poziomu treści na formę a nie pozostanie w jednym obszarze
+Wchdozenie z poziomu treści na formę a nie pozostanie w jednym obszarze
 1. zmiana treści
 2. zmiana formy
 3. zmiana treści
@@ -1168,6 +1175,12 @@ Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modu
 
 # 12. Przykład użycia
 
+
+### Programowanie
+Sieć: infrastruktura, Architektura, DevOps
+Gałąź: biblioteka, aplikacja 
+Moduł: klasa, program, funkcja
+Dane: formaty danych json, html, txt
 
 
 ### Edycja tekstu
