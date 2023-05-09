@@ -810,6 +810,10 @@ systemy układania
 
 
 
+
+
+
+
 # 10. Technika
 
 
@@ -874,19 +878,25 @@ stateDiagram
 ```
 
 
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/61b5ffa0-1181-4cef-b901-762519c112aa)
 
 
 ```mermaid
 stateDiagram    
     [*] --> Sieć
-    Gałąź --> Sieć    
+   
+    Rozdziel --> Gałąź    
+    Sieć --> Rozdziel
+    
+    Gałąź --> Połącz
+    Połącz --> Sieć
+
+    Łącz --> Moduł
     Moduł --> Integruj
     Integruj --> Gałąź
-    Sieć --> Powiel
-    Powiel --> Gałąź
-    Łącz --> Moduł
-    Moduł --> Gałąź
     Gałąź --> Łącz
+    Moduł --> [*]
+
 
     state Sieć {
         [*] --> Ogranicz
