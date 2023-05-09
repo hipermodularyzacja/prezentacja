@@ -25,7 +25,18 @@ mindmap
         Zastosowanie, gdzie?      
         
     Modularyzacja
-      Genezaś
+      Geneza
+      
+    Korzyści z hipermodularności
+      Badanie, w jaki sposób?      
+      
+    Praktyka
+      Co wie chatGPT?
+      Galeria przykładów                
+      
+    Technika
+      Jak (hiper)modularyzować?
+      Przykład użycia               
     
 ```
 
