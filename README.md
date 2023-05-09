@@ -846,29 +846,64 @@ Moduł
 
 ```mermaid
 stateDiagram    
-    [*] --> Net
-    Net --> Node
-    Node --> Module
+    [*] --> Sieć
+    Sieć --> Gałąź
+    Gałąź --> Moduł
+    Integruj -->
 
-    state Net {
+    state Sieć {
         [*] --> Ogranicz
         Ogranicz --> Ulepsz
         Ulepsz --> Powiel    
         Powiel --> [*]
     }
 
-    state Node {
+    state Gałąź {
         [*] --> Identyfikuj
         Identyfikuj --> Dziel
         Dziel --> Łącz    
         Łącz --> [*]
     }
 
-    state Module {
+    state Moduł {
         [*] --> Projektuj
         Projektuj --> Buduj
         Buduj --> Testuj    
-        Testuj --> [*]
+        Testuj --> [*]        
+    }
+```
+
+
+
+
+```mermaid
+stateDiagram    
+    [*] --> Sieć
+    Gałąź --> Sieć    
+    Moduł --> Integruj
+    Integruj --> Gałąź
+    Sieć --> Powiel
+    Powiel --> Gałąź
+    Łącz --> Moduł
+    Moduł --> Gałąź
+    Gałąź --> Łącz
+
+    state Sieć {
+        [*] --> Ogranicz
+        Ogranicz --> Ulepsz
+        Ulepsz --> [*]
+    }
+
+    state Gałąź {
+        [*] --> Identyfikuj
+        Identyfikuj --> Dziel
+        Dziel --> [*]
+    }
+
+    state Moduł {
+        [*] --> Buduj
+        Buduj --> Testuj    
+        Testuj --> [*]        
     }
 ```
 
@@ -877,16 +912,19 @@ stateDiagram
 
 + Ograniczaj -> Ulepszaj -> Powielaj
 
+```
+Sieć
+ Ograniczaj
+ Ulepszaj
+ Powielaj
+```
 
 ```mermaid
 stateDiagram
-    [*] --> Sieć
-    Sieć --> [*]
-
-    Sieć --> Ograniczaj
-    Ograniczaj --> Ulepszaj
-    Ulepszaj --> Powielaj    
-    Powielaj --> [*]
+    [*] --> Ogranicz
+    Ogranicz --> Ulepsz
+    Ulepsz --> Powiel    
+    Powiel --> [*]
 ```
 
 #### Ograniczaj
@@ -922,6 +960,25 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 + Identyfikuj -> Dziel -> Łącz
 
 
+
+```
+Gałąź
+ Identyfikuj
+ Dziel
+ Łącz
+```
+
+```mermaid
+stateDiagram
+  [*] --> Identyfikuj
+  Identyfikuj --> Dziel
+  Dziel --> Łącz    
+  Łącz --> [*]
+```
+
+
+
+
 #### Identyfikuj:
 
 Zacznij od zidentyfikowania procesu, który chcesz przekształcić w komponenty hipermodułowe. 
@@ -948,6 +1005,23 @@ Pomoże Ci to zrozumieć, w jaki sposób poszczególne moduły współdziałają
 ## Moduł (Hipermodularyzacja)
 
 + Projektuj -> Buduj -> Testuj -> Integruj
+
+
+
+```
+Moduł
+ Projektuj
+ Buduj
+ Testuj
+ Integruj
+```
+
+```mermaid
+stateDiagram
+    [*] --> Buduj
+    Buduj --> Testuj    
+    Testuj --> [*]
+```
 
 
 #### Projektuj:
