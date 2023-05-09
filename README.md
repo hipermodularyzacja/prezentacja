@@ -1000,6 +1000,13 @@ Co na to jury?
 
 ---
 
+## Narzędzia
+
++ [GitHub](https://github.com/)
++ [Include diagrams in your Markdown files with Mermaid - The GitHub Blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
++ [WebStorm: The Smartest JavaScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
++ 
+
 ## Źródła
 
 
