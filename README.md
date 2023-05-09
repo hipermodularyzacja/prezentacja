@@ -559,20 +559,12 @@ stateDiagram
 # 7. Korzyści z hipermodularności
 
 ## Podsumowanie
-Podsumowanie:
 
 Modularyzacja to droga do solidnych, elastycznych i wydajnych systemów.
 Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania, które oferują wiele korzyści w zakresie elastyczności, skalowalności, reużywalności, konserwacji, odporności, dostosowywania i współpracy. Decentralizacja może przynieść wiele korzyści, w tym elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
 
 
 ### Korzyści:
-
-+ Re-użycie
-+ Decentralizacja
-+ Kooperacja
-+ Odwzorowanie
-
-
 
 Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
 
