@@ -43,7 +43,7 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 
 ### Prezentacja w formie mapy myśli
 
-![image](https://user-images.githubusercontent.com/5669657/237024226-bcafa77e-7cbc-4504-a781-a18893b0fd10.png)
+![image](https://user-images.githubusercontent.com/5669657/237053890-9b67b4bc-f92a-4ff1-bb31-7d0ce2ff2426.png)
 
 ```mermaid
 mindmap
@@ -70,7 +70,7 @@ mindmap
     
 ```
 
-+ [Online FlowChart & Diagrams Editor](https://mermaid.live/edit#pako:eNpdUkFqwzAQ_IrQKYG8wJQG2kKgpRBoTsGXjbS1FVtaI8sYK-TSSx_RZ-TaW5p_VU4ip7VOq9mdWe2sdlyQRJ5wrYzUUKWGMUvkJpNcVWiZJtmUYDsPYgvTaZ9mbGnRo3E9dAHOUIlZAO829r5wNL_AMf2IJasGlopwz6NNibpnyRKEx4zmt-waakc1tWAU9iWZ9ApH0jF6_fvSmFygQQ__CQ8go17LtlAoVldUHw-bkfALWd-dvoRinp3NuHphqAdjVXTEd8XpA2Q3TEysVchEDm6xXA0zLaBEqyCYcSUcDy0bnbE0FK4rhpFWKHKjbvdnKNhoV8Gwn8_5bTXXVqw5fXdCwbgfn3EdpgMlwz_Y9bSUuxw1pjwJoQRbpDw1-1AHjaO3zgieONvgjDeVBIdPCjILmifvUNYBrcCsieJ9_wt1_8B1)
++ [Online FlowChart & Diagrams Editor](https://mermaid.live/edit#pako:eNpdUsFuwjAM_RUrJ5D4AjQNaZuEtAkJaZxQLyYxbWgaV2mqqkFcdtlH7DO47sb4r7VAy9ac7Gc_O372XkhWJKYi01ZlmEcWwDH70SjROTnIWJUGXR1Q7nA8bsMAS0eBrG-hK3CBDMUN-LBxj6nn2RXuws9kIO9ZuoNbHm8MZS1LGZSBYp7do2ssPBdcodXUpsQqaBqU7qzF3592wTlZCvif8ISqq1fBDlMNRc7F6bgZFH5jF-rzl9QQ4CLGTQvLLdhldYqEOj1_oKr7iRkqTSAT9PPlqp9pjoacxkaMG-F0rGDwhqUx9XXaj7QimVh9918xhcGuGsF-Pmf31dxaQXn-rqXGYT8xEVkzHWrV3MG-pUXCJ5RRJKaNaan0Dk0kIntoUrH0_F5bKaZbNAVNRJkr9PSiMXaY9WiOds1890lpz25xPTbJdqtjcfgFi97JiQ)
 
 
 ---
