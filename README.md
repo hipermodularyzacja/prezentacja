@@ -23,17 +23,7 @@ mindmap
       Cel prezentacji
         Problem, dlaczego?
         Zastosowanie, gdzie?      
-    Modularyzacja
-      Geneza
-      Korzyści z hipermodularności
-      Badanie, w jaki sposób?      
-    Praktyka
-      Co wie chatGPT?
-      Galeria przykładów                
-    Technika
-      Jak (hiper)modularyzować?
-      Przykład użycia
-      Mermaid      
+
 ```
 
 #### Prezentacja
