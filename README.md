@@ -204,11 +204,16 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 # 3. Problem - dlaczego?
 
 ### Bałagan
+
 + Bytu: polityka, środowisko, kultura
 + Pojęć: definicje, semantyka, 
 + Danych: format, interfejs, dostęp
 + Rzeczy: magazyn, forma, transport, wymiana
 + Narzędzi: sposób użycia, doświadczenie, re-użycie
+
+
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/1aced43c-f61b-458d-aa63-742099cb4fdd)
+
 
 ```mermaid
 mindmap
@@ -236,25 +241,6 @@ mindmap
 ```
 
 
-
-### Re-użycie
-
-+ ile z zasobów, które mamy, możemy ponownie użyć?
-+ Co w przypadku potrzeby naprawy, czy musimy wymieniać całość?
-
-
-### Decentralizacja
-
-Decentralizacja zwiększa modułowość aplikacji, co oznacza, że można je łatwiej dostosować do potrzeb i zadań. 
-Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są oddzielone i izolowane, dzięki czemu zagrożenia są ograniczone do jednostkowych modułów.
-
-
-### Kooperacja
-
-Moduły mogą być tworzone i wdrażane osobno, a następnie łatwo wprowadzane do głównego systemu. 
-Moduły można łatwo rozpowszechniać i udostępniać innym użytkownikom, co pozwala na bezproblemową współpracę, wymianę i wspólną pracę nad aplikacją. 
-
-
 ### Forma i treść
 
 nie mogę być jednocześnie formą i tworzywem - Andrzej Dobosz (Filozof w "Rejsie"):
@@ -270,7 +256,42 @@ Problemyu związane z modularyzacją, jak rozeznać granice?
 + [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
 
 
-### Odwzorowanie
+
+W praktyce życiowej kierujemy się wyborem:
+
++ mniejszego zła 
++ zasady pareto 
+
+skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
+
+O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
+
+Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
+
+### Korzyści:
+
++ Re-użycie
++ Decentralizacja
+
+#### Re-użycie
+
++ ile z zasobów, które mamy, możemy ponownie użyć?
++ Co w przypadku potrzeby naprawy, czy musimy wymieniać całość?
+
+
+#### Decentralizacja
+
+Decentralizacja zwiększa modułowość aplikacji, co oznacza, że można je łatwiej dostosować do potrzeb i zadań. 
+Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są oddzielone i izolowane, dzięki czemu zagrożenia są ograniczone do jednostkowych modułów.
+
+
+#### Kooperacja
+
+Moduły mogą być tworzone i wdrażane osobno, a następnie łatwo wprowadzane do głównego systemu. 
+Moduły można łatwo rozpowszechniać i udostępniać innym użytkownikom, co pozwala na bezproblemową współpracę, wymianę i wspólną pracę nad aplikacją. 
+
+
+#### Odwzorowanie
 
 W tej prezentacji przeznaczonej dla programistów można zaobserwować jak jest pojmowana modularyzacja w IT.
 Częstą praktyką jest wykorzystywanie dostępnych i znanych programiście wzorców, dopasowwywanie rzeczywistości pod wrzozec.
@@ -279,7 +300,7 @@ Niestety taka praktyka w naturalny sposób prowadzi do tworzenia implementecji, 
 Można tę sytuację porównać do klocków, gdzie chcąc odwzorować obiekt, np pojazd, używamy tylko dostępnym klocków.
 
 
-### Kierunek oddziaływania modularyzacji na rzeczywistość
+#### Kierunek oddziaływania modularyzacji na rzeczywistość
 
 W modularyzacji gdy braknie klocków to dostarczamy nowe, lepiej dopasowane poprzez hipermodularyzację.
 
@@ -292,20 +313,6 @@ UWAGA
 + korzystamy z tego co mamy, nie zmieniamy połączeń, które prowadzą do ryzyka
 
 
-
-
-#### Podsumowanie
-
-W praktyce życiowej kierujemy się wyborem:
-
-+ mniejszego zła 
-+ zasady pareto 
-
-skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
-
-O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
-
-Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 
 
@@ -399,20 +406,20 @@ Jak tego dokonać, odpowiedź na koniec przentacji!
 # 5. Geneza
 
 + Automatyzacja
++ Modularyzacja 
 + **Hipermodularyzacja**
-+ Modularyzacja i **Hipermodularyzacja**
-+ 
++ Infrastruktura
++ Architektura modułowa
 
 
 ```mermaid
-stateDiagram
-    [*] --> Still
-    Still --> [*]
-
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
+mindmap
+  root((Bałagan))
+    Automatyzacja
+    Hipermodularyzacja
+    Modularyzacja
+    Infrastruktura
+    Architektura
 ```
 
 Wprowadzenie do hipermodularyzacji 
@@ -444,7 +451,9 @@ W prostych słowach:
 
 
 
-#### Modularyzacja w budowaniu systemów
+#### Infrastruktura 
+
+Modularyzacja w budowaniu systemów
 
 **Modularyzacja** zajmuje się tworzeniem sieci modułów, **Hiermodularyzacja** wchodzi istotę samych modułów, determinuje ich powstawanie, narzuca standardy.
 
@@ -454,7 +463,7 @@ Modularyzacja to tworzenie sieci modułów. (Ilościowe)
 
 
 
-### architektura modułowa
+### Architektura modułowa
 
 architektura modułowa odnosi się do projektowania systemu składającego się z niezależnych jednostek, które można łączyć w celu stworzenia większego i bardziej złożonego systemu.
 Te niezależne jednostki nazywane są modułami i można je łatwo wymieniać lub modyfikować bez wpływu na cały system.
