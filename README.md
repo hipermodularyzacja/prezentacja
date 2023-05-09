@@ -251,12 +251,6 @@ Dotyczy to często każdego z nas na styku teorii i praktyki.
 [żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
 
-
-Problemyu związane z modularyzacją, jak rozeznać granice?
-+ [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
-
-
-
 W praktyce życiowej kierujemy się wyborem:
 
 + mniejszego zła 
@@ -266,29 +260,9 @@ skupiając się na rezultacie angażujemy tylko część czas, energii i zasobó
 
 O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
 
-Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
-### Korzyści:
-
-+ Re-użycie
-+ Decentralizacja
-
-#### Re-użycie
-
-+ ile z zasobów, które mamy, możemy ponownie użyć?
-+ Co w przypadku potrzeby naprawy, czy musimy wymieniać całość?
-
-
-#### Decentralizacja
-
-Decentralizacja zwiększa modułowość aplikacji, co oznacza, że można je łatwiej dostosować do potrzeb i zadań. 
-Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są oddzielone i izolowane, dzięki czemu zagrożenia są ograniczone do jednostkowych modułów.
-
-
-#### Kooperacja
-
-Moduły mogą być tworzone i wdrażane osobno, a następnie łatwo wprowadzane do głównego systemu. 
-Moduły można łatwo rozpowszechniać i udostępniać innym użytkownikom, co pozwala na bezproblemową współpracę, wymianę i wspólną pracę nad aplikacją. 
+### Problemy związane z modularyzacją, jak rozeznać granice?
++ [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
 
 
 #### Odwzorowanie
@@ -298,6 +272,8 @@ Częstą praktyką jest wykorzystywanie dostępnych i znanych programiście wzor
 Niestety taka praktyka w naturalny sposób prowadzi do tworzenia implementecji, kosztownych w utrzymaniu.
 
 Można tę sytuację porównać do klocków, gdzie chcąc odwzorować obiekt, np pojazd, używamy tylko dostępnym klocków.
+
+
 
 
 #### Kierunek oddziaływania modularyzacji na rzeczywistość
@@ -311,8 +287,6 @@ W modularyzacji gdy braknie klocków to dostarczamy nowe, lepiej dopasowane popr
 UWAGA
 + nie prowadzimy działań na całym systemie, gdyż interesuje nas elastyczność i sprężystość, odporność na wpływ z zewnątrz, chcemy uniknąć braku dostępu do zasobów
 + korzystamy z tego co mamy, nie zmieniamy połączeń, które prowadzą do ryzyka
-
-
 
 
 
@@ -548,22 +522,36 @@ stateDiagram
 
 Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
 Oferują znaczące korzyści w zakresie elastyczności, skalowalności, możliwości ponownego użycia, konserwacji, sprawności, odporności, dostosowywania i współpracy. 
+Modularyzacja to droga do solidnych, elastycznych i wydajnych systemów.
 
-Modularyzacja to droga do solidnych, elastycznych i wydajnych systemy.
+
+
+Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
+
+### Korzyści:
+
++ Re-użycie
++ Decentralizacja
++ Kooperacja
++ Odwzorowanie
+
+
 
 Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
-
 
 + Zwinność, Agility
 + Odporność, Resilience
 + Dostosowalność, Customization
-+ Współpraca
++ Kooperacja
 + Elastyczność, Flexibility
-+ Reużywalność, Reusability
 + Skalowalność, Scalability
++ Reużywalność, Reusability
++ Konserwacja
++ Decentralizacja
+ 
 
 
-
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/3b9c36e8-2a01-4384-a37a-d77b27647236)
 
 ```mermaid
 mindmap
@@ -574,8 +562,9 @@ mindmap
     Współpraca
     Elastyczność    
     Skalowalność
-    Reużywalność
+    Reużywalność    
     Konserwacja
+    Decentralizacja    
 ```
 
 
@@ -583,36 +572,66 @@ mindmap
 #### Zwinność
 Hipermodularność pozwala na szybki rozwój i wdrażanie nowych funkcji i usług. Deweloperzy mogą pracować nad poszczególnymi modułami bez wpływu na cały system, co pozwala na szybszą iterację i dostarczanie.
 
+
 #### Odporność
+
 Systemy hipermodularne są bardziej odporne na awarie. Jeśli jeden moduł ulegnie awarii, można go łatwo wymienić na zapasowy lub nowy moduł, bez wpływu na resztę systemu.
 
+
 #### Dostosowywanie
+
 Hipermodularność pozwala na większą personalizację systemu. Moduły można dodawać, usuwać lub wymieniać, aby spełnić określone wymagania lub potrzeby biznesowe.
 
-#### Współpraca
+
+#### Kooperacja
+
+Moduły mogą być tworzone i wdrażane osobno, a następnie łatwo wprowadzane do głównego systemu. 
+Moduły można łatwo rozpowszechniać i udostępniać innym użytkownikom, co pozwala na bezproblemową współpracę, wymianę i wspólną pracę nad aplikacją. 
 Hipermodularność zachęca do współpracy między programistami. Różne zespoły mogą pracować nad różnymi modułami, co ułatwia zarządzanie procesem rozwoju.
 
 
-#### Elastyczność:
+#### Elastyczność
+
 Modułowa architektura pozwala na łatwą modyfikację i dostosowanie systemu. Dodawanie nowych funkcji, aktualizacja komponentów i naprawianie błędów może odbywać się bez zakłócania pracy całego systemu.
 
-#### Skalowalność:
+
+#### Skalowalność
+
 Modułowa architektura wspiera skalowalność.
 Pozwala na dodawanie nowych modułów do systemu, czyniąc go zdolnym do obsługi zwiększonego obciążenia.
 
+
 #### Reużywalność
+
++ ile z zasobów, które mamy, możemy ponownie użyć?
++ Co w przypadku potrzeby naprawy, czy musimy wymieniać całość?
 Możliwość ponownego użycia, Moduły mogą być używane w różnych systemach lub aplikacjach, oszczędzając czas i zasoby w procesie rozwoju.
 
-#### Konserwacja:
+
+#### Konserwacja
+
 Modułowa architektura upraszcza konserwację.
 System można łatwo konserwować, wymieniając lub aktualizując moduł, którego dotyczy problem, bez wpływu na cały system.
 
+
+#### Decentralizacja
+
+Decentralizacja zwiększa modułowość aplikacji, co oznacza, że można je łatwiej dostosować do potrzeb i zadań. 
+Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są oddzielone i izolowane, dzięki czemu zagrożenia są ograniczone do jednostkowych modułów.
 
 
 
 
 ## Decentralizacja a Modularyzacja
 
++ Elastyczność
++ Skalowalność
++ Łatwość w utrzymaniu
++ Bezpieczeństwo
++ Łatwość w rozwijaniu
++ Dostępność
+
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/5d6dd301-3486-431b-bb5c-880b5212a381)
 
 
 ```mermaid
@@ -783,16 +802,54 @@ By following these steps, you can develop your hypermodular thinking skills and 
 
 
 
+
 # 9. Galeria przykładów
 
-Galeria Przykładów modularyzacji
+Galeria Przykładów **hipermodularyzacji**
+
++ Oprogramowanie, Software
++ Sprzęt, Hardware
++ Przeprowadzka
++ Magazynowanie
 
 
-#### Moje projekty:
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/0992ee1e-9d98-4b10-ad65-5dcae5497cd8)
 
+
+```mermaid
+mindmap
+  root((Przykłady))    
+    Software
+    Hardware
+    Przeprowadzka
+    Magazynowanie
+```
+
+
+#### Oprogramowanie:
+
+Moje projekty:
 + Dialogware: text2software - zmodularyzowane budowanie aplikacji
 + Metamoduły bazujące na tym:  [docs.metamodule.org](https://docs.metamodule.org/)
 
+
+
+
+### architektura modularna i monolityczna
+
++ [Modularyzacja: kolejny modny trend IT, czy jedyna słuszna droga? - Tech Blog ING Bank Śląski](https://techblog.ing.pl/blog/modularyzacja-kolejny-modny-trend-it-czy-jedyna-sluszna-droga)
+
+
+systemy do pakowania przedmiotów
+systemy układania 
+
+
+
+### Modularny hardware
+
++ minipc
++ systemowe skrzynki
++ mobilna infrastruktura
 
 
 
@@ -808,34 +865,12 @@ Tam gdzie jest własność prywatna, odzież codzienna, określamy pokoje, któr
 Tam gdzie jest własność prywatna, ale używana w przestrzeni wspólnej, np buty, parasolki określamy ograniczone miejsce wspólne, korytarz.
 
 
-### Utrzymanie porządku
-
-
-duże -> małe
-
-
 
 ### Magazynowanie
 
-
+duże -> małe
 + regały, skrzynki, pudełka
 
-
-
-### Modularny hardware
-
-+ minipc
-+ systemowe skrzynki
-+ mobilna infrastruktura
-
-
-### architektura modularna i monolityczna
-
-+ [Modularyzacja: kolejny modny trend IT, czy jedyna słuszna droga? - Tech Blog ING Bank Śląski](https://techblog.ing.pl/blog/modularyzacja-kolejny-modny-trend-it-czy-jedyna-sluszna-droga)
-
-
-systemy do pakowania przedmiotów
-systemy układania 
 
 
 
