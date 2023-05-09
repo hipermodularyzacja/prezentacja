@@ -1242,3 +1242,7 @@ Co na to jury?
 + What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
 
 + What is the difference between a method and a procedure? http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure
+
+
+---
++ [edit](https://github.com/hipermodularyzacja/prezentacja/edit/main/README.md)
