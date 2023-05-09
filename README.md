@@ -918,36 +918,6 @@ Moduł
  
 
 
-```mermaid
-stateDiagram    
-    [*] --> Sieć
-    Sieć --> Gałąź
-    Gałąź --> Moduł
-    Integruj -->
-
-    state Sieć {
-        [*] --> Ogranicz
-        Ogranicz --> Ulepsz
-        Ulepsz --> Powiel    
-        Powiel --> [*]
-    }
-
-    state Gałąź {
-        [*] --> Identyfikuj
-        Identyfikuj --> Dziel
-        Dziel --> Łącz    
-        Łącz --> [*]
-    }
-
-    state Moduł {
-        [*] --> Projektuj
-        Projektuj --> Buduj
-        Buduj --> Testuj    
-        Testuj --> [*]        
-    }
-```
-
-
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/fa537680-61db-46fd-881e-d42af998bbf6)
 
 ```mermaid
