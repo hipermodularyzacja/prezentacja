@@ -405,20 +405,19 @@ Jak tego dokonać, odpowiedź na koniec przentacji!
 
 # 5. Geneza
 
-+ Automatyzacja
-+ Modularyzacja 
-+ **Hipermodularyzacja**
-+ Infrastruktura
++ Tło
++ Cel Hipermodularyzacji 
++ Różnice między Modularyzacją i Hipermodularyzacją
 + Architektura modułowa
 
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/66553873-5a35-402e-8dac-87712167c839)
 
 ```mermaid
 mindmap
   root((Bałagan))
-    Automatyzacja
-    Hipermodularyzacja
-    Modularyzacja
-    Infrastruktura
+    Tło    
+    Cel
+    Różnice   
     Architektura
 ```
 
@@ -427,33 +426,30 @@ Wprowadzenie do hipermodularyzacji
 + Muzyka, [www/tekst.md](https://github.com/hipermodularyzacja/www/blob/main/tekst.md)
 
 
-## Automatyzacja
+## Tło
 
-Automatyzacja to droga w której modularyzujemy, standaryzujemy i specjalizujemy procesy.
+Automatyzacja wymusza modularyzację, standaryzację i specjalizację.
 
 Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy wiedzieli jaki standard użyć, możemy wcześniej na podstawie minimalnych danych o cechach procesu poznać jaka jest jego specyfika i przez to przyporzadkować go do określonego zbioru.
 
 
-### Hipermodularyzacja
+### Cel Hipermodularyzacji
 
 + **Hipermodularyzacja** przenosi architekturę modułową na wyższy poziom.
 + Wykracza poza tradycyjne podejście modułowe i obejmuje podział systemu na mniejsze, bardziej wyspecjalizowane moduły.
 + **Hipermodularyzacja** zajmuje się nie tyle zarządzaniem architekturą, co skupieniem się na najmniejszych elementach, by projektować moduły, które będą ułatwiały tworzenie lepszych systemów.
 
 
-### Modularyzacja i Hipermodularyzacja
+### Różnice między Modularyzacją i Hipermodularyzacją
 
 
-W prostych słowach:
+##### W prostych słowach:
 
 + **Modularyzacja** to budowanie systemu poprzez wykorzystanie gotowych modułów.
 + **Hipermodularyzacja** to rozbijanie istniejących modułów na mniejsze, by stworzyć więcej prostych, re-używalnych modułów.
 
 
-
-#### Infrastruktura 
-
-Modularyzacja w budowaniu systemów
+##### Modularyzacja w budowaniu systemów
 
 **Modularyzacja** zajmuje się tworzeniem sieci modułów, **Hiermodularyzacja** wchodzi istotę samych modułów, determinuje ich powstawanie, narzuca standardy.
 
@@ -465,7 +461,7 @@ Modularyzacja to tworzenie sieci modułów. (Ilościowe)
 
 ### Architektura modułowa
 
-architektura modułowa odnosi się do projektowania systemu składającego się z niezależnych jednostek, które można łączyć w celu stworzenia większego i bardziej złożonego systemu.
+Architektura modułowa odnosi się do projektowania systemu składającego się z niezależnych jednostek, które można łączyć w celu stworzenia większego i bardziej złożonego systemu.
 Te niezależne jednostki nazywane są modułami i można je łatwo wymieniać lub modyfikować bez wpływu na cały system.
 
 Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
@@ -508,6 +504,8 @@ Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawow
 
 
 [Badanie](badanie.md)
+
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/ae0a7d54-91e6-4b83-a11a-2f2e3f74a46d)
 
 ```mermaid
 mindmap
