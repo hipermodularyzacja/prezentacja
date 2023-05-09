@@ -17,9 +17,9 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 
 ```mermaid
 mindmap
-  root((mindmap))
+  root((hiper modularyzacja))
     Prezentacja
-      Prelegent      
+      Prelegent, kto?      
       Cel prezentacji
         Problem, dlaczego?
         Zastosowanie, gdzie?      
@@ -34,7 +34,7 @@ mindmap
       Galeria przykładów                
       
     Technika
-      Jak (hiper)modularyzować?
+      Jak hiper modularyzować?
       Przykład użycia             
     
 ```
