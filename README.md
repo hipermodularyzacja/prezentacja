@@ -125,12 +125,12 @@ Kim jestem?
 
 
 Temat Hipermodularyzacji jest niezależny od branży, interdyscyplinarny, mimo wszystko jest tak niszowy, że w Polsce tylko dwie osoby o tym napisały w ciągu ostatnich lat.
-Wg Google w Polsce tylko dwie osoby poruszają temat: #hipermodularyzacja Tomasz Jakut i ja. Czy wobec tego pisanie książki i tworzenie prezentacji o hipermodularyzacji jest pozbawione sensu? 
+Wg Google w Polsce osoby, które poruszyły temat: hipermodularyzacja to Tomasz Jakut i ja. 
++ Czy wobec tego pisanie książki i tworzenie prezentacji o hipermodularyzacji jest pozbawione sensu? 
 
-
+## Cel
 
 Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
-
 
 Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
 
@@ -138,7 +138,7 @@ To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować si�
 
 
 
-## Cele badania hipermodularyzacji:
+## Badanie
 
 Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu -> ekspansja.
 
