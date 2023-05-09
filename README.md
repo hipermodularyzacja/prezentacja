@@ -878,43 +878,53 @@ stateDiagram
 ```
 
 
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/61b5ffa0-1181-4cef-b901-762519c112aa)
-
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/1b9f6483-ac50-4316-b698-db480e9408a9)
 
 ```mermaid
 stateDiagram    
     [*] --> Sieć
    
-    Rozdziel --> Gałąź    
+    Rozdziel --> Gałąź   
     Sieć --> Rozdziel
     
-    Gałąź --> Połącz
-    Połącz --> Sieć
+    Gałąź --> Powiel
+    Powiel --> Sieć
+        
+    Gałąź --> Dodaj
+    Dodaj --> Moduł
 
-    Łącz --> Moduł
-    Moduł --> Integruj
-    Integruj --> Gałąź
-    Gałąź --> Łącz
-    Moduł --> [*]
+    Re_użyj --> Gałąź
+    Moduł --> Re_użyj
+                    
+    Dane --> Wyodrębnij
+    Wyodrębnij --> Moduł
+
+    Moduł --> klasyfikuj
+    klasyfikuj --> Dane
 
 
     state Sieć {
-        [*] --> Ogranicz
-        Ogranicz --> Ulepsz
-        Ulepsz --> [*]
+        [*] --> Optymalizacja
+        Optymalizacja --> Monitorowanie
+        Monitorowanie --> [*]
     }
 
     state Gałąź {
-        [*] --> Identyfikuj
-        Identyfikuj --> Dziel
-        Dziel --> [*]
+        [*] --> Identyfikacja
+        Identyfikacja --> Rekonfiguracja   
+        Rekonfiguracja --> [*]
     }
 
     state Moduł {
-        [*] --> Buduj
-        Buduj --> Testuj    
-        Testuj --> [*]        
+        [*] --> Standaryzowanie
+        Standaryzowanie --> Specjalizowanie
+        Specjalizowanie --> Testowanie
+        Testowanie --> [*]        
     }
+
+    state Dane {
+        [*] --> [*]
+    }    
 ```
 
 
