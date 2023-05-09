@@ -43,8 +43,8 @@ Tom Sapletta
 
 
 ####  Praktyka
-###### 10. Technika
-###### 11. Jak (hiper)modularyzować?
+###### 10. Jak hiperm odularyzować?
+###### 11. Metoda hiper modularyzacji
 ###### 12. Przykład użycia
 
 ##### Dyskusja
@@ -929,7 +929,79 @@ duże -> małe
 
 
 
-# 10. Technika
+
+# 10. Jak (hiper)modularyzować?
+
+
+
+## Metodyka w IT
+
+Życie w hiper-modułowym świecie oznacza, że nieustannie otacza nas coraz większa liczba wyspecjalizowanych modułów, które są ze sobą połączone, tworząc złożone systemy. 
+Oto kilka sposobów zarządzania wszystkimi modułowymi elementami w hipermodułowym świecie:
+
+
+#### Rozwijaj modułowy sposób myślenia
+
+Rozbijaj złożone problemy na mniejsze, łatwiejsze i bardziej ekonomiczne w zarządzaniu elementy.
+Pomoże Ci to zrozumieć i zarządzać połączonymi ze sobą modułami systemu.
+
+#### Zapoznaj się z interfejsami
+
+W hiper-modułowym świecie ważne jest, aby zrozumieć, w jaki sposób różne moduły wchodzą ze sobą w interakcję.
+Dowiedz się o różnych typach interfejsów, takich jak interfejsy API lub protokoły, oraz o tym, jak działają.
+
+
+#### Korzystaj z narzędzi modułowych
+
+Używaj narzędzi modułowych do zarządzania różnymi modułami systemu.
+Obejmuje to narzędzia do kontroli wersji, testowania i wdrażania.
+
+
+#### Ćwicz projektowanie modułowe
+
+Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
+Oznacza to podzielenie systemów na mniejsze, wyspecjalizowane moduły, które można łatwo wymienić lub zaktualizować.
+
+
+#### Współpracuj z innymi
+
+Współpraca jest kluczem w hiper-modułowym świecie.
+Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
+
+
+#### Nieustannie się ucz
+
+Hipermodułowy świat nieustannie ewoluuje.
+Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
+
+
+
+#### Różnicowanie
+
+porównuj i wyciągaj wnioski z różnic
+działa w dwóch obszarach na tych samych narzędziach i formach
+testuj stale monitorując sposób oddziaływania 
+
+
+
+#### Przechodzenie pomiędzy poziomami
+
+Wchodzenie z poziomu treści na formę a nie pozostanie w jednym obszarze
+1. zmiana treści
+2. zmiana formy
+3. zmiana treści
+
+
+Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modułowych narzędzi, ćwicząc modułowe projektowanie, współpracując z innymi i stale się ucząc, możesz skutecznie zarządzać wszystkimi modułowymi elementami w hipermodułowym świecie.
+
+
+
+
+
+
+
+
+# 11. Metoda hipermodularyzacji
 
 
 ```
@@ -1182,78 +1254,6 @@ Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
 
 
 
-
-
-
-
-
-
-
-
-
-# 11. Jak (hiper)modularyzować?
-
-
-
-## Metodyka w IT
-
-Życie w hiper-modułowym świecie oznacza, że nieustannie otacza nas coraz większa liczba wyspecjalizowanych modułów, które są ze sobą połączone, tworząc złożone systemy. 
-Oto kilka sposobów zarządzania wszystkimi modułowymi elementami w hipermodułowym świecie:
-
-
-#### Rozwijaj modułowy sposób myślenia
-
-Rozbijaj złożone problemy na mniejsze, łatwiejsze i bardziej ekonomiczne w zarządzaniu elementy.
-Pomoże Ci to zrozumieć i zarządzać połączonymi ze sobą modułami systemu.
-
-#### Zapoznaj się z interfejsami
-
-W hiper-modułowym świecie ważne jest, aby zrozumieć, w jaki sposób różne moduły wchodzą ze sobą w interakcję.
-Dowiedz się o różnych typach interfejsów, takich jak interfejsy API lub protokoły, oraz o tym, jak działają.
-
-
-#### Korzystaj z narzędzi modułowych
-
-Używaj narzędzi modułowych do zarządzania różnymi modułami systemu.
-Obejmuje to narzędzia do kontroli wersji, testowania i wdrażania.
-
-
-#### Ćwicz projektowanie modułowe
-
-Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
-Oznacza to podzielenie systemów na mniejsze, wyspecjalizowane moduły, które można łatwo wymienić lub zaktualizować.
-
-
-#### Współpracuj z innymi
-
-Współpraca jest kluczem w hiper-modułowym świecie.
-Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
-
-
-#### Nieustannie się ucz
-
-Hipermodułowy świat nieustannie ewoluuje.
-Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
-
-
-
-#### Różnicowanie
-
-porównuj i wyciągaj wnioski z różnic
-działa w dwóch obszarach na tych samych narzędziach i formach
-testuj stale monitorując sposób oddziaływania 
-
-
-
-#### Przechodzenie pomiędzy poziomami
-
-Wchodzenie z poziomu treści na formę a nie pozostanie w jednym obszarze
-1. zmiana treści
-2. zmiana formy
-3. zmiana treści
-
-
-Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modułowych narzędzi, ćwicząc modułowe projektowanie, współpracując z innymi i stale się ucząc, możesz skutecznie zarządzać wszystkimi modułowymi elementami w hipermodułowym świecie.
 
 
 
