@@ -261,34 +261,6 @@ skupiając się na rezultacie angażujemy tylko część czas, energii i zasobó
 O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
 
 
-### Problemy związane z modularyzacją, jak rozeznać granice?
-+ [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
-
-
-#### Odwzorowanie
-
-W tej prezentacji przeznaczonej dla programistów można zaobserwować jak jest pojmowana modularyzacja w IT.
-Częstą praktyką jest wykorzystywanie dostępnych i znanych programiście wzorców, dopasowwywanie rzeczywistości pod wrzozec.
-Niestety taka praktyka w naturalny sposób prowadzi do tworzenia implementecji, kosztownych w utrzymaniu.
-
-Można tę sytuację porównać do klocków, gdzie chcąc odwzorować obiekt, np pojazd, używamy tylko dostępnym klocków.
-
-
-
-
-#### Kierunek oddziaływania modularyzacji na rzeczywistość
-
-W modularyzacji gdy braknie klocków to dostarczamy nowe, lepiej dopasowane poprzez hipermodularyzację.
-
-+ staramy się zmieniać rzeczywistość prowadząc zmiany w ograniczonym miejscu i czasie.
-+ Staramy się zawężać pole oddziaływania modularyzacji na rzeczywistość prowadząc do uszlachetnienia tylko części w danej chwili
-+ oddziałujemy tam gdzie jest to łatwiejsze, gdzie ingerencja nie jest znacząca, nie jest wymagany duży koszt
-
-UWAGA
-+ nie prowadzimy działań na całym systemie, gdyż interesuje nas elastyczność i sprężystość, odporność na wpływ z zewnątrz, chcemy uniknąć braku dostępu do zasobów
-+ korzystamy z tego co mamy, nie zmieniamy połączeń, które prowadzą do ryzyka
-
-
 
 
 
@@ -307,7 +279,7 @@ UWAGA
 + Magazynowanie
 
 ![image](https://user-images.githubusercontent.com/5669657/236698180-57d81a58-cc26-44ce-99bd-a9d0acd002be.png)
-
++ [Źródło: SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics)
 
 
 ### Rozwój oprogramowania
@@ -443,6 +415,33 @@ Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, archit
 
 
 
+
+### Problemy związane z modularyzacją, jak rozeznać granice?
++ [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
+
+
+#### Odwzorowanie
+
+W tej prezentacji przeznaczonej dla programistów można zaobserwować jak jest pojmowana modularyzacja w IT.
+Częstą praktyką jest wykorzystywanie dostępnych i znanych programiście wzorców, dopasowwywanie rzeczywistości pod wrzozec.
+Niestety taka praktyka w naturalny sposób prowadzi do tworzenia implementecji, kosztownych w utrzymaniu.
+
+Można tę sytuację porównać do klocków, gdzie chcąc odwzorować obiekt, np pojazd, używamy tylko dostępnym klocków.
+
+
+
+
+#### Kierunek oddziaływania modularyzacji na rzeczywistość
+
+W modularyzacji gdy braknie klocków to dostarczamy nowe, lepiej dopasowane poprzez hipermodularyzację.
+
++ staramy się zmieniać rzeczywistość prowadząc zmiany w ograniczonym miejscu i czasie.
++ Staramy się zawężać pole oddziaływania modularyzacji na rzeczywistość prowadząc do uszlachetnienia tylko części w danej chwili
++ oddziałujemy tam gdzie jest to łatwiejsze, gdzie ingerencja nie jest znacząca, nie jest wymagany duży koszt
+
+UWAGA
++ nie prowadzimy działań na całym systemie, gdyż interesuje nas elastyczność i sprężystość, odporność na wpływ z zewnątrz, chcemy uniknąć braku dostępu do zasobów
++ korzystamy z tego co mamy, nie zmieniamy połączeń, które prowadzą do ryzyka
 
 
 
@@ -649,7 +648,11 @@ Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są
 
 
 
+
+
 ## Decentralizacja a Modularyzacja
+
+Decentralizacja w kontekście modularyzacji przynosi wiele korzyści, w tym większą elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
 
 + Elastyczność
 + Skalowalność
@@ -698,7 +701,6 @@ Decentralizacja ułatwia rozwijanie systemu poprzez dodawanie nowych modułów. 
 Decentralizacja umożliwia lepszą dostępność systemu. Jeśli jeden moduł przestanie działać, pozostałe moduły będą nadal dostępne dla użytkowników.
 
 
-W sumie, decentralizacja w kontekście modularyzacji przynosi wiele korzyści, w tym większą elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
 
 
 
