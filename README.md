@@ -66,9 +66,10 @@ mindmap
     Praktyka
       Technika
       Jak hiper modularyzować?
-      Przykład użycia                
-    
+      Przykład użycia                    
 ```
+
+
 
 + [Online FlowChart & Diagrams Editor](https://mermaid.live/edit#pako:eNpdUsFuwjAM_RUrJ5D4AjQNaZuEtAkJaZxQLyYxbWgaV2mqqkFcdtlH7DO47sb4r7VAy9ac7Gc_O372XkhWJKYi01ZlmEcWwDH70SjROTnIWJUGXR1Q7nA8bsMAS0eBrG-hK3CBDMUN-LBxj6nn2RXuws9kIO9ZuoNbHm8MZS1LGZSBYp7do2ssPBdcodXUpsQqaBqU7qzF3592wTlZCvif8ISqq1fBDlMNRc7F6bgZFH5jF-rzl9QQ4CLGTQvLLdhldYqEOj1_oKr7iRkqTSAT9PPlqp9pjoacxkaMG-F0rGDwhqUx9XXaj7QimVh9918xhcGuGsF-Pmf31dxaQXn-rqXGYT8xEVkzHWrV3MG-pUXCJ5RRJKaNaan0Dk0kIntoUrH0_F5bKaZbNAVNRJkr9PSiMXaY9WiOds1890lpz25xPTbJdqtjcfgFi97JiQ)
 
@@ -300,6 +301,17 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 # 4. Zastosowanie - gdzie?
 
+
+```mermaid
+stateDiagram
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
 + Rozwój oprogramowania
 + Architektura
 + Infrastruktura
@@ -379,6 +391,18 @@ Jak tego dokonać, odpowiedź na koniec przentacji!
 
 
 # 5. Geneza
+
+
+```mermaid
+stateDiagram
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
 
 Wprowadzenie do hipermodularyzacji 
 
@@ -466,7 +490,31 @@ Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawow
 
 [Badanie](badanie.md)
 
+```mermaid
+mindmap
+  root((Badanie))
+    Problem
+    Rozwiązanie
+    Hipoteza
+    Procedura
+    Proces
+    Technika
+    Dyrektywa
+    Metoda
+    Metodyka
+    Metodologia
+```
 
+```mermaid
+stateDiagram
+    [*] --> Still
+    Still --> [*]
+
+    Problem --> Rozwiązanie
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
 
 
 
@@ -487,6 +535,21 @@ Oferują znaczące korzyści w zakresie elastyczności, skalowalności, możliwo
 Modularyzacja to droga do solidnych, elastycznych i wydajnych systemy.
 
 Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzyści jednocześnie:
+
+```mermaid
+mindmap
+  root((Badanie))
+    Problem
+    Rozwiązanie
+    Hipoteza
+    Procedura
+    Proces
+    Technika
+    Dyrektywa
+    Metoda
+    Metodyka
+    Metodologia
+```
 
 + Elastyczność, Flexibility
 + Reużywalność, Reusability
@@ -764,12 +827,29 @@ Dzięki temu całą sieć hipermodułów można dostosować do zmieniających si
 
 
 
+```mermaid
+mindmap
+  root((Technika))
+    Zmodularyzowana Sieć
+      Ograniczaj
+      Ulepszaj
+      Powielaj   
+```
 
 
 ## Zmodularyzowana Sieć
 
 + Ograniczaj -> Ulepszaj -> Powielaj
 
+```mermaid
+stateDiagram
+    [*] --> Ograniczaj
+    Ograniczaj --> [*]
+
+    Ograniczaj --> Ulepszaj
+    Ulepszaj --> Powielaj    
+    Powielaj --> [*]
+```
 
 #### Ograniczaj
 
