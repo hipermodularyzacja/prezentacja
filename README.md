@@ -376,6 +376,13 @@ Wprowadzenie do hipermodularyzacji
 
 + Muzyka, [www/tekst.md](https://github.com/hipermodularyzacja/www/blob/main/tekst.md)
 
+## Podsumowanie
+1. Modularyzacja polega na tworzeniu sieci modułów, natomiast hipermodularyzacja polega na rozbijaniu istniejących modułów na mniejsze i bardziej wyspecjalizowane moduły.
+2. Modularyzacja skupia się na zarządzaniu architekturą, natomiast hipermodularyzacja skupia się na samych modułach.
+3. Modularyzacja ma na celu ułatwienie tworzenia lepszych systemów, przez tworzenie ustandaryzowanych i wyspecjalizowanych modułów.
+4. Problemy związane z modularyzacją to głównie brak granic, które można odwzorować na klocki, czyli trudność w dopasowaniu rzeczywistości do wzorca.
+5. Modularyzacja ma na celu zmienianie rzeczywistości poprzez zawężenie pola oddziaływania modularyzacji, tworzenie nowych modułów i wymianę tych istniejących.
+
 
 ## Tło
 
@@ -551,13 +558,12 @@ stateDiagram
 
 # 7. Korzyści z hipermodularności
 
-Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
-Oferują znaczące korzyści w zakresie elastyczności, skalowalności, możliwości ponownego użycia, konserwacji, sprawności, odporności, dostosowywania i współpracy. 
+## Podsumowanie
+Podsumowanie:
+
 Modularyzacja to droga do solidnych, elastycznych i wydajnych systemów.
+Modułowa architektura i hipermodularność to ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania, które oferują wiele korzyści w zakresie elastyczności, skalowalności, reużywalności, konserwacji, odporności, dostosowywania i współpracy. Decentralizacja może przynieść wiele korzyści, w tym elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
 
-
-
-Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 ### Korzyści:
 
@@ -1002,6 +1008,21 @@ Budowanie komponentów przy użyciu hipermodularnych zasad projektowania oznacza
 Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
 Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb.
 
+## Podsumowanie
+
+
+1. Buduj systemy w oparciu o hipermodularne komponenty.
+2. Rozbij złożone problemy na mniejsze, łatwiejsze i bardziej ekonomiczne w zarządzaniu elementy.
+3. Zdefiniuj interfejsy między różnymi modułami.
+4. Zaprojektuj moduły tak, aby były wysoce wyspecjalizowane i elastyczne.
+5. Zbuduj komponenty, korzystając z hipermodułowych zasad projektowania.
+6. Przetestuj komponenty, aby upewnić się, że działają efektywnie.
+7. Zintegruj komponenty z powrotem w cały proces.
+8. Korzystaj z narzędzi modułowych do zarządzania różnymi modułami systemu.
+9. Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
+10. Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
+11. Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
+12. Porównuj i wyciągaj wnioski z różnic działa w dwóch obszarach na tych samych narzędziach i formach testuj stale monitorując sposób oddziaływania.
 
 
 ## Sieć
