@@ -824,28 +824,66 @@ Wykonując te kroki, możesz projektować i przekształcać procesy w hipermodu�
 Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
 Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb procesu.
 
+```
+Sieć
+ Ogranicz
+ Ulepsz
+ Powiel
 
+Gałąź
+ Identyfikuj
+ Dziel
+ Łącz
+  
+Moduł
+ Projektuj
+ Buduj
+ Testuj
+ Integruj
+```
+ 
 
 
 ```mermaid
-mindmap
-  root((Technika))
-    Zmodularyzowana Sieć
-      Ograniczaj
-      Ulepszaj
-      Powielaj   
+stateDiagram    
+    [*] --> Net
+    Net --> Node
+    Node --> Module
+
+    state Net {
+        [*] --> Ogranicz
+        Ogranicz --> Ulepsz
+        Ulepsz --> Powiel    
+        Powiel --> [*]
+    }
+
+    state Node {
+        [*] --> Identyfikuj
+        Identyfikuj --> Dziel
+        Dziel --> Łącz    
+        Łącz --> [*]
+    }
+
+    state Module {
+        [*] --> Projektuj
+        Projektuj --> Buduj
+        Buduj --> Testuj    
+        Testuj --> [*]
+    }
 ```
 
 
-## Zmodularyzowana Sieć
+## Sieć
 
 + Ograniczaj -> Ulepszaj -> Powielaj
 
+
 ```mermaid
 stateDiagram
-    [*] --> Ograniczaj
-    Ograniczaj --> [*]
+    [*] --> Sieć
+    Sieć --> [*]
 
+    Sieć --> Ograniczaj
     Ograniczaj --> Ulepszaj
     Ulepszaj --> Powielaj    
     Powielaj --> [*]
@@ -879,7 +917,7 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 
 
 
-## Modularyzacja procesu
+## Galąź (Proces)
 
 + Identyfikuj -> Dziel -> Łącz
 
@@ -907,7 +945,7 @@ Pomoże Ci to zrozumieć, w jaki sposób poszczególne moduły współdziałają
 
 
 
-## Hipermodularyzacja
+## Moduł (Hipermodularyzacja)
 
 + Projektuj -> Buduj -> Testuj -> Integruj
 
