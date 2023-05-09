@@ -14,15 +14,46 @@ Meetup, [Hipermodularyzacja w praktyce hardware & software development](https://
 
 ### Plan prezentacji:
 
+
+```mermaid
+mindmap
+  root((mindmap))
+    Prezentacja
+      Prelegent      
+      Cel prezentacji
+    Cel prezentacji
+      
+    Problem
+      Pen and paper
+      
+    Zastosowanie
+      Pen and paper
+      
+    Geneza
+      Pen and paper
+      
+    Problem
+      Pen and paper
+      
+    Problem
+      Pen and paper
+      Mermaid      
+```
+
+
 ##### 1. Prelegent
 ##### 2. Cel prezentacji
+
 ##### 3. Problem - dlaczego?
 ##### 4. Zastosowanie - gdzie?
+
 ##### 5. Geneza 
 ##### 6. Korzyści z hipermodularności
 ##### 7. Badanie - w jaki sposób?
+
 ##### 8. Co wie chatGPT?
 ##### 9. Galeria przykładów
+
 ##### 10. Jak (hiper)modularyzować?
 ##### 11. Technika
 ##### 12. Przykład użycia
@@ -145,6 +176,8 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 
 
+
+
 # 3. Problem - dlaczego?
 
 ```mermaid
@@ -256,12 +289,18 @@ Rezultatem  modularyzacji rezultatem ma być lepsza specjalizacja.
 
 # 4. Zastosowanie - gdzie?
 
++ Rozwój oprogramowania
++ Architektura
++ Infrastruktura
++ Projektowanie produktów
++ Zarządzanie projektami
++ Magazynowanie
 
 ![image](https://user-images.githubusercontent.com/5669657/236698180-57d81a58-cc26-44ce-99bd-a9d0acd002be.png)
 
 
 
-### W rozwoju oprogramowania
+### Rozwój oprogramowania
 
 W rozwoju oprogramowania modułowość jest często używana do tworzenia komponentów wielokrotnego użytku, które można łatwo zintegrować z różnymi aplikacjami. 
 Z drugiej strony, hipermodularność jest często używana do rozbijania złożonych aplikacji na mniejsze, wyspecjalizowane mikroserwisy, które mogą być rozwijane i wdrażane niezależnie.
@@ -270,7 +309,7 @@ Z drugiej strony, hipermodularność jest często używana do rozbijania złożo
 W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technologia + marketplace
 
 
-#### Programowanie
+#### Architektura
 
 + Wzorce: Enterprise Integration Patterns
 + DSL: Jenkins, Camel, APIDSL 
@@ -293,13 +332,13 @@ W projektowaniu produktów modularność jest często wykorzystywana do tworzeni
 Z drugiej strony, hipermodularność jest często używana do tworzenia produktów z wysoce konfigurowalnymi funkcjami i opcjami.
 
 
-### zarządzanie projektami
+### Zarządzanie projektami
 
 W zarządzaniu projektami modułowość jest często wykorzystywana do rozbijania projektu na mniejsze, łatwe do zarządzania zadania, które można przypisać różnym członkom zespołu. 
 Z drugiej strony, hipermodułowość jest często używana do tworzenia wysoce zwinnych i adaptowalnych przepływów pracy w projekcie, które mogą być łatwo dostosowane i skorygowane w oparciu o zmieniające się wymagania.
 
 
-### Porządkowanie
+### Magazynowanie
 
 Codzienne problemy są związane nie tylko z tworzeniem ale też zarządzaniem, które pozwala m.in. na zamianie dużego bałaganu w mniejsze lokalne bałagany
 Kontekst powstania tego małego bałaganu pozwala na specjalizacje procesu uporządkowania.
@@ -740,6 +779,13 @@ Hipermodułowy świat nieustannie ewoluuje.
 Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
 
 
+#### Różnicowanie
+
+porównuj i wyciągaj wnioski z różnic
+działa w dwóch obszarach na tych samych narzędziach i formach
+testuj stale monitorując sposób oddziaływania 
+
+
 Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modułowych narzędzi, ćwicząc modułowe projektowanie, współpracując z innymi i stale się ucząc, możesz skutecznie zarządzać wszystkimi modułowymi elementami w hipermodułowym świecie.
 
 
@@ -767,6 +813,7 @@ Wykonując te kroki, możesz projektować i przekształcać procesy w hipermodu�
 
 Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
 Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb procesu.
+
 
 
 
