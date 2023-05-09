@@ -83,10 +83,11 @@ Kim jestem?
 ### Co robię?
 
 + [github](https://github.com/tom-sapletta-com)/tom-sapletta-com
-  + ponad 200 projektów, kilka tysięcy repozytoriów z otwartymi źródłami
+   + ponad 200 projektów, kilka tysięcy repozytoriów z otwartymi źródłami
+   
 + [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)/tom-sapletta-com 
- + [makerslab](http://discord.makerslab.pl) - społeczność, kooperacja
- + [softreck](http://www.softreck.pl) - opensource: dialogware 
+  + [makerslab](http://discord.makerslab.pl) - społeczność, kooperacja
+  + [softreck](http://www.softreck.pl) - opensource: dialogware 
 
 ### Role:
 
