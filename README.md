@@ -917,6 +917,8 @@ Tam gdzie jest własność wspólna, np. ręczniki, określamy miejsce w przestr
 Tam gdzie jest własność prywatna, odzież codzienna, określamy pokoje, które są używane przez konkretne osoby.
 Tam gdzie jest własność prywatna, ale używana w przestrzeni wspólnej, np buty, parasolki określamy ograniczone miejsce wspólne, korytarz.
 
+Stosowanie hipermodularyzacji pozwala na ułatwienie wielu procesów, związanych z umeblowaniem, re-nżacją, zmianą przeznaczenia.
+
 
 
 ### Magazynowanie
