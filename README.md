@@ -167,6 +167,18 @@ flowchart LR
   E[więcej wyspecjalizowanych modułów] --> F[szybsza reakcja na wyzwania] --> G[lepsza adaptacja i jakość]
 ```
 
+## Zastosowanie
+
+W stale zmieniającym się świecie przy dźwigni technologicznej trudno zajmować się wieloma aspektami rzeczywistości i zarządzać optymalnie posiadanymi zasobami oraz energią.
+O dziwo w analogowym świecie (dla uproszczenia) sprzedaje się nam wizję binarną, dwubiegunową, jednak rzeczywistość oferuje więcej opcji:
+
+W kontekście ograniczeń:
++ minimalizm
++ maksymalizm
+
+Umiejscowienie tego w kontekście naszego życia rodzinnego, zawodowego rodzi wyboru, które często są kompromisem i kwestią, którą pomaga rozstrzygnąć **hipermodularyzacja** to 
+ograniczyć koszty energetyczne, finansowe, czasowe **w dłuższej perspektywie**
+
 
 ## Dla kogo
 
