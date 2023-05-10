@@ -172,9 +172,8 @@ flowchart LR
 W stale zmieniającym się świecie przy dźwigni technologicznej trudno zajmować się wieloma aspektami rzeczywistości i zarządzać optymalnie posiadanymi zasobami oraz energią.
 O dziwo w analogowym świecie (dla uproszczenia) sprzedaje się nam wizję binarną, dwubiegunową, jednak rzeczywistość oferuje więcej opcji:
 
-W kontekście ograniczeń:
-+ minimalizm
-+ maksymalizm
+W kontekście ograniczeń to minimalizm i maksymalizm.
+WYpracowywanie wolnej przestrzeni można uzyskać poprzez redukcję lub poprzez zhierarchizowanie, ale wtedy na skutek nieprzemyślanej modularyzacji mogą przyjść podwyższone koszta zarządzania.
 
 Umiejscowienie tego w kontekście naszego życia rodzinnego, zawodowego rodzi wyboru, które często są kompromisem i kwestią, którą pomaga rozstrzygnąć **hipermodularyzacja** to 
 ograniczyć koszty energetyczne, finansowe, czasowe **w dłuższej perspektywie**
@@ -898,11 +897,6 @@ systemy układania
 
 
 
-### Modularny hardware
-
-+ minipc
-+ systemowe skrzynki
-+ mobilna infrastruktura
 
 
 
@@ -923,11 +917,34 @@ Stosowanie hipermodularyzacji pozwala na ułatwienie wielu procesów, związanyc
 
 ### Magazynowanie
 
-duże -> małe
-+ regały, skrzynki, pudełka
+Modularne, mobilne skrzynki z materiałami do pracy
+
++ Regał ivar z firmy ikea
++ Systemowe skrzynki macpac firmy makita
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/0d2fd0d6-3cbb-4a94-97c4-0c3226ce052a)
+
++ możliwość szybiego i łatwego transportu oraz korzystania z zawartości w terenie
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/541cb8f0-4b20-420c-b8a5-4cce2f68ad80)
 
 
 
+
+### Modularny hardware - militarity.com
+
++ minipc
++ systemowe skrzynki
++ mobilna infrastruktura
+
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/be33655e-45eb-4dcb-aae5-d460de742d38)
+
+
+Jedna warstwa zawiera:
++ switch sieci lokalnej
++ 3 x minipc do wirtualizacji i programowania
++ przegrodę z aktywnym chłodzeniem
++ listwę zasilającą
+
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/2fa7d7a4-9d26-4b56-ba4e-9378302faffb)
 
 
 
