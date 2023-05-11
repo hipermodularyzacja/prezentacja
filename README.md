@@ -130,37 +130,50 @@ Kim jestem?
 ![image](https://user-images.githubusercontent.com/5669657/236607475-39851935-19e4-4bf7-a1ac-9035587e0d4b.png)
 [żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
-## Temat
+
+### Temat
 
 Temat Hipermodularyzacji jest niezależny od branży, interdyscyplinarny, mimo wszystko jest tak niszowy, że w Polsce tylko dwie osoby o tym napisały w ciągu ostatnich lat.
 Wg Google w Polsce osoby, które poruszyły temat: hipermodularyzacja to Tomasz Jakut i ja. 
 + Czy wobec tego pisanie książki i tworzenie prezentacji o hipermodularyzacji jest pozbawione sensu? 
 
-## Cel
+
+### Cel
 
 Celem tej prezentacji jest przekazanie wiedzy na temat moich wieloletnich badań na temat hipermodularyzacji.
-
 Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
-
-To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się setkami projektów w ciągu roku i tysiącami w ciągu kilku lat.
-
+To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować się dziesiątkami, setkami projektów w ciągu roku i tysiącami w ciągu kilku lat.
 
 
-## Korzyści
+
+### Korzyści
+
++ Posiadanie i zarządzanie tylko tym co jest nam niezbędne
++ Inwestowanie energi, czasu i środków tylko w to co jest nam niezbędne a nie w dedykowaną infrastrukturę
++ Eksperymentowanie, ciągłą edukację przez praktykę
++ Optymalizanie drogi dojścia do rezultatu, poprzez bazowanie na już wypracowanych rezultatach
+
+### Dlaczego?
 
 Dlaczego warto uczyć się i stosować hipermodularyzację?
-
-
-Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu i ekspansja.
 Wielu z nas ceni sobie minimalizm, ale nie możemy go narzucić innym, starając się respektować to, że świat jest złożony.
 Hipermodularyzacja pomaga utrzymać w porządku magazyn z tysiącami pudełek, które czy chcemy czy nie musimy umieć w odpowiednim momencie znaleźć, otworzyć i użyć.
 Każda odnajdywalna i nazywalna rzecz w naszym meta świecie jest wartością, każda niepotrzebna, nienazywalna rzecz jest przeszkodą, tworzącą bałagan.
+
+
+### Minimalizm
+
 Minimalizm pozwala na higienę, skupiając się na tym co jest dla nas ważne.
 W świecie rzeczy potrzebne są metody aranżacji przestrzeni, do nas potrzeb z minimalnym nakładaem energii.
 Hipermodularyzacja pozwala na realizację potrzeb, do których przygotowujemy się długofalowo, ułatwiając przewartościowanie, poznanie każdego elementu, dostosowanie go pod nasze potrzeby.
 
+
+### Edukacja
+
 To wiąże się z ciągłą edukacją, hipermodularyzacja to proces wymagający czasu, pracy i cierpliwości. 
 Jednak nauka i stosowanie tej umiejętności może przynieść wiele korzyści i poprawić jakość naszego życ
+
+Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu i ekspansja.
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/a03e04d9-58b4-4c10-9386-3cec61dfc52d)
 
@@ -180,19 +193,20 @@ flowchart LR
   E[więcej wyspecjalizowanych modułów] --> F[szybsza reakcja na wyzwania] --> G[lepsza adaptacja i jakość]
 ```
 
-## Zastosowanie
+### Zastosowanie
 
 W stale zmieniającym się świecie przy dźwigni technologicznej trudno zajmować się wieloma aspektami rzeczywistości i zarządzać optymalnie posiadanymi zasobami oraz energią.
 O dziwo w analogowym świecie (dla uproszczenia) sprzedaje się nam wizję binarną, dwubiegunową, jednak rzeczywistość oferuje więcej opcji:
 
 W kontekście ograniczeń to minimalizm i maksymalizm.
-WYpracowywanie wolnej przestrzeni można uzyskać poprzez redukcję lub poprzez zhierarchizowanie, ale wtedy na skutek nieprzemyślanej modularyzacji mogą przyjść podwyższone koszta zarządzania.
+Wypracowywanie wolnej przestrzeni można uzyskać poprzez redukcję lub poprzez zhierarchizowanie, ale wtedy na skutek nieprzemyślanej modularyzacji mogą przyjść podwyższone koszta zarządzania.
 
 Umiejscowienie tego w kontekście naszego życia rodzinnego, zawodowego rodzi wyboru, które często są kompromisem i kwestią, którą pomaga rozstrzygnąć **hipermodularyzacja** to 
 ograniczyć koszty energetyczne, finansowe, czasowe **w dłuższej perspektywie**
 
 
-## Dla kogo
+
+### Dla kogo
 
 + dla tych, którzy nie chodzą utartymi szlakami
 + szukających długofalowych konstruktywnych rozwiązań 
