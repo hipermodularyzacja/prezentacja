@@ -1,5 +1,5 @@
 
-# prezentacja [prezentacja.hipermodularyzacja.pl](https://prezentacja.hipermodularyzacja.pl/)
+# prezentacja [prezentacja.hipermodularyzacja.pl](https://prezentacja.hipermodularyzacja.pl/) [pdf](https://prezentacja.hipermodularyzacja.pl/prezentacja.hipermodularyzacja.pl.pdf)
 
 ### Informacje:
 
