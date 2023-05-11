@@ -208,11 +208,13 @@ ograniczyć koszty energetyczne, finansowe, czasowe **w dłuższej perspektywie*
 
 ### Dla kogo
 
-+ dla tych, którzy nie chodzą utartymi szlakami
-+ szukających długofalowych konstruktywnych rozwiązań 
-+ dla tych, którzy biorą odpowiedzialność za skutki aktualnych działań
-+ dla wiecznie poszukujących, głodnych lepszej jakości
-+ budujących organicznie
+Hipermodularyzacja jest dla tych, którzy:
++ lubią eksperymentować i doświadczać,
++ lubią uczyć się w praktyce,
++ poszukują, są głodni lepszej jakości,
++ biorą odpowiedzialność za skutki aktualnych działań,
++ szukają długofalowych konstruktywnych rozwiązań,
++ budują organicznie
 
 
 ### Forma prezentacji
@@ -956,16 +958,19 @@ Modularne, mobilne skrzynki z materiałami do pracy
 
 
 
-### Modularny hardware - militarity.com
+### Modularny hardware
 
-+ minipc
-+ systemowe skrzynki
-+ mobilna infrastruktura
+[Mobilna serwerownia – militarity](https://militarity.com/index.php/2023/04/18/mobilna-serwerownia/)
+
+##### Dlaczego?
++ minipc - niski koszt w porównaniu do dedykowanych serwerów i podzespołów
++ systemowe skrzynki - uniwersalność w porówaniu do dedykowanych rozwiązań
++ mobilna infrastruktura - łatwość dostosowania
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/be33655e-45eb-4dcb-aae5-d460de742d38)
 
 
-Jedna warstwa zawiera:
+##### Jedna warstwa zawiera:
 + switch sieci lokalnej
 + 3 x minipc do wirtualizacji i programowania
 + przegrodę z aktywnym chłodzeniem
