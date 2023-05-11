@@ -964,6 +964,8 @@ Modularne, mobilne skrzynki z materiałami do pracy
 + możliwość szybiego i łatwego transportu oraz korzystania z zawartości w terenie
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/541cb8f0-4b20-420c-b8a5-4cce2f68ad80)
 
++ łatwe odnajdywanie potrzebnego elementu
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/607d5fe6-28bf-49ba-9419-8ecb34f25996)
 
 
 
@@ -976,7 +978,11 @@ Modularne, mobilne skrzynki z materiałami do pracy
 + systemowe skrzynki - uniwersalność w porówaniu do dedykowanych rozwiązań
 + mobilna infrastruktura - łatwość dostosowania
 
++ tylko potrzebne elementy systemu
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/be33655e-45eb-4dcb-aae5-d460de742d38)
+
++ łatwe dopasowanie do instejącego stanowiska
+![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/d371d258-9b11-4958-8b4b-3c647534e065)
 
 
 ##### Jedna warstwa zawiera:
