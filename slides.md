@@ -5,9 +5,9 @@
 
 + Temat: **Hipermodularyzacja** w praktyce hardware & software development
 
-+ Opis: Na dzisiejszym spotkaniu omówimy, jak modułowa architektura i hipermodularność stanowią ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania. 
-Omówimy korzyści związane z decentralizacją, w tym elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu. 
-Podyskutujemy o wpływie decentralizacji, modularyzacji i hipermodularyzacji na procesy doskonalenia sieci.
++ Opis: Na dzisiejszym spotkaniu omówimy, jak modułowa architektura i hipermodularność stanowią ważne koncepcje dla DevOps, twórców sprzętu i oprogramowania.
+  Omówimy korzyści związane z decentralizacją, w tym elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
+  Podyskutujemy o wpływie decentralizacji, modularyzacji i hipermodularyzacji na procesy doskonalenia sieci.
 
 + Keywords: Modularyzacja, hipermodularność, decentralizacja, elastyczność, skalowalność, reużywalność, konserwacja, odporność, dostosowywanie, kooperacja, zwinność, odporność, dostępność.
 
@@ -29,7 +29,7 @@ Podyskutujemy o wpływie decentralizacji, modularyzacji i hipermodularyzacji na 
 ###### 4. Zastosowanie - gdzie?
 
 #### Hipermodularyzacja
-###### 5. Geneza 
+###### 5. Geneza
 ###### 6. Badanie - w jaki sposób?
 ###### 7. Korzyści z hipermodularności
 
@@ -44,7 +44,7 @@ Podyskutujemy o wpływie decentralizacji, modularyzacji i hipermodularyzacji na 
 ###### 12. Przykład użycia
 
 ##### Dyskusja
- 
+
 *Każdy punkt jest obliczony na ok. 3 minuty
 
 
@@ -90,11 +90,11 @@ Kim jestem?
 ### Co robię?
 
 + [github](https://github.com/tom-sapletta-com)/tom-sapletta-com
-   + ponad 200 projektów, kilka tysięcy repozytoriów z otwartymi źródłami
-   
-+ [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)/tom-sapletta-com 
-  + [makerslab](http://discord.makerslab.pl) - społeczność, kooperacja
-  + [softreck](http://www.softreck.pl) - opensource: dialogware 
+    + ponad 200 projektów, kilka tysięcy repozytoriów z otwartymi źródłami
+
++ [linkedIn](https://www.linkedin.com/in/tom-sapletta-com/)/tom-sapletta-com
+    + [makerslab](http://discord.makerslab.pl) - społeczność, kooperacja
+    + [softreck](http://www.softreck.pl) - opensource: dialogware
 
 ### Role:
 
@@ -134,8 +134,8 @@ Kim jestem?
 ### Temat
 
 Temat Hipermodularyzacji jest niezależny od branży, interdyscyplinarny, mimo wszystko jest tak niszowy, że w Polsce tylko dwie osoby o tym napisały w ciągu ostatnich lat.
-Wg Google w Polsce osoby, które poruszyły temat: hipermodularyzacja to Tomasz Jakut i ja. 
-+ Czy wobec tego pisanie książki i tworzenie prezentacji o hipermodularyzacji jest pozbawione sensu? 
+Wg Google w Polsce osoby, które poruszyły temat: hipermodularyzacja to Tomasz Jakut i ja.
++ Czy wobec tego pisanie książki i tworzenie prezentacji o hipermodularyzacji jest pozbawione sensu?
 
 
 ### Cel
@@ -165,9 +165,9 @@ Każda odnajdywalna i nazywalna rzecz w naszym meta świecie jest wartością, k
 
 Bezludna wyspa:
 + Co zabierzesz ze sobą na bezludną wyspę?
-Dlaczego czegoś nie zabierzesz?
-Jakbyś mógł zabrać wszystko co możesz, gdybyś mógł wysłać posłańca, jakbyś mu przekazał, nie mogąc samemu tego przywieźć?
-Każda rzecz, której nie zabierzesz ze sobą na bezludną wyspę, bo nie będzie tam mebli, nie ułatwi Tobie życiażycie Tobie i bliskim niezależnie od lokalizacji.
+  Dlaczego czegoś nie zabierzesz?
+  Jakbyś mógł zabrać wszystko co możesz, gdybyś mógł wysłać posłańca, jakbyś mu przekazał, nie mogąc samemu tego przywieźć?
+  Każda rzecz, której nie zabierzesz ze sobą na bezludną wyspę, bo nie będzie tam mebli, nie ułatwi Tobie życiażycie Tobie i bliskim niezależnie od lokalizacji.
 
 
 ### Minimalizm
@@ -179,7 +179,7 @@ Hipermodularyzacja pozwala na realizację potrzeb, do których przygotowujemy si
 
 ### Edukacja
 
-To wiąże się z ciągłą edukacją, hipermodularyzacja to proces wymagający czasu, pracy i cierpliwości. 
+To wiąże się z ciągłą edukacją, hipermodularyzacja to proces wymagający czasu, pracy i cierpliwości.
 Jednak nauka i stosowanie tej umiejętności może przynieść wiele korzyści i poprawić jakość naszego życ
 
 Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu i ekspansja.
@@ -210,7 +210,7 @@ O dziwo w analogowym świecie (dla uproszczenia) sprzedaje się nam wizję binar
 W kontekście ograniczeń to minimalizm i maksymalizm.
 Wypracowywanie wolnej przestrzeni można uzyskać poprzez redukcję lub poprzez zhierarchizowanie, ale wtedy na skutek nieprzemyślanej modularyzacji mogą przyjść podwyższone koszta zarządzania.
 
-Umiejscowienie tego w kontekście naszego życia rodzinnego, zawodowego rodzi wyboru, które często są kompromisem i kwestią, którą pomaga rozstrzygnąć **hipermodularyzacja** to 
+Umiejscowienie tego w kontekście naszego życia rodzinnego, zawodowego rodzi wyboru, które często są kompromisem i kwestią, którą pomaga rozstrzygnąć **hipermodularyzacja** to
 ograniczyć koszty energetyczne, finansowe, czasowe **w dłuższej perspektywie**
 
 
@@ -269,7 +269,7 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 ### Bałagan
 
 + Bytu: polityka, środowisko, kultura
-+ Pojęć: definicje, semantyka, 
++ Pojęć: definicje, semantyka,
 + Danych: format, interfejs, dostęp
 + Rzeczy: magazyn, forma, transport, wymiana
 + Narzędzi: sposób użycia, doświadczenie, re-użycie
@@ -314,8 +314,8 @@ Dotyczy to często każdego z nas na styku teorii i praktyki...
 
 W praktyce życiowej kierujemy się wyborem:
 
-+ mniejszego zła 
-+ zasady pareto 
++ mniejszego zła
++ zasady pareto
 
 skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
 
@@ -345,7 +345,7 @@ O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w m
 
 ### Rozwój oprogramowania
 
-W rozwoju oprogramowania modułowość jest często używana do tworzenia komponentów wielokrotnego użytku, które można łatwo zintegrować z różnymi aplikacjami. 
+W rozwoju oprogramowania modułowość jest często używana do tworzenia komponentów wielokrotnego użytku, które można łatwo zintegrować z różnymi aplikacjami.
 Z drugiej strony, hipermodularność jest często używana do rozbijania złożonych aplikacji na mniejsze, wyspecjalizowane mikroserwisy, które mogą być rozwijane i wdrażane niezależnie.
 
 
@@ -355,7 +355,7 @@ W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technolo
 #### Architektura
 
 + Wzorce: Enterprise Integration Patterns
-+ DSL: Jenkins, Camel, APIDSL 
++ DSL: Jenkins, Camel, APIDSL
 + Systemy, frameworki, biblioteki, klasy, funkcje
 + API, SDK, SCHEMA
 
@@ -364,20 +364,20 @@ W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technolo
 
 + hosting: cPanel, direct admin, plesk
 + docker, swarm, kubernetes
-+ proxmox, openstack, 
-+ SDR, O-RAN, 
++ proxmox, openstack,
++ SDR, O-RAN,
 + Automaty, Roboty, Cyfrowe Bliźniaki, Digital Twin
 
 
 ### Projektowanie produktów
 
-W projektowaniu produktów modularność jest często wykorzystywana do tworzenia produktów z wymiennymi częściami, które można łatwo wymienić lub uaktualnić. 
+W projektowaniu produktów modularność jest często wykorzystywana do tworzenia produktów z wymiennymi częściami, które można łatwo wymienić lub uaktualnić.
 Z drugiej strony, hipermodularność jest często używana do tworzenia produktów z wysoce konfigurowalnymi funkcjami i opcjami.
 
 
 ### Zarządzanie projektami
 
-W zarządzaniu projektami modułowość jest często wykorzystywana do rozbijania projektu na mniejsze, łatwe do zarządzania zadania, które można przypisać różnym członkom zespołu. 
+W zarządzaniu projektami modułowość jest często wykorzystywana do rozbijania projektu na mniejsze, łatwe do zarządzania zadania, które można przypisać różnym członkom zespołu.
 Z drugiej strony, hipermodułowość jest często używana do tworzenia wysoce zwinnych i adaptowalnych przepływów pracy w projekcie, które mogą być łatwo dostosowane i skorygowane w oparciu o zmieniające się wymagania.
 
 
@@ -413,7 +413,7 @@ Jak tego dokonać, odpowiedź na koniec przentacji!
 # 5. Geneza
 
 + Tło
-+ Cel Hipermodularyzacji 
++ Cel Hipermodularyzacji
 + Różnice między Modularyzacją i Hipermodularyzacją
 + Architektura modułowa
 
@@ -428,7 +428,7 @@ mindmap
     Architektura
 ```
 
-Wprowadzenie do hipermodularyzacji 
+Wprowadzenie do hipermodularyzacji
 
 + Muzyka, [www/tekst.md](https://github.com/hipermodularyzacja/www/blob/main/tekst.md)
 
@@ -530,7 +530,7 @@ UWAGA
 
 Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
 
-## Słownictwo 
+## Słownictwo
 
 + Problem
 + Rozwiązanie
@@ -633,7 +633,7 @@ Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzy�
 + Reużywalność, Reusability
 + Konserwacja
 + Decentralizacja
- 
+
 
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/3b9c36e8-2a01-4384-a37a-d77b27647236)
@@ -670,8 +670,8 @@ Hipermodularność pozwala na większą personalizację systemu. Moduły można 
 
 #### Kooperacja
 
-Moduły mogą być tworzone i wdrażane osobno, a następnie łatwo wprowadzane do głównego systemu. 
-Moduły można łatwo rozpowszechniać i udostępniać innym użytkownikom, co pozwala na bezproblemową współpracę, wymianę i wspólną pracę nad aplikacją. 
+Moduły mogą być tworzone i wdrażane osobno, a następnie łatwo wprowadzane do głównego systemu.
+Moduły można łatwo rozpowszechniać i udostępniać innym użytkownikom, co pozwala na bezproblemową współpracę, wymianę i wspólną pracę nad aplikacją.
 Hipermodularność zachęca do współpracy między programistami. Różne zespoły mogą pracować nad różnymi modułami, co ułatwia zarządzanie procesem rozwoju.
 
 
@@ -690,7 +690,7 @@ Pozwala na dodawanie nowych modułów do systemu, czyniąc go zdolnym do obsług
 
 + ile z zasobów, które mamy, możemy ponownie użyć?
 + Co w przypadku potrzeby naprawy, czy musimy wymieniać całość?
-Możliwość ponownego użycia, Moduły mogą być używane w różnych systemach lub aplikacjach, oszczędzając czas i zasoby w procesie rozwoju.
+  Możliwość ponownego użycia, Moduły mogą być używane w różnych systemach lub aplikacjach, oszczędzając czas i zasoby w procesie rozwoju.
 
 
 #### Konserwacja
@@ -701,7 +701,7 @@ System można łatwo konserwować, wymieniając lub aktualizując moduł, które
 
 #### Decentralizacja
 
-Decentralizacja zwiększa modułowość aplikacji, co oznacza, że można je łatwiej dostosować do potrzeb i zadań. 
+Decentralizacja zwiększa modułowość aplikacji, co oznacza, że można je łatwiej dostosować do potrzeb i zadań.
 Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są oddzielone i izolowane, dzięki czemu zagrożenia są ograniczone do jednostkowych modułów.
 
 
@@ -713,7 +713,7 @@ Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są
 + Czy decentralizacja jest zawsze modularna?
 + Co jeśli decentrazliacja nie jest przeprowadzona w modularny sposób?
 + Jak przebiega doskonalenie sieci zdecentralizowanej?
-Decentralizacja w kontekście modularyzacji przynosi wiele korzyści, w tym większą elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
+  Decentralizacja w kontekście modularyzacji przynosi wiele korzyści, w tym większą elastyczność, skalowalność, łatwość w utrzymaniu, bezpieczeństwo, łatwość w rozwijaniu i lepszą dostępność systemu.
 
 + Elastyczność
 + Skalowalność
@@ -738,27 +738,27 @@ mindmap
 
 Decentralizacja może przynieść wiele korzyści w kontekście modularyzacji, w tym:
 
-### Elastyczność: 
+### Elastyczność:
 Decentralizacja umożliwia łatwe dodawanie lub usuwanie modułów bez wpływu na cały system. Każdy moduł może działać niezależnie, co daje większą elastyczność w zarządzaniu projektem.
 
 
-### Skalowalność: 
+### Skalowalność:
 Modułowa architektura ułatwia skalowanie systemu. Dzięki temu możemy łatwo rozbudować system o dodatkowe moduły, gdy jest to potrzebne.
 
 
-### Łatwość w utrzymaniu: 
+### Łatwość w utrzymaniu:
 W przypadku awarii lub problemów z jednym modułem, łatwo można go wyłączyć i naprawić. Nie ma potrzeby zatrzymywania całego systemu.
 
 
-### Bezpieczeństwo: 
+### Bezpieczeństwo:
 Decentralizacja może zwiększyć bezpieczeństwo systemu, ponieważ każdy moduł jest odpowiedzialny tylko za swoją własną funkcjonalność. W przypadku ataku lub naruszenia bezpieczeństwa jednego modułu, reszta systemu będzie nadal działać.
 
 
-### Łatwość w rozwijaniu: 
+### Łatwość w rozwijaniu:
 Decentralizacja ułatwia rozwijanie systemu poprzez dodawanie nowych modułów. Każdy moduł może być rozwijany przez różnych programistów, co przyspiesza proces rozwoju.
 
 
-### Dostępność: 
+### Dostępność:
 Decentralizacja umożliwia lepszą dostępność systemu. Jeśli jeden moduł przestanie działać, pozostałe moduły będą nadal dostępne dla użytkowników.
 
 
@@ -772,10 +772,10 @@ Decentralizacja umożliwia lepszą dostępność systemu. Jeśli jeden moduł pr
 
 # 8. Co wie chatGPT?
 
-Zadawanie właściwych pytań 
+Zadawanie właściwych pytań
 
 Właściwe zadawanie pytań jest konieczne do poznania prawdy na temat, który nas interesuje,
-zwłaszcza w kontekście ostatniego roku dostępności sztucznej inteligencji do masowego użycia. 
+zwłaszcza w kontekście ostatniego roku dostępności sztucznej inteligencji do masowego użycia.
 Część tej prezentacji (teoretyczna) powstała w ostatnim tygodniu, przy pomocy chatGPT 3.5, właśnie dzięki zadawaniu odpowiednich pytań
 
 
@@ -832,25 +832,25 @@ Część tej prezentacji (teoretyczna) powstała w ostatnim tygodniu, przy pomoc
 
 Modular thinking is a way of approaching problems by breaking them down into smaller, more manageable pieces. Here are some steps you can take to learn modular thinking:
 
-#### Start with small problems: 
+#### Start with small problems:
 Begin by breaking down small problems into smaller, more manageable pieces. This will help you develop your modular thinking skills and build confidence.
 
-#### Identify the components: 
+#### Identify the components:
 Once you have identified the problem, start identifying the different components or modules that make up the problem. Try to understand how these components work together to create the problem.
 
-#### Define the interfaces: 
+#### Define the interfaces:
 Next, define the interfaces between the different components. This will help you understand how the different modules interact with each other.
 
-#### Develop a modular design: 
+#### Develop a modular design:
 Once you have identified the components and interfaces, start developing a modular design. This should include how the different modules will work together to solve the problem.
 
-#### Test and iterate: 
+#### Test and iterate:
 Test your modular design to see if it solves the problem. If it does not, iterate and refine your design until you find a solution that works.
 
-#### Practice, practice, practice: 
+#### Practice, practice, practice:
 Keep practicing modular thinking by breaking down larger problems into smaller, more manageable pieces. This will help you build your skills and become more comfortable with the approach.
 
-#### Learn from others: 
+#### Learn from others:
 Seek out resources, books, and mentors who can help you learn more about modular thinking. You can also learn from others by studying their designs and solutions.
 
 By following these steps, you can develop your modular thinking skills and become better equipped to tackle complex problems in a more efficient and effective way.
@@ -860,25 +860,25 @@ By following these steps, you can develop your modular thinking skills and becom
 
 Hypermodular thinking is an advanced approach to problem-solving that involves breaking down complex systems or problems into smaller, highly specialized components or microservices. Here are some steps you can take to learn hypermodular thinking approach:
 
-#### Understand modularity: 
+#### Understand modularity:
 Before you can understand hypermodularity, it's important to understand modularity. Learn about modular design principles, practices, and tools.
 
-#### Study hypermodular systems: 
+#### Study hypermodular systems:
 Study and analyze existing hypermodular systems, such as microservices architecture or modular product design. This will help you understand how different modules can work together to create a more flexible and scalable system.
 
-#### Learn to break down problems: 
+#### Learn to break down problems:
 Develop your ability to break down complex problems into smaller, more specialized components. This requires a deep understanding of the problem and the ability to identify the different components of the problem.
 
-#### Focus on interfaces: 
+#### Focus on interfaces:
 In hypermodularity, interfaces between different components are critical. Learn how to design effective interfaces that allow modules to work together seamlessly.
 
-#### Develop a modular mindset: 
+#### Develop a modular mindset:
 Hypermodular thinking requires a mindset that is focused on breaking down problems into smaller pieces. Practice this mindset by breaking down problems in your daily life, such as organizing your workday or planning a trip.
 
 #### Experiment with hypermodularity:
 Start experimenting with hypermodular design in your own work. Start with small projects and build your way up. This will help you gain experience and build your skills.
 
-#### Learn from others: 
+#### Learn from others:
 Seek out resources, books, and mentors who can help you learn more about hypermodular thinking. You can also learn from others by studying their designs and solutions.
 
 By following these steps, you can develop your hypermodular thinking skills and become better equipped to tackle complex problems in a more flexible and scalable way. Remember to start small, focus on interfaces, and keep experimenting to build your skills.
@@ -931,7 +931,7 @@ Moje projekty:
 
 
 systemy do pakowania przedmiotów
-systemy układania 
+systemy układania
 
 
 
@@ -959,13 +959,13 @@ Modularne, mobilne skrzynki z materiałami do pracy
 
 + Regał ivar z firmy ikea
 + Systemowe skrzynki macpac firmy makita
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/0d2fd0d6-3cbb-4a94-97c4-0c3226ce052a)
+  ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/0d2fd0d6-3cbb-4a94-97c4-0c3226ce052a)
 
 + możliwość szybiego i łatwego transportu oraz korzystania z zawartości w terenie
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/541cb8f0-4b20-420c-b8a5-4cce2f68ad80)
+  ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/541cb8f0-4b20-420c-b8a5-4cce2f68ad80)
 
 + łatwe odnajdywanie potrzebnego elementu
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/607d5fe6-28bf-49ba-9419-8ecb34f25996)
+  ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/607d5fe6-28bf-49ba-9419-8ecb34f25996)
 
 
 
@@ -979,10 +979,10 @@ Modularne, mobilne skrzynki z materiałami do pracy
 + mobilna infrastruktura - łatwość dostosowania
 
 + tylko potrzebne elementy systemu
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/be33655e-45eb-4dcb-aae5-d460de742d38)
+  ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/be33655e-45eb-4dcb-aae5-d460de742d38)
 
 + łatwe dopasowanie do instejącego stanowiska
-![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/d371d258-9b11-4958-8b4b-3c647534e065)
+  ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/d371d258-9b11-4958-8b4b-3c647534e065)
 
 
 ##### Jedna warstwa zawiera:
@@ -1010,7 +1010,7 @@ Modularne, mobilne skrzynki z materiałami do pracy
 
 ## Metodyka w IT
 
-Życie w hiper-modułowym świecie oznacza, że nieustannie otacza nas coraz większa liczba wyspecjalizowanych modułów, które są ze sobą połączone, tworząc złożone systemy. 
+Życie w hiper-modułowym świecie oznacza, że nieustannie otacza nas coraz większa liczba wyspecjalizowanych modułów, które są ze sobą połączone, tworząc złożone systemy.
 Oto kilka sposobów zarządzania wszystkimi modułowymi elementami w hipermodułowym świecie:
 
 
@@ -1054,7 +1054,7 @@ Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
 
 porównuj i wyciągaj wnioski z różnic
 działa w dwóch obszarach na tych samych narzędziach i formach
-testuj stale monitorując sposób oddziaływania 
+testuj stale monitorując sposób oddziaływania
 
 
 
@@ -1095,89 +1095,17 @@ Moduł
  Testuj
  Integruj
 ```
- 
+
 
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/fa537680-61db-46fd-881e-d42af998bbf6)
 
-```mermaid
-stateDiagram    
-    [*] --> Sieć
-   
-    Rozdziel --> Gałąź   
-    Sieć --> Rozdziel
-    
-    Gałąź --> Powiel
-    Powiel --> Sieć
-        
-    Gałąź --> Dodaj
-    Dodaj --> Moduł
-
-    Re_użyj --> Gałąź
-    Moduł --> Re_użyj
-                    
-    Dane --> Wyodrębnij
-    Wyodrębnij --> Moduł
-
-    Moduł --> klasyfikuj
-    klasyfikuj --> Dane
-
-
-    state Sieć {
-        [*] --> Optymalizacja
-        Optymalizacja --> Monitorowanie
-        Monitorowanie --> [*]
-    }
-
-    state Gałąź {
-        [*] --> Identyfikacja
-        Identyfikacja --> Rekonfiguracja   
-        Rekonfiguracja --> [*]
-    }
-
-    state Moduł {
-        [*] --> Standaryzowanie
-        Standaryzowanie --> Specjalizowanie
-        Specjalizowanie --> [*]        
-    }
-
-    state Dane {
-        [*] --> [*]
-    }     
-```
-
-
-+ Jak budować system w oparciu o hiper-modularne komponenty?
-+ Jakie są zasady projektowania hiper-modularnego?
-
-Budowanie komponentów przy użyciu hipermodularnych zasad projektowania oznacza rozbijanie komponentów na mniejsze, wyspecjalizowane komponenty, które można łatwo wymienić lub zaktualizować.
- 
-+ Jak przekształcać procesy w hiper-modularne komponenty?
-
-Pamiętaj, aby skupić się na specjalizacji, reużyciu i współpracy łączonych hiper-modułów.
-Dzięki temu całą sieć hipermodułów można dostosować do zmieniających się potrzeb.
 
 ## Podsumowanie
 
 
-1. Buduj systemy w oparciu o hipermodularne komponenty.
-2. Rozbij złożone problemy na mniejsze, łatwiejsze i bardziej ekonomiczne w zarządzaniu elementy.
-3. Zdefiniuj interfejsy między różnymi modułami.
-4. Zaprojektuj moduły tak, aby były wysoce wyspecjalizowane i elastyczne.
-5. Zbuduj komponenty, korzystając z hipermodułowych zasad projektowania.
-6. Przetestuj komponenty, aby upewnić się, że działają efektywnie.
-7. Zintegruj komponenty z powrotem w cały proces.
-8. Korzystaj z narzędzi modułowych do zarządzania różnymi modułami systemu.
-9. Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
-10. Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
-11. Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
-12. Porównuj i wyciągaj wnioski z różnic działa w dwóch obszarach na tych samych narzędziach i formach testuj stale monitorując sposób oddziaływania.
+#### Sieć
 
-
-### Sieć
-
-+ Optymalizacja
-+ Monitorowanie
 
 + Ograniczaj -> Ulepszaj -> Powielaj
 
@@ -1188,48 +1116,10 @@ Sieć
  Powielaj
 ```
 
-```mermaid
-stateDiagram
-    [*] --> Ogranicz
-    Ogranicz --> Ulepsz
-    Ulepsz --> Powiel    
-    Powiel --> [*]
-```
 
 
-#### Ograniczaj
+#### Galąź (Proces)
 
-Określ kontekst w którym chcesz usprawnić system połączeń, lub chcesz dopiero go zaimplementować.
-W modularyzacji staramy się  ograniczać pole widzenia, analizy i działania, aby ograniczyć jej koszty.
-Prześledć gdzie jest największy ruch w sieci połączeń organizacji, gdzie korzyści z modularyzacji mogą przynieść najwięcej korzyści, gdzie specjalizacja czyli podniesienie jakości będzie docenione?
-**Na przykład** Przy obsłudze klienta są dwa przypadki dzwoniących, reklamacje i zapytania ofertowe, odbierającym może być być sekretarka, która krok po kroku poprowadzi dzwoniącego a następnie bot, ta sama implementacja może dotyczcyć chatbota na stronie www lub wiadomości email, ale najpierw trzeba ograniczyć ją do telefonujących.
-
-
-
-#### Ulepszaj:
-
-Stale ulepszaj proces, monitorując jego wydajność i dokonując niezbędnych korekt.
-**Na przykład** monitoruj średni czas połączeń dla modułu odbierania połączeń i dostosuj skrypty połączeń, aby poprawić wydajność.
-
-Postępując zgodnie z tymi krokami, osoba nietechniczna może budować komponenty przy użyciu zasad projektowania hipermodułowego, co może prowadzić do bardziej wydajnego i efektywnego procesu.
-
-
-
-#### Powielaj
-
-Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, by poprzez porównanie edukować się
-+ Tworzenie kilku na raz
-+ Porównanie modułów
-
-
-
-
-
-### Galąź (Node, Proces)
-
-
-+ Identyfikacja
-+ Rekonfiguracja
 
 + Identyfikuj -> Dziel -> Łącz
 
@@ -1242,41 +1132,9 @@ Gałąź
  Łącz
 ```
 
-```mermaid
-stateDiagram
-  [*] --> Identyfikuj
-  Identyfikuj --> Dziel
-  Dziel --> Łącz    
-  Łącz --> [*]
-```
 
 
-
-
-#### Identyfikuj:
-
-Zacznij od zidentyfikowania procesu, który chcesz przekształcić w komponenty hipermodułowe. 
-Może to być dowolny proces, taki jak proces produkcyjny, proces obsługi klienta lub proces zarządzania projektem.
-
-
-#### Dziel:
-
-Podziel proces na mniejsze komponenty lub moduły.
-Każdy moduł powinien być wysoce wyspecjalizowany i skoncentrowany na jednym konkretnym zadaniu.
-**Na przykład** proces obsługi klienta można podzielić na mniejsze moduły, takie jak odbieranie połączeń, odpowiadanie na e-maile i rozpatrywanie reklamacji.
-
-
-#### Łącz:
-
-Zdefiniuj interfejsy między różnymi modułami.
-Pomoże Ci to zrozumieć, w jaki sposób poszczególne moduły współdziałają ze sobą.
-**Na przykład** interfejsem pomiędzy modułem odbierania połączeń a modułem odpowiadania na e-maile może być baza danych klientów.
-
-
-
-
-
-### Moduł (Hipermodularyzacja)
+#### Moduł (Hipermodularyzacja)
 
 + Projektuj -> Buduj -> Testuj -> Integruj
 
@@ -1289,47 +1147,6 @@ Moduł
  Testuj
  Integruj
 ```
-
-```mermaid
-stateDiagram
-    [*] --> Buduj
-    Buduj --> Testuj    
-    Testuj --> [*]
-```
-
-
-#### Projektuj:
-
-Zaprojektuj moduł tak, aby był wysoce wyspecjalizowany i elastyczny.
-Umożliwi to łatwą wymianę lub aktualizację w miarę rozwoju procesu.
-**Na przykład** moduł odbierania połączeń może być zaprojektowany do obsługi różnych typów połączeń, takich jak połączenia sprzedażowe, połączenia wsparcia i połączenia rozliczeniowe.
-
-
-#### Buduj:
-
-Zbuduj komponenty, korzystając z hipermodułowych zasad projektowania.
-Oznacza to podzielenie komponentów na mniejsze, wyspecjalizowane komponenty, które można łatwo wymienić lub zaktualizować.
-**Na przykład** moduł odbierania połączeń można podzielić na mniejsze elementy, takie jak skrypty rozmów, często zadawane pytania i formularze informacyjne dla klientów.
-
-
-#### Testuj:
-
-Przetestuj komponenty, aby upewnić się, że działają efektywnie.
-Powtarzaj i udoskonalaj projekt, aż znajdziesz rozwiązanie, które działa.
-**Na przykład** przetestuj skrypty połączeń, aby upewnić się, że są skuteczne w obsłudze różnych typów połączeń.
-
-
-#### Integruj:
-
-Zintegruj komponenty z powrotem w cały proces.
-Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
-**Na przykład** upewnij się, że formularze z informacjami o klientach są prawidłowo przesyłane do modułu odpowiadania na wiadomości e-mail.
-
-
-
-
-
-
 
 
 
@@ -1351,17 +1168,9 @@ Upewnij się, że interfejsy między różnymi modułami działają skutecznie.
 
 ### Programowanie
 Sieć: infrastruktura, Architektura, DevOps
-Gałąź: biblioteka, aplikacja 
+Gałąź: biblioteka, aplikacja
 Moduł: klasa, program, funkcja
 Dane: formaty danych json, html, txt
-
-
-### Edycja tekstu
-
-+ zamiast kasowania przenoszenie do innego folderu/projektu
-+ zamiast tworzeni długich tekstów, krótkie notki w plikach z załączeniem do innych projektów
-
-[flatedit.com](https://www.flatedit.com/)
 
 
 
@@ -1369,11 +1178,6 @@ Dane: formaty danych json, html, txt
 
 
 #### Etap 1
-
-+ jeśli zabawki będą schowane do szafek, szuflad czy skrzynek to zawsze będzie to wyglądało na porządek.
-+  chodziło jedynie o wrzucenie zabawek do pudełek. Oczywiście to nie jest tak, że dzięki temu w pokojach dzieci panuje idealny porządek, ale jest im po prostu łatwiej go utrzymać, a ja jak wchodzę, to nie widzę tego, że w pudełku z klockami są też samochody, więc się tym nie denerwuję :)
-+ pojemnik na zabawki w salonie. Dziecku będzie łatwiej po skończonej zabawie w salonie wrzucić zabawki do jednego pudła, a nie odnosić po kolei do swojego pokoju. 
-+ Oczywiście te zabawki będą sobie rotowały między pokojem dziecka a pokojem dziennym, ale rodzice będą musieli raz na jakiś czas zorganizować przegląd pudełka w salonie i poprosić dziecko o przeniesienie części zabawek z powrotem do salonu. 
 
 [Jak utrzymać porządek w pokoju dziecka? - Mamy Gadżety](https://mamygadzety.pl/porzadek-pokoju-dziecka/)
 
@@ -1384,43 +1188,17 @@ Dane: formaty danych json, html, txt
 #### Etap 2
 
 
-##### rozmiary:
-duże - wszystko w jednym,
-dedykowane 1:1
-
-##### forma: 
-ogólne,
-dedykowane,
-
-#### kolory
-dopasowane do koloru przedmiotów,
-transparentne
-
-##### ograniczenia zasobów
-różne pokoje
-
-
 ![image](https://user-images.githubusercontent.com/5669657/236608605-8405fca3-2ff3-4af9-b76b-3099f1f0817b.png)
-
 + źródło: [Jak zaprowadzić porządek w pokoju dziecka? » Brykacze.pl - blog. Wszystko o zabawkach.](http://blog.brykacze.pl/zaprowadzic-porzadek-pokoju-dziecka/rodzic/)
 
 
 #### Etap 3
 
 
-+ Małe, transparentne pudełka, 
-+ Duży niekontrolowany bałagan przeniesiony do małego kontrolowanego pudełka,
-+ Bezpieczny i łatwy transport przez dziecko
-+ Możliwość zarządzania zawartością na kolejnych etapach.
-+ Duże obiekty i już zapakowane mogą być układane obok siebie, nie ma potrzeby pakowania wszystkiego do dedykowanych większych skrzyni, gdyż to utrudnia dostępność i zarządzanie
-
-
 Proza codzienności:
-
 ![image](https://user-images.githubusercontent.com/5669657/236609574-ebc44829-ff78-44f4-81e8-e988379276be.png)
 
 Transparentne pojemniki:
-
 ![image](https://user-images.githubusercontent.com/5669657/236608899-70078ba3-2ab5-4e73-81cd-2d2403df9d28.png)
 
 
@@ -1460,71 +1238,7 @@ Co na to jury?
 ![image](https://user-images.githubusercontent.com/5669657/236607373-38586979-bf9e-4dd3-997c-3379ca95cdb1.png)
 
 
-
 + pytania
 + rozwiązania
 + doświadczenia
 
-
-
-
-
-
-
-
-
-
-
----
-
-## Narzędzia
-
-+ [GitHub](https://github.com/)
-+ [Include diagrams in your Markdown files with Mermaid - The GitHub Blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
-+ [WebStorm: The Smartest JavaScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
-
-
-## Źródła
-
-
-+ [Modularyzacja przy wytwarzaniu oprogramowania](https://www.hipermodularyzacja.pl/)
-
-+ Polskie wydanie, Wersja Polska: HiperModularyzacja.pl [książka: Hiper Modularyzacja](https://book.hipermodularyzacja.pl/)
-
-+ Polskie wydanie, Wersja Polska: HiperModularyzacja.pl [Blog: blog.HiperModularyzacja.pl](https://blog.hipermodularyzacja.pl/)
-
-+ W trakcie jest też wersja angielska: HyperModularity.com  [www. Hyper Modularity .com](http://www.hypermodularity.com/)
-
-+ [muzyka: Hiper Modularyzacja](https://www.hipermodularyzacja.pl/tekst.html)
-
-+ Artykuł [Hipermodularyzacja, czyli Rzym płonie](https://blog.comandeer.pl/hipermodularyzacja-czyli-rzym-plonie.html)
-
-+ Metamoduły bazujące na tym:  [docs.metamodule.org](https://docs.metamodule.org/)
-
-+ [Systems and Software Quality: The next step for industrialisation,  von Martin Wieczorek, Diederik Vos, Heinz Bons](https://www.amazon.de/Systems-Software-Quality-next-industrialisation/dp/3662514044)
-
-+ [Modularyzacja: kolejny modny trend IT, czy jedyna słuszna droga? - Tech Blog ING Bank Śląski](https://techblog.ing.pl/blog/modularyzacja-kolejny-modny-trend-it-czy-jedyna-sluszna-droga)
-
-+ [Uniwersalnego słownika języka polskiego](https://sjp.pwn.pl/poradnia/haslo/metoda-metodyka-metodologia;7632.html)
-
-+ [programowanie deklaratywne i imperatywne](https://codenga.pl/artykuly/poradniki/programowanie-imperatywne-oraz-deklaratywne)
-
-+ [Programowanie deklaratywne – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Programowanie_deklaratywne)
-
-+ [IMMUSEC Metodologia, metodyka, metoda, sposób, procedura – wyjaśnienie zawiłości językowych](https://www.immusec.com/metodologia-metodyka-metoda-sposob-procedura-wyjasnienie-zawilosci-jezykowych/)
-
-+ [Metodologia – Słownik języka polskiego](http://sjp.pwn.pl/slownik/2567697/metodologia)
-
-+ [Metodyka – Słownik języka polskiego](http://sjp.pwn.pl/slownik/2567700/metodyka)
-
-+ [Metoda – Słownik języka polskiego](http://sjp.pwn.pl/slownik/2482575/metoda)
-
-+ [Sposób – Słownik SJP](http://sjp.pl/spos%F3b)
-
-+ [What is the difference between a method and a procedure?](http://wiki.answers.com/Q/What_is_the_difference_between_a_method_and_a_procedure)
-
-
-
-
----
-+ [edit](https://github.com/hipermodularyzacja/prezentacja/edit/main/README.md)
