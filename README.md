@@ -153,12 +153,21 @@ To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować si�
 + Eksperymentowanie, ciągłą edukację przez praktykę
 + Optymalizanie drogi dojścia do rezultatu, poprzez bazowanie na już wypracowanych rezultatach
 
+
 ### Dlaczego?
 
 Dlaczego warto uczyć się i stosować hipermodularyzację?
 Wielu z nas ceni sobie minimalizm, ale nie możemy go narzucić innym, starając się respektować to, że świat jest złożony.
 Hipermodularyzacja pomaga utrzymać w porządku magazyn z tysiącami pudełek, które czy chcemy czy nie musimy umieć w odpowiednim momencie znaleźć, otworzyć i użyć.
 Każda odnajdywalna i nazywalna rzecz w naszym meta świecie jest wartością, każda niepotrzebna, nienazywalna rzecz jest przeszkodą, tworzącą bałagan.
+
+### Niezależność - wolność od ograniczeń
+
+Bezludna wyspa:
++ Co zabierzesz ze sobą na bezludną wyspę?
+Dlaczego czegoś nie zabierzesz?
+Jakbyś mógł zabrać wszystko co możesz, gdybyś mógł wysłać posłańca, jakbyś mu przekazał, nie mogąc samemu tego przywieźć?
+Każda rzecz, której nie zabierzesz ze sobą na bezludną wyspę, bo nie będzie tam mebli, nie ułatwi Tobie życiażycie Tobie i bliskim niezależnie od lokalizacji.
 
 
 ### Minimalizm
