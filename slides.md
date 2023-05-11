@@ -122,9 +122,6 @@ Kim jestem?
 
 
 
-
-
-
 # 2. Cel prezentacji
 
 ![image](https://user-images.githubusercontent.com/5669657/236607475-39851935-19e4-4bf7-a1ac-9035587e0d4b.png)
@@ -268,64 +265,16 @@ Nagrodą będzie ebook, dla każdego uczestnika, książki, która bedzie dostę
 
 ### Bałagan
 
-+ Bytu: polityka, środowisko, kultura
-+ Pojęć: definicje, semantyka,
-+ Danych: format, interfejs, dostęp
-+ Rzeczy: magazyn, forma, transport, wymiana
-+ Narzędzi: sposób użycia, doświadczenie, re-użycie
-
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/1aced43c-f61b-458d-aa63-742099cb4fdd)
 
 
-```mermaid
-mindmap
-  root((Bałagan))
-    Bytu
-        polityka
-        środowisko
-        kultura
-    Pojęć
-        definicje
-        semantyka
-    Danych
-        format
-        interfejs
-        dostęp
-    Rzeczy
-        magazyn
-        forma
-        transport
-        wymiana
-    Narzędzi
-        sposób użycia
-        doświadczenie
-        re użycie      
-```
 
 
 ### Forma i treść
 
 ![image](https://user-images.githubusercontent.com/5669657/236606256-ec0d72e5-8c50-4b4e-ab91-45c629c41f50.png)
 [żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
-
-„Nie mogę być jednocześnie twórcą i tworzywem” – mówił filozof (Andrzej Dobosz) w klasyku polskiego kina, w filmie „Rejs”.
-Dotyczy to często każdego z nas na styku teorii i praktyki...
-
-W praktyce życiowej kierujemy się wyborem:
-
-+ mniejszego zła
-+ zasady pareto
-
-skupiając się na rezultacie angażujemy tylko część czas, energii i zasobów, aby zmaksymalizowac efektywność, elastyczność, reużycie
-
-O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w modularyzacji rezultatem ma być wielokrotne użycie - reużycie, pozostałe cechy są mniej istotne, ale towarzyszą temu procesowi.
-
-
-
-
-
-
 
 
 
@@ -343,38 +292,6 @@ O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w m
 + [Źródło: SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics)
 
 
-### Rozwój oprogramowania
-
-W rozwoju oprogramowania modułowość jest często używana do tworzenia komponentów wielokrotnego użytku, które można łatwo zintegrować z różnymi aplikacjami.
-Z drugiej strony, hipermodularność jest często używana do rozbijania złożonych aplikacji na mniejsze, wyspecjalizowane mikroserwisy, które mogą być rozwijane i wdrażane niezależnie.
-
-
-W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technologia + marketplace
-
-
-#### Architektura
-
-+ Wzorce: Enterprise Integration Patterns
-+ DSL: Jenkins, Camel, APIDSL
-+ Systemy, frameworki, biblioteki, klasy, funkcje
-+ API, SDK, SCHEMA
-
-
-#### Infrastruktura
-
-+ hosting: cPanel, direct admin, plesk
-+ docker, swarm, kubernetes
-+ proxmox, openstack,
-+ SDR, O-RAN,
-+ Automaty, Roboty, Cyfrowe Bliźniaki, Digital Twin
-
-
-#### Projektowanie produktów
-
-#### Zarządzanie projektami
-
-
-#### Magazynowanie
 
 
 
@@ -449,12 +366,6 @@ Modularyzacja to tworzenie sieci modułów. (Ilościowe)
 
 ### Problemy związane z modularyzacją, jak rozeznać granice?
 + [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
-
-
-#### Odwzorowanie
-
-
-#### Kierunek oddziaływania modularyzacji na rzeczywistość
 
 
 
@@ -851,46 +762,20 @@ Moduł
 ### Sieć
 
 
-+ Ograniczaj -> Ulepszaj -> Powielaj
-
-```
-Sieć
- Ograniczaj
- Ulepszaj
- Powielaj
-```
-
++ Ograniczaj --> Ulepszaj --> Powielaj
 
 
 ### Galąź (Node, Proces)
 
 
-+ Identyfikuj -> Dziel -> Łącz
++ Identyfikuj --> Dziel --> Łącz
 
-
-
-```
-Gałąź
- Identyfikuj
- Dziel
- Łącz
-```
 
 
 
 ### Moduł (Hipermodularyzacja)
 
-+ Projektuj -> Buduj -> Testuj -> Integruj
-
-
-
-```
-Moduł
- Projektuj
- Buduj
- Testuj
- Integruj
-```
++ Projektuj --> Buduj --> Testuj --> Integruj
 
 
 

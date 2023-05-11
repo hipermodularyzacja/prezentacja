@@ -1179,14 +1179,9 @@ Dzięki temu całą sieć hipermodułów można dostosować do zmieniających si
 + Optymalizacja
 + Monitorowanie
 
-+ Ograniczaj -> Ulepszaj -> Powielaj
++ Ograniczaj --> Ulepszaj --> Powielaj
 
-```
-Sieć
- Ograniczaj
- Ulepszaj
- Powielaj
-```
+
 
 ```mermaid
 stateDiagram
@@ -1231,16 +1226,8 @@ Jeśli zmiana przynosi dobre rezultaty powiel je również w innym środowisku, 
 + Identyfikacja
 + Rekonfiguracja
 
-+ Identyfikuj -> Dziel -> Łącz
++ Identyfikuj --> Dziel --> Łącz
 
-
-
-```
-Gałąź
- Identyfikuj
- Dziel
- Łącz
-```
 
 ```mermaid
 stateDiagram
@@ -1278,17 +1265,8 @@ Pomoże Ci to zrozumieć, w jaki sposób poszczególne moduły współdziałają
 
 ### Moduł (Hipermodularyzacja)
 
-+ Projektuj -> Buduj -> Testuj -> Integruj
++ Projektuj --> Buduj --> Testuj --> Integruj
 
-
-
-```
-Moduł
- Projektuj
- Buduj
- Testuj
- Integruj
-```
 
 ```mermaid
 stateDiagram
