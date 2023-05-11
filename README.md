@@ -148,6 +148,9 @@ To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować si�
 
 ## Korzyści
 
+Dlaczego warto uczyć się i stosować hipermodularyzację?
+
+
 Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu i ekspansja.
 Wielu z nas ceni sobie minimalizm, ale nie możemy go narzucić innym, starając się respektować to, że świat jest złożony.
 Hipermodularyzacja pomaga utrzymać w porządku magazyn z tysiącami pudełek, które czy chcemy czy nie musimy umieć w odpowiednim momencie znaleźć, otworzyć i użyć.
@@ -155,7 +158,9 @@ Każda odnajdywalna i nazywalna rzecz w naszym meta świecie jest wartością, k
 Minimalizm pozwala na higienę, skupiając się na tym co jest dla nas ważne.
 W świecie rzeczy potrzebne są metody aranżacji przestrzeni, do nas potrzeb z minimalnym nakładaem energii.
 Hipermodularyzacja pozwala na realizację potrzeb, do których przygotowujemy się długofalowo, ułatwiając przewartościowanie, poznanie każdego elementu, dostosowanie go pod nasze potrzeby.
-To wiąże się z ciągłą edukacją.
+
+To wiąże się z ciągłą edukacją, hipermodularyzacja to proces wymagający czasu, pracy i cierpliwości. 
+Jednak nauka i stosowanie tej umiejętności może przynieść wiele korzyści i poprawić jakość naszego życ
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/a03e04d9-58b4-4c10-9386-3cec61dfc52d)
 
