@@ -130,6 +130,7 @@ Kim jestem?
 ![image](https://user-images.githubusercontent.com/5669657/236607475-39851935-19e4-4bf7-a1ac-9035587e0d4b.png)
 [żródło: Film pt. Rejs, youtube](https://www.youtube.com/watch?v=ylfdoWEyYXQ)
 
+## Temat
 
 Temat Hipermodularyzacji jest niezależny od branży, interdyscyplinarny, mimo wszystko jest tak niszowy, że w Polsce tylko dwie osoby o tym napisały w ciągu ostatnich lat.
 Wg Google w Polsce osoby, które poruszyły temat: hipermodularyzacja to Tomasz Jakut i ja. 
@@ -137,7 +138,7 @@ Wg Google w Polsce osoby, które poruszyły temat: hipermodularyzacja to Tomasz 
 
 ## Cel
 
-Celem tej prezentacji jest przekazanie wiedzy na temat wieloletnich badań na temat hipermodularyzacji.
+Celem tej prezentacji jest przekazanie wiedzy na temat moich wieloletnich badań na temat hipermodularyzacji.
 
 Dobrze udokumentowana wiedza, sprawdzona, powtarzalna jest lepszym podłożem do zwiększenia ilościowego całej sieci, zwielokrotnieniem jej wiązań oraz zmniejszenie kosztu utrzymania.
 
@@ -145,9 +146,16 @@ To oznacza, że jako ludzie stosujący modularne myślenie możemy zajmować si�
 
 
 
-## Badanie
+## Korzyści
 
-Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu -> ekspansja.
+Celem badania hipermodularyzacji jest zwiększenie jakości systemów, wzmocnienie wiązań modułów i przez to ciągły wzrost struktury systemu i ekspansja.
+Wielu z nas ceni sobie minimalizm, ale nie możemy go narzucić innym, starając się respektować to, że świat jest złożony.
+Hipermodularyzacja pomaga utrzymać w porządku magazyn z tysiącami pudełek, które czy chcemy czy nie musimy umieć w odpowiednim momencie znaleźć, otworzyć i użyć.
+Każda odnajdywalna i nazywalna rzecz w naszym meta świecie jest wartością, każda niepotrzebna, nienazywalna rzecz jest przeszkodą, tworzącą bałagan.
+Minimalizm pozwala na higienę, skupiając się na tym co jest dla nas ważne.
+W świecie rzeczy potrzebne są metody aranżacji przestrzeni, do nas potrzeb z minimalnym nakładaem energii.
+Hipermodularyzacja pozwala na realizację potrzeb, do których przygotowujemy się długofalowo, ułatwiając przewartościowanie, poznanie każdego elementu, dostosowanie go pod nasze potrzeby.
+To wiąże się z ciągłą edukacją.
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/a03e04d9-58b4-4c10-9386-3cec61dfc52d)
 
