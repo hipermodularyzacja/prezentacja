@@ -369,35 +369,13 @@ W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technolo
 + Automaty, Roboty, Cyfrowe Bliźniaki, Digital Twin
 
 
-### Projektowanie produktów
+#### Projektowanie produktów
 
-W projektowaniu produktów modularność jest często wykorzystywana do tworzenia produktów z wymiennymi częściami, które można łatwo wymienić lub uaktualnić.
-Z drugiej strony, hipermodularność jest często używana do tworzenia produktów z wysoce konfigurowalnymi funkcjami i opcjami.
-
-
-### Zarządzanie projektami
-
-W zarządzaniu projektami modułowość jest często wykorzystywana do rozbijania projektu na mniejsze, łatwe do zarządzania zadania, które można przypisać różnym członkom zespołu.
-Z drugiej strony, hipermodułowość jest często używana do tworzenia wysoce zwinnych i adaptowalnych przepływów pracy w projekcie, które mogą być łatwo dostosowane i skorygowane w oparciu o zmieniające się wymagania.
+#### Zarządzanie projektami
 
 
-### Magazynowanie
+#### Magazynowanie
 
-Codzienne problemy są związane nie tylko z tworzeniem ale też zarządzaniem, które pozwala m.in. na zamianie dużego bałaganu w mniejsze lokalne bałagany
-Kontekst powstania tego małego bałaganu pozwala na specjalizacje procesu uporządkowania.
-
-
-Pokój dziecka:
-
-+ ograniczona ilość miejsca
-+ nieporządek
-+ forma: meble, pojemniki, miejsca
-+ tworzywo: zabawki, urządzenia, przedmioty
-
-
-Porządek dziś, Porządek jutro
-
-Jak tego dokonać, odpowiedź na koniec przentacji!
 
 
 ![image](https://user-images.githubusercontent.com/5669657/236608538-0e99b3fc-49e2-498e-9e6c-a6a5bf7ffffc.png)
@@ -419,14 +397,7 @@ Jak tego dokonać, odpowiedź na koniec przentacji!
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/66553873-5a35-402e-8dac-87712167c839)
 
-```mermaid
-mindmap
-  root((Bałagan))
-    Tło    
-    Cel
-    Różnice   
-    Architektura
-```
+
 
 Wprowadzenie do hipermodularyzacji
 
@@ -475,14 +446,6 @@ Modularyzacja to tworzenie sieci modułów. (Ilościowe)
 
 ### Architektura modułowa
 
-Architektura modułowa odnosi się do projektowania systemu składającego się z niezależnych jednostek, które można łączyć w celu stworzenia większego i bardziej złożonego systemu.
-Te niezależne jednostki nazywane są modułami i można je łatwo wymieniać lub modyfikować bez wpływu na cały system.
-
-Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, architekturą)
-**Hipermodularyzacja** narzuza metodykę tworzenia nowych modułów
-
-
-
 
 ### Problemy związane z modularyzacją, jak rozeznać granice?
 + [156. Wrocław JUG - Problemy wynikające z modularyzacji. - Łukasz Szydło - YouTube](https://www.youtube.com/watch?v=JJXmgCx_wh0)
@@ -490,33 +453,8 @@ Modularyzacja jest metodyką skupia się na samym zarządzaniu (systemem, archit
 
 #### Odwzorowanie
 
-W tej prezentacji przeznaczonej dla programistów można zaobserwować jak jest pojmowana modularyzacja w IT.
-Częstą praktyką jest wykorzystywanie dostępnych i znanych programiście wzorców, dopasowwywanie rzeczywistości pod wrzozec.
-Niestety taka praktyka w naturalny sposób prowadzi do tworzenia implementecji, kosztownych w utrzymaniu.
-
-Można tę sytuację porównać do klocków, gdzie chcąc odwzorować obiekt, np pojazd, używamy tylko dostępnym klocków.
-
-
-
 
 #### Kierunek oddziaływania modularyzacji na rzeczywistość
-
-W modularyzacji gdy braknie klocków to dostarczamy nowe, lepiej dopasowane poprzez hipermodularyzację.
-
-+ staramy się zmieniać rzeczywistość prowadząc zmiany w ograniczonym miejscu i czasie.
-+ Staramy się zawężać pole oddziaływania modularyzacji na rzeczywistość prowadząc do uszlachetnienia tylko części w danej chwili
-+ oddziałujemy tam gdzie jest to łatwiejsze, gdzie ingerencja nie jest znacząca, nie jest wymagany duży koszt
-
-UWAGA
-+ nie prowadzimy działań na całym systemie, gdyż interesuje nas elastyczność i sprężystość, odporność na wpływ z zewnątrz, chcemy uniknąć braku dostępu do zasobów
-+ korzystamy z tego co mamy, nie zmieniamy połączeń, które prowadzą do ryzyka
-
-
-
-
-
-
-
 
 
 
@@ -528,9 +466,6 @@ UWAGA
 
 # 6. Badanie - w jaki sposób?
 
-Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawowe zagadnienia, by podczas poszukiwań lepszych modułów w drodze hipermodularyzacji klarownie udokumentować rezultaty:
-
-## Słownictwo
 
 + Problem
 + Rozwiązanie
@@ -548,63 +483,8 @@ Jako badacz (researcher) poszukujący lepszych rozwiązań warto znać podstawow
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/ae0a7d54-91e6-4b83-a11a-2f2e3f74a46d)
 
-```mermaid
-mindmap
-  root((Badanie))
-    Problem
-    Rozwiązanie
-    Hipoteza
-    Procedura
-    Proces
-    Technika
-    Dyrektywa
-    Metoda
-    Metodyka
-    Metodologia
-```
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/a9e20f0a-c478-473f-8825-34780278a9a1)
-
-
-```mermaid
-stateDiagram
-     state Cel {        
-        Problem --> Rozwiązanie        
-    }
-    state Hipoteza {        
-        Stawianie --> Testowanie        
-    }
-    state Problem {        
-        Hipoteza
-    }
-    state Technika {        
-        Metoda --> Środowisko        
-    }
-    state Proces {
-        Procedura        
-    }
-    state Dyrektywa {
-        norma        
-        zakaz
-    }
-    state Procedura {        
-        Zadanie --> Czynność        
-    }
-    state Środowisko {
-        Dyrektywa        
-    }
-    state Rozwiązanie {        
-        Technika
-    }
-    state Metoda {
-        Proces
-    }
-```
-
-
-
-
-
 
 
 
@@ -638,78 +518,13 @@ Korzyści systemu opartego o hipermodularne elementy łączy te wszystkie korzy�
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/3b9c36e8-2a01-4384-a37a-d77b27647236)
 
-```mermaid
-mindmap
-  root((Badanie))
-    Zwinność
-    Odporność
-    Dostosowywanie
-    Współpraca
-    Elastyczność    
-    Skalowalność
-    Reużywalność    
-    Konserwacja
-    Decentralizacja    
-```
-
-
-
-#### Zwinność
-Hipermodularność pozwala na szybki rozwój i wdrażanie nowych funkcji i usług. Deweloperzy mogą pracować nad poszczególnymi modułami bez wpływu na cały system, co pozwala na szybszą iterację i dostarczanie.
-
-
-#### Odporność
-
-Systemy hipermodularne są bardziej odporne na awarie. Jeśli jeden moduł ulegnie awarii, można go łatwo wymienić na zapasowy lub nowy moduł, bez wpływu na resztę systemu.
-
-
-#### Dostosowywanie
-
-Hipermodularność pozwala na większą personalizację systemu. Moduły można dodawać, usuwać lub wymieniać, aby spełnić określone wymagania lub potrzeby biznesowe.
-
-
-#### Kooperacja
-
-Moduły mogą być tworzone i wdrażane osobno, a następnie łatwo wprowadzane do głównego systemu.
-Moduły można łatwo rozpowszechniać i udostępniać innym użytkownikom, co pozwala na bezproblemową współpracę, wymianę i wspólną pracę nad aplikacją.
-Hipermodularność zachęca do współpracy między programistami. Różne zespoły mogą pracować nad różnymi modułami, co ułatwia zarządzanie procesem rozwoju.
-
-
-#### Elastyczność
-
-Modułowa architektura pozwala na łatwą modyfikację i dostosowanie systemu. Dodawanie nowych funkcji, aktualizacja komponentów i naprawianie błędów może odbywać się bez zakłócania pracy całego systemu.
-
-
-#### Skalowalność
-
-Modułowa architektura wspiera skalowalność.
-Pozwala na dodawanie nowych modułów do systemu, czyniąc go zdolnym do obsługi zwiększonego obciążenia.
-
-
-#### Reużywalność
-
-+ ile z zasobów, które mamy, możemy ponownie użyć?
-+ Co w przypadku potrzeby naprawy, czy musimy wymieniać całość?
-  Możliwość ponownego użycia, Moduły mogą być używane w różnych systemach lub aplikacjach, oszczędzając czas i zasoby w procesie rozwoju.
-
-
-#### Konserwacja
-
-Modułowa architektura upraszcza konserwację.
-System można łatwo konserwować, wymieniając lub aktualizując moduł, którego dotyczy problem, bez wpływu na cały system.
-
-
-#### Decentralizacja
-
-Decentralizacja zwiększa modułowość aplikacji, co oznacza, że można je łatwiej dostosować do potrzeb i zadań.
-Decentralizacja także wpływa na bezpieczeństwo systemu, ponieważ moduły są oddzielone i izolowane, dzięki czemu zagrożenia są ograniczone do jednostkowych modułów.
-
 
 
 
 
 
 ## Decentralizacja a Modularyzacja
+
 + Czy decentralizacja jest zawsze modularna?
 + Co jeśli decentrazliacja nie jest przeprowadzona w modularny sposób?
 + Jak przebiega doskonalenie sieci zdecentralizowanej?
@@ -906,16 +721,6 @@ Galeria Przykładów **hipermodularyzacji**
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/0992ee1e-9d98-4b10-ad65-5dcae5497cd8)
 
 
-```mermaid
-mindmap
-  root((Przykłady))    
-    Software
-    Hardware
-    Przeprowadzka
-    Magazynowanie
-```
-
-
 #### Oprogramowanie:
 
 Moje projekty:
@@ -942,15 +747,6 @@ systemy układania
 
 + oddziaływanie forma <-> treść
 
-przenosimy w kartonach wszystkie rzeczy i nie mając starych mebli albo tylko część dodajemy nowe.
-Mamy możliwość poukładania wszystkich rzeczy w zależnośći od przeznaczenia lub/oraz właściciela:
-
-Tam gdzie jest własność wspólna, np. ręczniki, określamy miejsce w przestrzeni dostępne dla każdego
-Tam gdzie jest własność prywatna, odzież codzienna, określamy pokoje, które są używane przez konkretne osoby.
-Tam gdzie jest własność prywatna, ale używana w przestrzeni wspólnej, np buty, parasolki określamy ograniczone miejsce wspólne, korytarz.
-
-Stosowanie hipermodularyzacji pozwala na ułatwienie wielu procesów, związanych z umeblowaniem, re-nżacją, zmianą przeznaczenia.
-
 
 
 ### Magazynowanie
@@ -974,9 +770,6 @@ Modularne, mobilne skrzynki z materiałami do pracy
 [Mobilna serwerownia – militarity](https://militarity.com/index.php/2023/04/18/mobilna-serwerownia/)
 
 ##### Dlaczego?
-+ minipc - niski koszt w porównaniu do dedykowanych serwerów i podzespołów
-+ systemowe skrzynki - uniwersalność w porówaniu do dedykowanych rozwiązań
-+ mobilna infrastruktura - łatwość dostosowania
 
 + tylko potrzebne elementy systemu
   ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/be33655e-45eb-4dcb-aae5-d460de742d38)
@@ -986,10 +779,7 @@ Modularne, mobilne skrzynki z materiałami do pracy
 
 
 ##### Jedna warstwa zawiera:
-+ switch sieci lokalnej
-+ 3 x minipc do wirtualizacji i programowania
-+ przegrodę z aktywnym chłodzeniem
-+ listwę zasilającą
+
 
 ![image](https://github.com/hipermodularyzacja/prezentacja/assets/5669657/2fa7d7a4-9d26-4b56-ba4e-9378302faffb)
 
@@ -1010,67 +800,21 @@ Modularne, mobilne skrzynki z materiałami do pracy
 
 ## Metodyka w IT
 
-Życie w hiper-modułowym świecie oznacza, że nieustannie otacza nas coraz większa liczba wyspecjalizowanych modułów, które są ze sobą połączone, tworząc złożone systemy.
-Oto kilka sposobów zarządzania wszystkimi modułowymi elementami w hipermodułowym świecie:
-
-
 #### Rozwijaj modułowy sposób myślenia
-
-Rozbijaj złożone problemy na mniejsze, łatwiejsze i bardziej ekonomiczne w zarządzaniu elementy.
-Pomoże Ci to zrozumieć i zarządzać połączonymi ze sobą modułami systemu.
 
 #### Zapoznaj się z interfejsami
 
-W hiper-modułowym świecie ważne jest, aby zrozumieć, w jaki sposób różne moduły wchodzą ze sobą w interakcję.
-Dowiedz się o różnych typach interfejsów, takich jak interfejsy API lub protokoły, oraz o tym, jak działają.
-
-
 #### Korzystaj z narzędzi modułowych
-
-Używaj narzędzi modułowych do zarządzania różnymi modułami systemu.
-Obejmuje to narzędzia do kontroli wersji, testowania i wdrażania.
-
 
 #### Ćwicz projektowanie modułowe
 
-Korzystaj z zasad projektowania modułowego, aby tworzyć elastyczne i skalowalne systemy.
-Oznacza to podzielenie systemów na mniejsze, wyspecjalizowane moduły, które można łatwo wymienić lub zaktualizować.
-
-
 #### Współpracuj z innymi
-
-Współpraca jest kluczem w hiper-modułowym świecie.
-Współpracuj z innymi, aby dzielić się wiedzą i doświadczeniem w zarządzaniu różnymi modułami systemu.
-
 
 #### Nieustannie się ucz
 
-Hipermodułowy świat nieustannie ewoluuje.
-Stale poznawaj nowe technologie i techniki zarządzania systemami modułowymi.
-
-
-
 #### Różnicowanie
 
-porównuj i wyciągaj wnioski z różnic
-działa w dwóch obszarach na tych samych narzędziach i formach
-testuj stale monitorując sposób oddziaływania
-
-
-
 #### Przechodzenie pomiędzy poziomami
-
-Wchodzenie z poziomu treści na formę a nie pozostanie w jednym obszarze
-1. zmiana treści
-2. zmiana formy
-3. zmiana treści
-
-
-Przyjmując modułowy sposób myślenia, rozumiejąc interfejsy, używając modułowych narzędzi, ćwicząc modułowe projektowanie, współpracując z innymi i stale się ucząc, możesz skutecznie zarządzać wszystkimi modułowymi elementami w hipermodułowym świecie.
-
-
-
-
 
 
 
@@ -1104,7 +848,7 @@ Moduł
 ## Podsumowanie
 
 
-#### Sieć
+### Sieć
 
 
 + Ograniczaj -> Ulepszaj -> Powielaj
@@ -1118,7 +862,7 @@ Sieć
 
 
 
-#### Galąź (Proces)
+### Galąź (Node, Proces)
 
 
 + Identyfikuj -> Dziel -> Łącz
@@ -1134,7 +878,7 @@ Gałąź
 
 
 
-#### Moduł (Hipermodularyzacja)
+### Moduł (Hipermodularyzacja)
 
 + Projektuj -> Buduj -> Testuj -> Integruj
 

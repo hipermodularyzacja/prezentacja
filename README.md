@@ -343,7 +343,7 @@ O ile rezultatem powyższych wyborów jest zaangażowanie jednorazowe o tyle w m
 + [Źródło: SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics)
 
 
-### Rozwój oprogramowania
+#### Rozwój oprogramowania
 
 W rozwoju oprogramowania modułowość jest często używana do tworzenia komponentów wielokrotnego użytku, które można łatwo zintegrować z różnymi aplikacjami. 
 Z drugiej strony, hipermodularność jest często używana do rozbijania złożonych aplikacji na mniejsze, wyspecjalizowane mikroserwisy, które mogą być rozwijane i wdrażane niezależnie.
@@ -369,19 +369,19 @@ W systemach, gdzie tworzy się równolegle rozwiązania specjalizowane: technolo
 + Automaty, Roboty, Cyfrowe Bliźniaki, Digital Twin
 
 
-### Projektowanie produktów
+#### Projektowanie produktów
 
 W projektowaniu produktów modularność jest często wykorzystywana do tworzenia produktów z wymiennymi częściami, które można łatwo wymienić lub uaktualnić. 
 Z drugiej strony, hipermodularność jest często używana do tworzenia produktów z wysoce konfigurowalnymi funkcjami i opcjami.
 
 
-### Zarządzanie projektami
+#### Zarządzanie projektami
 
 W zarządzaniu projektami modułowość jest często wykorzystywana do rozbijania projektu na mniejsze, łatwe do zarządzania zadania, które można przypisać różnym członkom zespołu. 
 Z drugiej strony, hipermodułowość jest często używana do tworzenia wysoce zwinnych i adaptowalnych przepływów pracy w projekcie, które mogą być łatwo dostosowane i skorygowane w oparciu o zmieniające się wymagania.
 
 
-### Magazynowanie
+#### Magazynowanie
 
 Codzienne problemy są związane nie tylko z tworzeniem ale też zarządzaniem, które pozwala m.in. na zamianie dużego bałaganu w mniejsze lokalne bałagany
 Kontekst powstania tego małego bałaganu pozwala na specjalizacje procesu uporządkowania.
