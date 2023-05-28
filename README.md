@@ -467,7 +467,7 @@ Droga do automatyzacji zaczyna się od modularyzacji, ponieważ, zanim będziemy
 
 ##### Modularyzacja w budowaniu systemów
 
-**Modularyzacja** zajmuje się tworzeniem sieci modułów, **Hiermodularyzacja** wchodzi istotę samych modułów, determinuje ich powstawanie, narzuca standardy.
+**Modularyzacja** zajmuje się tworzeniem sieci modułów, **Hiermodularyzacja** wchodzi w istotę samych modułów, determinuje ich powstawanie, narzuca standardy.
 
 Modularyzacja to tworzenie sieci modułów. (Ilościowe)
 
